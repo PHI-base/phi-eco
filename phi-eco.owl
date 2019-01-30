@@ -12,7 +12,7 @@ Annotation(<http://www.geneontology.org/formats/oboInOwl#date> "20:03:2018 22:09
 Annotation(<http://www.geneontology.org/formats/oboInOwl#default-namespace> "phenotype_condition"^^xsd:string)
 Annotation(<http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion> "1.2"^^xsd:string)
 Annotation(<http://www.geneontology.org/formats/oboInOwl#saved-by> "antonia"^^xsd:string)
-Annotation(rdfs:comment "FYPOpeco snapshot taken 18_06_2018 and modifications are being made for PHI_FYPOpeco by alaynecuzick"^^xsd:string)
+Annotation(rdfs:comment "FYPOpeco snapshot taken 18_06_2018 and modifications are being made for PHI-eco by alaynecuzick"^^xsd:string)
 
 Declaration(Class(<http://purl.obolibrary.org/obo/PECO_0000001>))
 Declaration(Class(<http://purl.obolibrary.org/obo/PECO_0000002>))
@@ -367,6 +367,15 @@ Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005015>))
 Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005016>))
 Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005017>))
 Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005018>))
+Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005019>))
+Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005020>))
+Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005021>))
+Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005022>))
+Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005023>))
+Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005024>))
+Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005025>))
+Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005026>))
+Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005027>))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/IAO_0000115>))
 Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/IAO_0000231>))
@@ -4473,6 +4482,79 @@ to
 'An experimental condition in which methyl jasmonate was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://www.purl.obolibrary.org/obo/PECO_0005018> "+ methyl jasmonate"^^xsd:string)
 SubClassOf(<http://www.purl.obolibrary.org/obo/PECO_0005018> <http://purl.obolibrary.org/obo/PECO_0000109>)
+
+# Class: <http://www.purl.obolibrary.org/obo/PECO_0005019> (+ phenylmethanesulfonyl fluoride)
+
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.purl.obolibrary.org/obo/PECO_0005019> "alaynecuzick"^^xsd:string)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.purl.obolibrary.org/obo/PECO_0005019> "2019-01-25T13:33:23Z"^^xsd:dateTime)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.purl.obolibrary.org/obo/PECO_0005019> "+ PMSF")
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.purl.obolibrary.org/obo/PECO_0005019> "phenotype_condition")
+AnnotationAssertion(rdfs:label <http://www.purl.obolibrary.org/obo/PECO_0005019> "+ phenylmethanesulfonyl fluoride"@en)
+SubClassOf(<http://www.purl.obolibrary.org/obo/PECO_0005019> <http://purl.obolibrary.org/obo/PECO_0000109>)
+
+# Class: <http://www.purl.obolibrary.org/obo/PECO_0005020> (minimal medium)
+
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.purl.obolibrary.org/obo/PECO_0005020> "alaynecuzick"^^xsd:string)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.purl.obolibrary.org/obo/PECO_0005020> "2019-01-25T13:39:33Z"^^xsd:dateTime)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.purl.obolibrary.org/obo/PECO_0005020> "phenotype_condition")
+AnnotationAssertion(rdfs:label <http://www.purl.obolibrary.org/obo/PECO_0005020> "minimal medium"@en)
+SubClassOf(<http://www.purl.obolibrary.org/obo/PECO_0005020> <http://purl.obolibrary.org/obo/PECO_0000013>)
+
+# Class: <http://www.purl.obolibrary.org/obo/PECO_0005021> (potato dextrose medium)
+
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.purl.obolibrary.org/obo/PECO_0005021> "alaynecuzick"^^xsd:string)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.purl.obolibrary.org/obo/PECO_0005021> "2019-01-25T13:41:25Z"^^xsd:dateTime)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.purl.obolibrary.org/obo/PECO_0005021> "phenotype_condition")
+AnnotationAssertion(rdfs:label <http://www.purl.obolibrary.org/obo/PECO_0005021> "potato dextrose medium"@en)
+SubClassOf(<http://www.purl.obolibrary.org/obo/PECO_0005021> <http://purl.obolibrary.org/obo/PECO_0000013>)
+
+# Class: <http://www.purl.obolibrary.org/obo/PECO_0005022> (complete medium)
+
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.purl.obolibrary.org/obo/PECO_0005022> "alaynecuzick"^^xsd:string)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.purl.obolibrary.org/obo/PECO_0005022> "2019-01-25T13:42:17Z"^^xsd:dateTime)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.purl.obolibrary.org/obo/PECO_0005022> "phenotype_condition")
+AnnotationAssertion(rdfs:label <http://www.purl.obolibrary.org/obo/PECO_0005022> "complete medium"@en)
+SubClassOf(<http://www.purl.obolibrary.org/obo/PECO_0005022> <http://purl.obolibrary.org/obo/PECO_0000013>)
+
+# Class: <http://www.purl.obolibrary.org/obo/PECO_0005023> (starch yeast medium)
+
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.purl.obolibrary.org/obo/PECO_0005023> "alaynecuzick"^^xsd:string)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.purl.obolibrary.org/obo/PECO_0005023> "2019-01-25T13:42:41Z"^^xsd:dateTime)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.purl.obolibrary.org/obo/PECO_0005023> "phenotype_condition")
+AnnotationAssertion(rdfs:label <http://www.purl.obolibrary.org/obo/PECO_0005023> "starch yeast medium"@en)
+SubClassOf(<http://www.purl.obolibrary.org/obo/PECO_0005023> <http://purl.obolibrary.org/obo/PECO_0000013>)
+
+# Class: <http://www.purl.obolibrary.org/obo/PECO_0005024> (+ carboxymethyl cellulose)
+
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.purl.obolibrary.org/obo/PECO_0005024> "alaynecuzick"^^xsd:string)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.purl.obolibrary.org/obo/PECO_0005024> "2019-01-25T13:44:24Z"^^xsd:dateTime)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.purl.obolibrary.org/obo/PECO_0005024> "phenotype_condition")
+AnnotationAssertion(rdfs:label <http://www.purl.obolibrary.org/obo/PECO_0005024> "+ carboxymethyl cellulose"@en)
+SubClassOf(<http://www.purl.obolibrary.org/obo/PECO_0005024> <http://purl.obolibrary.org/obo/PECO_0000109>)
+
+# Class: <http://www.purl.obolibrary.org/obo/PECO_0005025> (trichothecene biosynthesis medium)
+
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.purl.obolibrary.org/obo/PECO_0005025> "alaynecuzick"^^xsd:string)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.purl.obolibrary.org/obo/PECO_0005025> "2019-01-25T13:46:00Z"^^xsd:dateTime)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.purl.obolibrary.org/obo/PECO_0005025> "phenotype_condition")
+AnnotationAssertion(rdfs:label <http://www.purl.obolibrary.org/obo/PECO_0005025> "trichothecene biosynthesis medium"@en)
+SubClassOf(<http://www.purl.obolibrary.org/obo/PECO_0005025> <http://purl.obolibrary.org/obo/PECO_0000013>)
+
+# Class: <http://www.purl.obolibrary.org/obo/PECO_0005026> (carrot medium)
+
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.purl.obolibrary.org/obo/PECO_0005026> "alaynecuzick"^^xsd:string)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.purl.obolibrary.org/obo/PECO_0005026> "2019-01-25T13:47:05Z"^^xsd:dateTime)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.purl.obolibrary.org/obo/PECO_0005026> "phenotype_condition")
+AnnotationAssertion(rdfs:label <http://www.purl.obolibrary.org/obo/PECO_0005026> "carrot medium"@en)
+SubClassOf(<http://www.purl.obolibrary.org/obo/PECO_0005026> <http://purl.obolibrary.org/obo/PECO_0000013>)
+
+# Class: <http://www.purl.obolibrary.org/obo/PECO_0005027> (+ dithiothreitol)
+
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.purl.obolibrary.org/obo/PECO_0005027> "alaynecuzick"^^xsd:string)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.purl.obolibrary.org/obo/PECO_0005027> "2019-01-25T13:48:53Z"^^xsd:dateTime)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.purl.obolibrary.org/obo/PECO_0005027> "phenotype_condition")
+AnnotationAssertion(rdfs:label <http://www.purl.obolibrary.org/obo/PECO_0005027> "+ dithiothreitol"@en)
+SubClassOf(<http://www.purl.obolibrary.org/obo/PECO_0005027> <http://purl.obolibrary.org/obo/PECO_0000109>)
 
 
 )
