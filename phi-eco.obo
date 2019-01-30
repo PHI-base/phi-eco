@@ -4,7 +4,7 @@ saved-by: antonia
 auto-generated-by: OBO-Edit 2.3.1
 subsetdef: Grouping_terms "The grouping terms are high level terms not used for direct annotation but for grouping purposes in the ontology."
 default-namespace: phenotype_condition
-remark: FYPOpeco snapshot taken 18_06_2018 and modifications are being made for PHI_FYPOpeco by alaynecuzick
+remark: FYPOpeco snapshot taken 18_06_2018 and modifications are being made for PHI-eco by alaynecuzick
 ontology: peco
 
 [Term]
@@ -146,7 +146,7 @@ creation_date: 2012-02-07T12:41:33Z
 id: PECO:0000015
 name: sporulation medium
 def: "Experiments were performed in defined medium promoting mating and sporulation." []
-comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
+comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "malt extract medium" NARROW []
 synonym: "mating medium" RELATED []
 synonym: "SPA medium" NARROW []
@@ -158,7 +158,7 @@ creation_date: 2012-02-07T01:35:35Z
 id: PECO:0000016
 name: high glucose MM
 def: "Experiments were performed in minimal medium containing a high concentration of glucose (~5-8% typically) as carbon source, salts and water." []
-comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
+comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "high glucose minimal medium" EXACT []
 is_a: PECO:0000013 ! grouping - defined medium
 created_by: antonialock
@@ -636,7 +636,7 @@ creation_date: 2012-02-19T10:45:53Z
 id: PECO:0000072
 name: glycerol MM with trace glucose
 def: "Experiments were performed in minimal medium where glycerol is the main carbon source, but the medium also contained trace amounts of glucose (<0.1%)." []
-comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
+comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "glycerol main carbon source + very low glucose MM" EXACT []
 synonym: "glycerol minimal medium with trace glucose" EXACT []
 is_a: PECO:0000013 ! grouping - defined medium
@@ -647,7 +647,7 @@ creation_date: 2012-02-27T12:12:17Z
 id: PECO:0000073
 name: DHA minimal medium
 def: "Experiments were performed in minimal medium where DHA (dihydroxyacetone) is the main carbon source." []
-comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
+comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "DHA MM" EXACT []
 synonym: "dihydroxyacetone MM" EXACT []
 synonym: "dihydroxyactone minimal medium" EXACT []
@@ -717,7 +717,7 @@ creation_date: 2012-03-14T01:33:58Z
 id: PECO:0000081
 name: low glucose YES
 def: "Experiments were performed in rich medium containing yeast extract and other components. The concentration of glucose is very low (eg around 0.1%)." []
-comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
+comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "low glucose rich medium" RELATED []
 synonym: "low glucose YE" RELATED []
 is_a: PECO:0000080 ! grouping rich medium
@@ -920,7 +920,7 @@ creation_date: 2012-05-04T07:53:10Z
 id: PECO:0000104
 name: low glucose MM
 def: "Experiments were performed in minimal medium containing a low concentration of glucose (~0.5%) as carbon source, salts and water." []
-comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
+comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "low glucose minimal medium" EXACT []
 is_a: PECO:0000013 ! grouping - defined medium
 created_by: antonialock
@@ -966,7 +966,7 @@ creation_date: 2012-05-11T03:03:12Z
 id: PECO:0000109
 name: grouping excess
 def: "This is a grouping term, do not use for annotation." []
-comment: AC_Note: 'grouping excess' chemical defs appear to be added to medium or buffer rather than to 'organism' eg adding Salicylic acid to a host prior to pathogen inoculation.\n\nNote that this term includes both when the chemical is not normally present in the buffer, or when the buffer normally contains much lower quantities of the chemical so that the chemical is added 'in excess'.
+comment: AC_Note: 'grouping excess' chemical defs appear to be added to medium or buffer rather than to 'organism' eg adding Salicylic acid to a host prior to pathogen inoculation.\n\nNote that this term includes both when the chemical is not normally present in the buffer, or when the buffer normally contains much lower quantities of the chemical so that the chemical is added 'in excess'.
 subset: Grouping_terms
 is_a: PECO:0000059 ! chemical added or excluded
 created_by: antonialock
@@ -1225,7 +1225,7 @@ creation_date: 2012-06-14T20:26:46Z
 id: PECO:0000136
 name: raffinose YE
 def: "Experiments were performed in rich medium containing raffinose as the carbon source, yeast extract and other components. The concentration of raffinose is typically around 2%." []
-comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
+comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "raffinose rich medium" BROAD []
 is_a: PECO:0000080 ! grouping rich medium
 created_by: antonialock
@@ -1268,7 +1268,7 @@ creation_date: 2012-06-14T20:38:23Z
 id: PECO:0000139
 name: glycerol and ethanol rich medium
 def: "Experiments were performed in rich medium containing glycerol and ethanol as the carbon sources, yeast extract and other components." []
-comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
+comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "glycerol + ethanol YE" RELATED []
 synonym: "glycerol and ethanol YE" RELATED []
 synonym: "non-fermentable glycerol and ethanol rich medium" EXACT []
@@ -1316,7 +1316,7 @@ creation_date: 2012-06-19T15:23:58Z
 id: PECO:0000144
 name: sucrose YE
 def: "Experiments were performed in rich medium containing raffinose as the carbon source, yeast extract and other components. The concentration of sucrose is typically around 2%." []
-comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
+comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "sucrose rich medium" BROAD []
 is_a: PECO:0000080 ! grouping rich medium
 created_by: antonialock
@@ -1326,7 +1326,7 @@ creation_date: 2012-06-19T15:26:15Z
 id: PECO:0000145
 name: maltose MM
 def: "Experiments were performed in medium containing maltose, salts and water. May be supplemented with a set of amino acids as per the auxotrophic requirements of the strain." []
-comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
+comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "maltose minimal medium" EXACT []
 is_a: PECO:0000013 ! grouping - defined medium
 created_by: antonialock
@@ -1336,7 +1336,7 @@ creation_date: 2012-06-19T16:25:41Z
 id: PECO:0000146
 name: trehalose MM
 def: "Experiments were performed in defined medium containing trehalose, salts and water. May be supplemented with a set of amino acids as per the auxotrophic requirements of the strain." []
-comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
+comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "trehalose minimal medium" EXACT []
 is_a: PECO:0000013 ! grouping - defined medium
 created_by: antonialock
@@ -1346,7 +1346,7 @@ creation_date: 2012-06-19T16:26:05Z
 id: PECO:0000147
 name: sucrose MM
 def: "Experiments were performed in defined medium containing sucrose, salts and water. May be supplemented with a set of amino acids as per the auxotrophic requirements of the strain." []
-comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
+comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "sucrose minimal medium" EXACT []
 is_a: PECO:0000013 ! grouping - defined medium
 created_by: antonialock
@@ -1356,7 +1356,7 @@ creation_date: 2012-06-19T16:26:22Z
 id: PECO:0000148
 name: galactose rich medium with trace glucose
 def: "Experiments were performed in rich medium containing galactose and glucose as the carbon sources, yeast extract and other components. The concentration of galactose is typically around 2%, whereas the concentration of glucose is very low - around 0.1%." []
-comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
+comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "non-fermentable galactose and very low glucose rich medium" EXACT []
 synonym: "nonfermentable galactose and very low glucose rich medium" EXACT []
 synonym: "YpGalA" NARROW []
@@ -2986,7 +2986,7 @@ creation_date: 2018-03-20T22:06:35Z
 id: PECO:0005001
 name: study type
 def: "A phenotype experimental condition or set of conditions describing what kind of organism growth facility was used for the experiment." []
-comment: Changed text from\n'A plant experimental condition (PECO:0007359) or set of conditions describing what kind of plant growth facility was used for the experiment.'\nto\n'A phenotype experimental condition or set of conditions describing what kind of organism growth facility was used for the experiment.'\n\n'This is a grouping term, please do not use for annotation.'\nShould this be in 'definition' to be consistent with FYPOeco?
+comment: Changed text from\n'A plant experimental condition (PECO:0007359) or set of conditions describing what kind of plant growth facility was used for the experiment.'\nto\n'A phenotype experimental condition or set of conditions describing what kind of organism growth facility was used for the experiment.'\n\n'This is a grouping term, please do not use for annotation.'\nShould this be in 'definition' to be consistent with FYPOeco?
 is_a: PECO:0000001 ! phenotype condition
 created_by: alaynecuzick
 creation_date: 2018-06-19T09:38:03Z
@@ -2995,7 +2995,7 @@ creation_date: 2018-06-19T09:38:03Z
 id: PECO:0005002
 name: ecosystem study
 def: "The treatment where the organisms were grown under natural ecosystem conditions. This may involve supplemental treatments in addition to any naturally occurring conditions" []
-comment: Adapted from plant_experimental_conditions_ontology 'field study' PECO:0007256.\nChanged \n'The treatment where the plants were grown under field conditions. This may involve supplemental treatments in addition to any naturally occurring conditions.'\nto\n'The treatment where the organisms were grown under natural ecosystem conditions. This may involve supplemental treatments in addition to any naturally occurring conditions.'\n\ncan field apply to plants and livestock. What about fish? I assume in the 'field' refers to any 'natural ecosystem' therefore including water. Change term from field to ecosystem and modify definition.\n\nThis is species neutral
+comment: Adapted from plant_experimental_conditions_ontology 'field study' PECO:0007256.\nChanged \n'The treatment where the plants were grown under field conditions. This may involve supplemental treatments in addition to any naturally occurring conditions.'\nto\n'The treatment where the organisms were grown under natural ecosystem conditions. This may involve supplemental treatments in addition to any naturally occurring conditions.'\n\ncan field apply to plants and livestock. What about fish? I assume in the 'field' refers to any 'natural ecosystem' therefore including water. Change term from field to ecosystem and modify definition.\n\nThis is species neutral
 is_a: PECO:0005001 ! study type
 created_by: alaynecuzick
 creation_date: 2018-06-19T09:38:32Z
@@ -3004,7 +3004,7 @@ creation_date: 2018-06-19T09:38:32Z
 id: PECO:0005003
 name: laboratory study
 def: "The treatment where the organisms were grown under laboratory / open room conditions, with very few controlled parameters. This may involve supplemental treatments in addition to any naturally occurring conditions." []
-comment: Adapted from plant_experimental_conditions_ontology PECO:0007255.\nChanged 'plants' to 'organisms'.\n\nThis is species neutral.
+comment: Adapted from plant_experimental_conditions_ontology PECO:0007255.\nChanged 'plants' to 'organisms'.\n\nThis is species neutral.
 is_a: PECO:0005001 ! study type
 created_by: alaynecuzick
 creation_date: 2018-06-19T09:38:59Z
@@ -3013,7 +3013,7 @@ creation_date: 2018-06-19T09:38:59Z
 id: PECO:0005004
 name: fully controlled environment study
 def: "The treatment involving study type in which organisms were grown in fully controlled environmental conditions." []
-comment: Adapted from plant_experimental_conditions_ontology 'growth chamber study' PECO:0007269.\nChanged\n'The treatment involving study type in which plants were grown in growth chambers.'\nto\n'The treatment involving study type in which organisms were grown in fully controlled environmental conditions.'\n\nThis is species neutral.
+comment: Adapted from plant_experimental_conditions_ontology 'growth chamber study' PECO:0007269.\nChanged\n'The treatment involving study type in which plants were grown in growth chambers.'\nto\n'The treatment involving study type in which organisms were grown in fully controlled environmental conditions.'\n\nThis is species neutral.
 is_a: PECO:0005001 ! study type
 created_by: alaynecuzick
 creation_date: 2018-06-19T09:39:16Z
@@ -3022,7 +3022,7 @@ creation_date: 2018-06-19T09:39:16Z
 id: PECO:0005005
 name: unknown study type
 def: "The treatment involving study type where nothing is known in the reported literature/study about the kind of growth facilities used." []
-comment: Adapted from plant_experimental_conditions_ontology PECO:0007280.\nDefinition unchanged.\n\nThis is species neutral.
+comment: Adapted from plant_experimental_conditions_ontology PECO:0007280.\nDefinition unchanged.\n\nThis is species neutral.
 is_a: PECO:0005001 ! study type
 created_by: alaynecuzick
 creation_date: 2018-06-19T09:39:57Z
@@ -3031,7 +3031,7 @@ creation_date: 2018-06-19T09:39:57Z
 id: PECO:0005006
 name: semi controlled environment study
 def: "The treatment where the organisms were grown under semi controlled environmental conditions. This may involve supplemental treatments in addition to any standard conditions." []
-comment: Adapted from plant_experimental_conditions_ontology 'greenhouse study' PECO:0007248.\nChanged from\n'The treatment where the plants were grown under greenhouse conditions. This may involve supplemental treatments in addition to any standard conditions.'\nto\n'The treatment where the organisms were grown under semi controlled environmental conditions. This may involve supplemental treatments in addition to any standard conditions.'\n\nIs this too 'plant specific'? Aiming for species neutral.  Changed from greenhouse to semi controlled environment study\n\nThis is species neutral
+comment: Adapted from plant_experimental_conditions_ontology 'greenhouse study' PECO:0007248.\nChanged from\n'The treatment where the plants were grown under greenhouse conditions. This may involve supplemental treatments in addition to any standard conditions.'\nto\n'The treatment where the organisms were grown under semi controlled environmental conditions. This may involve supplemental treatments in addition to any standard conditions.'\n\nIs this too 'plant specific'? Aiming for species neutral.  Changed from greenhouse to semi controlled environment study\n\nThis is species neutral
 is_a: PECO:0005001 ! study type
 created_by: alaynecuzick
 creation_date: 2018-06-19T09:40:49Z
@@ -3040,7 +3040,7 @@ creation_date: 2018-06-19T09:40:49Z
 id: PECO:0005007
 name: continuous dark (no light) exposure
 def: "The treatment involving continuous exposure to darkness (no light) to the organism." []
-comment: Adapted from plant_experimental_conditions_ontology PECO:0007270.\nChanged 'plant' to 'organism'.
+comment: Adapted from plant_experimental_conditions_ontology PECO:0007270.\nChanged 'plant' to 'organism'.
 is_a: PECO:0000132 ! grouping experimental environment
 created_by: alaynecuzick
 creation_date: 2018-06-19T11:00:18Z
@@ -3049,7 +3049,7 @@ creation_date: 2018-06-19T11:00:18Z
 id: PECO:0005008
 name: continuous light exposure
 def: "The treatment involving continuous exposure of light to the organism." []
-comment: Adapted from plant_experimental_conditions_ontology PECO:0007162.\nChanged 'plant' to 'organism'.\n\nNote: light exposure itself also has child terms for 'IR, UV and visible light' if we need this detail.
+comment: Adapted from plant_experimental_conditions_ontology PECO:0007162.\nChanged 'plant' to 'organism'.\n\nNote: light exposure itself also has child terms for 'IR, UV and visible light' if we need this detail.
 is_a: PECO:0000132 ! grouping experimental environment
 created_by: alaynecuzick
 creation_date: 2018-06-19T11:01:36Z
@@ -3058,7 +3058,7 @@ creation_date: 2018-06-19T11:01:36Z
 id: PECO:0005009
 name: intermittent light exposure
 def: "In biological experiments it refer to the intermittent exposure of organism to the cycles of light and dark or one light Vs the another type of light." []
-comment: Adapted from plant_experimental_conditions_ontology PECO:0007128.\nChanged 'plant' to 'organism'.\n\nCan also be broken down into further child terms for 'day light', 'long day length' and 'short day length' but his may be too plant specific. Aim for species neutral.
+comment: Adapted from plant_experimental_conditions_ontology PECO:0007128.\nChanged 'plant' to 'organism'.\n\nCan also be broken down into further child terms for 'day light', 'long day length' and 'short day length' but his may be too plant specific. Aim for species neutral.
 is_a: PECO:0000132 ! grouping experimental environment
 created_by: alaynecuzick
 creation_date: 2018-06-19T11:02:10Z
@@ -3067,7 +3067,7 @@ creation_date: 2018-06-19T11:02:10Z
 id: PECO:0005010
 name: + salicylic acid
 def: "An experimental condition in which salicylic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
-comment: Adapted from plant_experimental_conditions_ontology PECO:0007187.\n\nModified FYPOpecoPECO:0000149 definition\n'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'\n\nto\n\n'An experimental condition in which salicylic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'\n\nNote: 'grouping excess' chemical defs appear to be added to medium or buffer rather than to 'organism' eg adding Salicylic acid to a host prior to pathogen inoculation.
+comment: Adapted from plant_experimental_conditions_ontology PECO:0007187.\n\nModified FYPOpecoPECO:0000149 definition\n'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'\n\nto\n\n'An experimental condition in which salicylic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'\n\nNote: 'grouping excess' chemical defs appear to be added to medium or buffer rather than to 'organism' eg adding Salicylic acid to a host prior to pathogen inoculation.
 is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2018-06-19T11:33:45Z
@@ -3076,7 +3076,7 @@ creation_date: 2018-06-19T11:33:45Z
 id: PECO:0005011
 name: + jasmonic acid
 def: "An experimental condition in which jasmonic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
-comment: Adapted from plant_experimental_conditions_ontology PECO:0007080.\n\nModified FYPOpecoPECO:0000149 definition\n'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'\n\nto\n\n'An experimental condition in which jasmonic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'
+comment: Adapted from plant_experimental_conditions_ontology PECO:0007080.\n\nModified FYPOpecoPECO:0000149 definition\n'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'\n\nto\n\n'An experimental condition in which jasmonic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'
 is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2018-06-19T12:00:57Z
@@ -3085,7 +3085,7 @@ creation_date: 2018-06-19T12:00:57Z
 id: PECO:0005012
 name: + gibberellic acid
 def: "An experimental condition in which gibberellic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
-comment: Adapted from plant_experimental_conditions_ontology PECO:0007069.\n\nModified FYPOpecoPECO:0000149 definition\n'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'\n\nto\n\n'An experimental condition in which gibberellic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'
+comment: Adapted from plant_experimental_conditions_ontology PECO:0007069.\n\nModified FYPOpecoPECO:0000149 definition\n'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'\n\nto\n\n'An experimental condition in which gibberellic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'
 is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2018-06-19T12:02:11Z
@@ -3094,7 +3094,7 @@ creation_date: 2018-06-19T12:02:11Z
 id: PECO:0005013
 name: + ethylene
 def: "An experimental condition in which ethylene gas was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
-comment: Adapted from plant_experimental_conditions_ontology PECO:0007068.\n\nModified FYPOpecoPECO:0000149 definition\n'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'\n\nto\n\n'An experimental condition in which ethylene gas was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'
+comment: Adapted from plant_experimental_conditions_ontology PECO:0007068.\n\nModified FYPOpecoPECO:0000149 definition\n'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'\n\nto\n\n'An experimental condition in which ethylene gas was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'
 is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2018-06-19T12:02:40Z
@@ -3103,7 +3103,7 @@ creation_date: 2018-06-19T12:02:40Z
 id: PECO:0005014
 name: + cytokinin
 def: "An experimental condition in which cytokinin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
-comment: Adapted from plant_experimental_conditions_ontology PECO:0007066.\n\nModified FYPOpecoPECO:0000149 definition\n'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'\n\nto\n\n'An experimental condition in which cytokinin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'
+comment: Adapted from plant_experimental_conditions_ontology PECO:0007066.\n\nModified FYPOpecoPECO:0000149 definition\n'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'\n\nto\n\n'An experimental condition in which cytokinin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'
 is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2018-06-19T12:03:33Z
@@ -3112,7 +3112,7 @@ creation_date: 2018-06-19T12:03:33Z
 id: PECO:0005015
 name: + brassinosteroid
 def: "An experimental condition in which brassinosteroid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
-comment: Adapted from plant_experimental_conditions_ontology PECO:0007409.\n\nModified FYPOpecoPECO:0000149 definition\n'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'\n\nto\n\n'An experimental condition in which brassinosteroid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'
+comment: Adapted from plant_experimental_conditions_ontology PECO:0007409.\n\nModified FYPOpecoPECO:0000149 definition\n'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'\n\nto\n\n'An experimental condition in which brassinosteroid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'
 is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2018-06-19T12:04:14Z
@@ -3121,7 +3121,7 @@ creation_date: 2018-06-19T12:04:14Z
 id: PECO:0005016
 name: + auxin
 def: "An experimental condition in which auxin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
-comment: Adapted from plant_experimental_conditions_ontology PECO:0007074.\n\nModified FYPOpecoPECO:0000149 definition\n'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'\n\nto\n\n'An experimental condition in which auxin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'
+comment: Adapted from plant_experimental_conditions_ontology PECO:0007074.\n\nModified FYPOpecoPECO:0000149 definition\n'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'\n\nto\n\n'An experimental condition in which auxin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'
 is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2018-06-19T12:04:24Z
@@ -3130,7 +3130,7 @@ creation_date: 2018-06-19T12:04:24Z
 id: PECO:0005017
 name: + abscisic acid
 def: "An experimental condition in which abscisic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
-comment: Adapted from plant_experimental_conditions_ontology PECO:0007105.\n\nModified FYPOpecoPECO:0000149 definition\n'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'\n\nto\n\n'An experimental condition in which abscisic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'
+comment: Adapted from plant_experimental_conditions_ontology PECO:0007105.\n\nModified FYPOpecoPECO:0000149 definition\n'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'\n\nto\n\n'An experimental condition in which abscisic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'
 is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2018-06-19T12:04:54Z
@@ -3139,10 +3139,74 @@ creation_date: 2018-06-19T12:04:54Z
 id: PECO:0005018
 name: + methyl jasmonate
 def: "An experimental condition in which methyl jasmonate was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
-comment: Adapted from plant_experimental_conditions_ontology PECO:0007407.\n\nModified FYPOpecoPECO:0000149 definition\n'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'\n\nto\n\n'An experimental condition in which methyl jasmonate was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'
+comment: Adapted from plant_experimental_conditions_ontology PECO:0007407.\n\nModified FYPOpecoPECO:0000149 definition\n'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'\n\nto\n\n'An experimental condition in which methyl jasmonate was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'
 is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2018-06-19T12:06:18Z
+
+[Term]
+id: PECO:0005019
+name: + phenylmethanesulfonyl fluoride
+synonym: "+ PMSF" EXACT []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-01-25T13:33:23Z
+
+[Term]
+id: PECO:0005020
+name: minimal medium
+is_a: PECO:0000013 ! grouping - defined medium
+created_by: alaynecuzick
+creation_date: 2019-01-25T13:39:33Z
+
+[Term]
+id: PECO:0005021
+name: potato dextrose medium
+is_a: PECO:0000013 ! grouping - defined medium
+created_by: alaynecuzick
+creation_date: 2019-01-25T13:41:25Z
+
+[Term]
+id: PECO:0005022
+name: complete medium
+is_a: PECO:0000013 ! grouping - defined medium
+created_by: alaynecuzick
+creation_date: 2019-01-25T13:42:17Z
+
+[Term]
+id: PECO:0005023
+name: starch yeast medium
+is_a: PECO:0000013 ! grouping - defined medium
+created_by: alaynecuzick
+creation_date: 2019-01-25T13:42:41Z
+
+[Term]
+id: PECO:0005024
+name: + carboxymethyl cellulose
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-01-25T13:44:24Z
+
+[Term]
+id: PECO:0005025
+name: trichothecene biosynthesis medium
+is_a: PECO:0000013 ! grouping - defined medium
+created_by: alaynecuzick
+creation_date: 2019-01-25T13:46:00Z
+
+[Term]
+id: PECO:0005026
+name: carrot medium
+is_a: PECO:0000013 ! grouping - defined medium
+created_by: alaynecuzick
+creation_date: 2019-01-25T13:47:05Z
+
+[Term]
+id: PECO:0005027
+name: + dithiothreitol
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-01-25T13:48:53Z
 
 [Typedef]
 id: part_of
