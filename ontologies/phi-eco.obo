@@ -3208,6 +3208,30 @@ is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2019-01-25T13:48:53Z
 
+[Term]
+id: PECO:0005028
+name: agrobacterium-mediated transient coexpression assay
+def: "The treatment involving study type in which gene products were transiently expressed using agrobacterium mediated delivery into the organism." []
+is_a: PECO:0005001 ! study type
+created_by: alaynecuzick
+creation_date: 2019-02-27T10:58:55Z
+
+[Term]
+id: PECO:0005029
+name: tobacco host assay
+def: "The treatment involving study type in which organisms or gene products were assayed in a tobacco host." []
+is_a: PECO:0005001 ! study type
+created_by: alaynecuzick
+creation_date: 2019-02-27T10:59:19Z
+
+[Term]
+id: PECO:0005030
+name: host assay in leaf
+def: "The treatment involving study type in which organisms or gene products were assayed in a host leaf." []
+is_a: PECO:0005001 ! study type
+created_by: alaynecuzick
+creation_date: 2019-02-27T10:59:35Z
+
 [Typedef]
 id: part_of
 name: part_of
