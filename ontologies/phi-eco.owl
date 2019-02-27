@@ -376,6 +376,9 @@ Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005024>))
 Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005025>))
 Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005026>))
 Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005027>))
+Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005028>))
+Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005029>))
+Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005030>))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/IAO_0000115>))
 Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/IAO_0000231>))
@@ -4551,6 +4554,33 @@ AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date>
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.purl.obolibrary.org/obo/PECO_0005027> "phenotype_condition")
 AnnotationAssertion(rdfs:label <http://www.purl.obolibrary.org/obo/PECO_0005027> "+ dithiothreitol"@en)
 SubClassOf(<http://www.purl.obolibrary.org/obo/PECO_0005027> <http://purl.obolibrary.org/obo/PECO_0000109>)
+
+# Class: <http://www.purl.obolibrary.org/obo/PECO_0005028> (agrobacterium-mediated transient coexpression assay)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://www.purl.obolibrary.org/obo/PECO_0005028> "The treatment involving study type in which gene products were transiently expressed using agrobacterium mediated delivery into the organism.")
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.purl.obolibrary.org/obo/PECO_0005028> "alaynecuzick"^^xsd:string)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.purl.obolibrary.org/obo/PECO_0005028> "2019-02-27T10:58:55Z"^^xsd:dateTime)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.purl.obolibrary.org/obo/PECO_0005028> "phenotype_condition")
+AnnotationAssertion(rdfs:label <http://www.purl.obolibrary.org/obo/PECO_0005028> "agrobacterium-mediated transient coexpression assay"@en)
+SubClassOf(<http://www.purl.obolibrary.org/obo/PECO_0005028> <http://www.purl.obolibrary.org/obo/PECO_0005001>)
+
+# Class: <http://www.purl.obolibrary.org/obo/PECO_0005029> (tobacco host assay)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://www.purl.obolibrary.org/obo/PECO_0005029> "The treatment involving study type in which organisms or gene products were assayed in a tobacco host.")
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.purl.obolibrary.org/obo/PECO_0005029> "alaynecuzick"^^xsd:string)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.purl.obolibrary.org/obo/PECO_0005029> "2019-02-27T10:59:19Z"^^xsd:dateTime)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.purl.obolibrary.org/obo/PECO_0005029> "phenotype_condition")
+AnnotationAssertion(rdfs:label <http://www.purl.obolibrary.org/obo/PECO_0005029> "tobacco host assay"@en)
+SubClassOf(<http://www.purl.obolibrary.org/obo/PECO_0005029> <http://www.purl.obolibrary.org/obo/PECO_0005001>)
+
+# Class: <http://www.purl.obolibrary.org/obo/PECO_0005030> (host assay in leaf)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://www.purl.obolibrary.org/obo/PECO_0005030> "The treatment involving study type in which organisms or gene products were assayed in a host leaf.")
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.purl.obolibrary.org/obo/PECO_0005030> "alaynecuzick"^^xsd:string)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.purl.obolibrary.org/obo/PECO_0005030> "2019-02-27T10:59:35Z"^^xsd:dateTime)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.purl.obolibrary.org/obo/PECO_0005030> "phenotype_condition")
+AnnotationAssertion(rdfs:label <http://www.purl.obolibrary.org/obo/PECO_0005030> "host assay in leaf"@en)
+SubClassOf(<http://www.purl.obolibrary.org/obo/PECO_0005030> <http://www.purl.obolibrary.org/obo/PECO_0005001>)
 
 
 )
