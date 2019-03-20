@@ -3232,6 +3232,1550 @@ is_a: PECO:0005001 ! study type
 created_by: alaynecuzick
 creation_date: 2019-02-27T10:59:35Z
 
+[Term]
+id: PECO:0005031
+name: + cyproconazole
+def: "An experimental condition in which cyproconazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005032
+name: + carboxin
+def: "An experimental condition in which carboxin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005033
+name: + benomyl
+def: "An experimental condition in which benomyl was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005034
+name: + diethofencarb
+def: "An experimental condition in which diethofencarb was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005035
+name: + carbendazim
+def: "An experimental condition in which carbendazim was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005036
+name: + thiophanate methyl
+def: "An experimental condition in which thiophanate methyl was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005037
+name: + oxolinic acid
+def: "An experimental condition in which oxolinic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005038
+name: + naftifine
+def: "An experimental condition in which naftifine was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005039
+name: + terbinafine
+def: "An experimental condition in which terbinafine was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005040
+name: + azoxystrobin
+def: "An experimental condition in which azoxystrobin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005041
+name: + iprodione
+def: "An experimental condition in which iprodione was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005042
+name: + posaconazole
+def: "An experimental condition in which posaconazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005043
+name: + tobramycin
+def: "An experimental condition in which tobramycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005044
+name: + piperacillin
+def: "An experimental condition in which piperacillin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005045
+name: + ofloxacin
+def: "An experimental condition in which ofloxacin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005046
+name: + ketoconazole
+def: "An experimental condition in which ketoconazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005047
+name: + cefotetan
+def: "An experimental condition in which cefotetan was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005048
+name: + tiamulin
+def: "An experimental condition in which tiamulin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005049
+name: + nifurtimox
+def: "An experimental condition in which nifurtimox was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005050
+name: + hygromycin B
+def: "An experimental condition in which hygromycin B was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005051
+name: + verapamil
+def: "An experimental condition in which verapamil was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005052
+name: + ampicillin
+def: "An experimental condition in which ampicillin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005053
+name: + rifampicin
+def: "An experimental condition in which rifampicin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005054
+name: + emamectin
+def: "An experimental condition in which emamectin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005055
+name: + clarithromycin
+def: "An experimental condition in which clarithromycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005056
+name: + amoxicillin
+def: "An experimental condition in which amoxicillin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005057
+name: + rifampin
+def: "An experimental condition in which rifampin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005058
+name: + tebuconazole
+def: "An experimental condition in which tebuconazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005059
+name: + polymyxin B
+def: "An experimental condition in which polymyxin B was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005060
+name: + eflornithine
+def: "An experimental condition in which eflornithine was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005061
+name: + difenoconazole
+def: "An experimental condition in which difenoconazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005062
+name: + fosfomycin
+def: "An experimental condition in which fosfomycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005063
+name: + flucytosine
+def: "An experimental condition in which flucytosine was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005064
+name: + doxycycline
+def: "An experimental condition in which doxycycline was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005065
+name: + myriocin
+def: "An experimental condition in which myriocin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005066
+name: + paromomycin
+def: "An experimental condition in which paromomycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005067
+name: + prochloraz
+def: "An experimental condition in which prochloraz was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005068
+name: + camptothecin
+def: "An experimental condition in which camptothecin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005069
+name: + captan
+def: "An experimental condition in which captan was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005070
+name: + linezolid
+def: "An experimental condition in which linezolid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005071
+name: + trovafloxacin
+def: "An experimental condition in which trovafloxacin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005072
+name: + sulfisoxazole
+def: "An experimental condition in which sulfisoxazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005073
+name: + ertapenem
+def: "An experimental condition in which ertapenem was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005074
+name: + cyclosporine A
+def: "An experimental condition in which cyclosporine A was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005075
+name: + enrofloxacin
+def: "An experimental condition in which enrofloxacin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005076
+name: + furazolidone
+def: "An experimental condition in which furazolidone was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005077
+name: + cephalexin
+def: "An experimental condition in which cephalexin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005078
+name: + fusidic acid
+def: "An experimental condition in which fusidic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005079
+name: + gramicidin D
+def: "An experimental condition in which gramicidin D was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005080
+name: + diniconazole
+def: "An experimental condition in which diniconazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005081
+name: + capreomycin
+def: "An experimental condition in which capreomycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005082
+name: + oxacillin
+def: "An experimental condition in which oxacillin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005083
+name: + fluconazole
+def: "An experimental condition in which fluconazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005084
+name: + netilmicin
+def: "An experimental condition in which netilmicin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005085
+name: + valinomycin
+def: "An experimental condition in which valinomycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005086
+name: + streptomycin sulfate
+def: "An experimental condition in which streptomycin sulfate was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005087
+name: + doripenem
+def: "An experimental condition in which doripenem was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005088
+name: + mupirocin
+def: "An experimental condition in which mupirocin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005089
+name: + D-cycloserine
+def: "An experimental condition in which D-cycloserine was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005090
+name: + cefpodoxime proxetil
+def: "An experimental condition in which cefpodoxime proxetil was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005091
+name: + anidulafungin
+def: "An experimental condition in which anidulafungin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005092
+name: + hydrogen peroxide
+def: "An experimental condition in which hydrogen peroxide was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005093
+name: + florfenicol
+def: "An experimental condition in which florfenicol was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005094
+name: + cefoxitin
+def: "An experimental condition in which cefoxitin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005095
+name: + chlorothalonil
+def: "An experimental condition in which chlorothalonil was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005096
+name: + tunicamycin
+def: "An experimental condition in which tunicamycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005097
+name: + kanamycin A
+def: "An experimental condition in which kanamycin A was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005098
+name: + salicylhydroxamic acid
+def: "An experimental condition in which salicylhydroxamic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005099
+name: + sordarin
+def: "An experimental condition in which sordarin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005100
+name: + nicotinamide
+def: "An experimental condition in which nicotinamide was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005101
+name: + plumbagin
+def: "An experimental condition in which plumbagin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005102
+name: + ethambutol
+def: "An experimental condition in which ethambutol was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005103
+name: + abamectin
+def: "An experimental condition in which abamectin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005104
+name: + azithromycin
+def: "An experimental condition in which azithromycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005105
+name: + oligomycin
+def: "An experimental condition in which oligomycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005106
+name: + phosphomycin
+def: "An experimental condition in which phosphomycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005107
+name: + ticarcillin
+def: "An experimental condition in which ticarcillin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005108
+name: + actinomycin D
+def: "An experimental condition in which actinomycin D was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005109
+name: + neomycin
+def: "An experimental condition in which neomycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005110
+name: + cefaclor
+def: "An experimental condition in which cefaclor was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005111
+name: + flutriafol
+def: "An experimental condition in which flutriafol was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005112
+name: + mecillinam
+def: "An experimental condition in which mecillinam was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005113
+name: + bifonazole
+def: "An experimental condition in which bifonazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005114
+name: + mancozeb
+def: "An experimental condition in which mancozeb was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005115
+name: + copper
+def: "An experimental condition in which copper was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005116
+name: + benznidazole
+def: "An experimental condition in which benznidazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005117
+name: + cefazolin
+def: "An experimental condition in which cefazolin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005118
+name: + isoniazid
+def: "An experimental condition in which isoniazid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005119
+name: + miltefosine
+def: "An experimental condition in which miltefosine was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005120
+name: + methicillin
+def: "An experimental condition in which methicillin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005121
+name: + vancomycin
+def: "An experimental condition in which vancomycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005122
+name: + norfloxacin
+def: "An experimental condition in which norfloxacin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005123
+name: + resveratrol
+def: "An experimental condition in which resveratrol was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005124
+name: + clofazimine
+def: "An experimental condition in which clofazimine was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005125
+name: + gentamycin C1
+def: "An experimental condition in which gentamycin C1 was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005126
+name: + moxifloxacin
+def: "An experimental condition in which moxifloxacin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005127
+name: + virginiamycin
+def: "An experimental condition in which virginiamycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005128
+name: + lincomycin
+def: "An experimental condition in which lincomycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005129
+name: + polymyxin B1
+def: "An experimental condition in which polymyxin B1 was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005130
+name: + novobiocin
+def: "An experimental condition in which novobiocin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005131
+name: + pyrimethanil
+def: "An experimental condition in which pyrimethanil was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005132
+name: + aztreonam
+def: "An experimental condition in which aztreonam was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005133
+name: + rapamycin
+def: "An experimental condition in which rapamycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005134
+name: + nystatin
+def: "An experimental condition in which nystatin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005135
+name: + trimethoprim
+def: "An experimental condition in which trimethoprim was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005136
+name: + prothionamide
+def: "An experimental condition in which prothionamide was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005137
+name: + penicillin
+def: "An experimental condition in which penicillin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005138
+name: + triclabendazole
+def: "An experimental condition in which triclabendazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005139
+name: + quinupristin-dalfopristin
+def: "An experimental condition in which quinupristin-dalfopristin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005140
+name: + propiconazole
+def: "An experimental condition in which propiconazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005141
+name: + chloramphenicol
+def: "An experimental condition in which chloramphenicol was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005142
+name: + vinclozolin
+def: "An experimental condition in which vinclozolin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005143
+name: + tridemorph
+def: "An experimental condition in which tridemorph was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005144
+name: + oxytetracycline
+def: "An experimental condition in which oxytetracycline was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005145
+name: + levofloxacin
+def: "An experimental condition in which levofloxacin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005146
+name: + gatifloxacin
+def: "An experimental condition in which gatifloxacin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005147
+name: + fludioxonil
+def: "An experimental condition in which fludioxonil was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005148
+name: + leptomycin B
+def: "An experimental condition in which leptomycin B was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005149
+name: + gentamicin
+def: "An experimental condition in which gentamicin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005150
+name: + amikacin
+def: "An experimental condition in which amikacin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005151
+name: + tetracycline
+def: "An experimental condition in which tetracycline was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005152
+name: + cercosporamide
+def: "An experimental condition in which cercosporamide was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005153
+name: + imipenem
+def: "An experimental condition in which imipenem was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005154
+name: + itraconazole
+def: "An experimental condition in which itraconazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005155
+name: + rotenone
+def: "An experimental condition in which rotenone was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005156
+name: + sparfloxacin
+def: "An experimental condition in which sparfloxacin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005157
+name: + sulbactam
+def: "An experimental condition in which sulbactam was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005158
+name: + copper sulphate
+def: "An experimental condition in which copper sulphate was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005159
+name: + closantel
+def: "An experimental condition in which closantel was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005160
+name: + ceftazidime
+def: "An experimental condition in which ceftazidime was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005161
+name: + hymexazol
+def: "An experimental condition in which hymexazol was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005162
+name: + daptomycin
+def: "An experimental condition in which daptomycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005163
+name: + carbapenems
+def: "An experimental condition in which carbapenems was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005164
+name: + aureobasidin A
+def: "An experimental condition in which aureobasidin A was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005165
+name: + trichostatin A
+def: "An experimental condition in which trichostatin A was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005166
+name: + fenhexamid
+def: "An experimental condition in which fenhexamid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005167
+name: + meropenem
+def: "An experimental condition in which meropenem was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005168
+name: + pyrazinecarboxamide
+def: "An experimental condition in which pyrazinecarboxamide was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005169
+name: + strobilurin A
+def: "An experimental condition in which strobilurin A was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005170
+name: + nisin
+def: "An experimental condition in which nisin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005171
+name: + thiabendazole
+def: "An experimental condition in which thiabendazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005172
+name: + alexidine
+def: "An experimental condition in which alexidine was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005173
+name: + cefepime
+def: "An experimental condition in which cefepime was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005174
+name: + telithromycin
+def: "An experimental condition in which telithromycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005175
+name: + nitrofurantoin
+def: "An experimental condition in which nitrofurantoin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005176
+name: + sulfadimethoxine
+def: "An experimental condition in which sulfadimethoxine was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005177
+name: + dicloxacillin
+def: "An experimental condition in which dicloxacillin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005178
+name: + latrunculin A
+def: "An experimental condition in which latrunculin A was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005179
+name: + fenarimol
+def: "An experimental condition in which fenarimol was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005180
+name: + cycloheximide
+def: "An experimental condition in which cycloheximide was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005181
+name: + miconazole
+def: "An experimental condition in which miconazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005182
+name: + rifabutin
+def: "An experimental condition in which rifabutin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005183
+name: + ciprofloxacin
+def: "An experimental condition in which ciprofloxacin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005184
+name: + spiroxamine
+def: "An experimental condition in which spiroxamine was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005185
+name: + farnesol
+def: "An experimental condition in which farnesol was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005186
+name: + clindamycin
+def: "An experimental condition in which clindamycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005187
+name: + streptomycin
+def: "An experimental condition in which streptomycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005188
+name: + tricyclazole
+def: "An experimental condition in which tricyclazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005189
+name: + triadimefon
+def: "An experimental condition in which triadimefon was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005190
+name: + tylosin
+def: "An experimental condition in which tylosin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005191
+name: + benzylpenicillin
+def: "An experimental condition in which benzylpenicillin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005192
+name: + amphotericin B
+def: "An experimental condition in which amphotericin B was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005193
+name: + caspofungin
+def: "An experimental condition in which caspofungin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005194
+name: + bacitracin
+def: "An experimental condition in which bacitracin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005195
+name: + cefuroxime
+def: "An experimental condition in which cefuroxime was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005196
+name: + antimycin A
+def: "An experimental condition in which antimycin A was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005197
+name: + epoxyconazole
+def: "An experimental condition in which epoxyconazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005198
+name: + triclosan
+def: "An experimental condition in which triclosan was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005199
+name: + nikkomycin Z
+def: "An experimental condition in which nikkomycin Z was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005200
+name: + micafungin
+def: "An experimental condition in which micafungin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005201
+name: + ethionamide
+def: "An experimental condition in which ethionamide was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005202
+name: + nalidixic acid
+def: "An experimental condition in which nalidixic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005203
+name: + 4-aminosalicylic acid
+def: "An experimental condition in which 4-aminosalicylic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005204
+name: + cefotaxime
+def: "An experimental condition in which cefotaxime was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005205
+name: + tigecycline
+def: "An experimental condition in which tigecycline was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005206
+name: + pentamidine
+def: "An experimental condition in which pentamidine was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005207
+name: + erythromycin A
+def: "An experimental condition in which erythromycin A was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005208
+name: + fenpropidin
+def: "An experimental condition in which fenpropidin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005209
+name: + bleomycin
+def: "An experimental condition in which bleomycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005210
+name: + brefeldin A
+def: "An experimental condition in which brefeldin A was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005211
+name: + ceftriaxone
+def: "An experimental condition in which ceftriaxone was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005212
+name: + teicoplanin
+def: "An experimental condition in which teicoplanin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005213
+name: + boscalid
+def: "An experimental condition in which boscalid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005214
+name: + colistin
+def: "An experimental condition in which colistin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005215
+name: + carbenicillin
+def: "An experimental condition in which carbenicillin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005216
+name: + voriconazole
+def: "An experimental condition in which voriconazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005217
+name: + minocycline
+def: "An experimental condition in which minocycline was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005218
+name: + cefuroximel
+def: "An experimental condition in which cefuroximel was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005219
+name: + sulfanilamide
+def: "An experimental condition in which sulfanilamide was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005220
+name: + spectinomycin
+def: "An experimental condition in which spectinomycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005221
+name: + brassinin
+def: "An experimental condition in which brassinin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005222
+name: + chlortetracycline
+def: "An experimental condition in which chlortetracycline was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005223
+name: + cefixime
+def: "An experimental condition in which cefixime was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2019-03-19T14:36:00Z
+
 [Typedef]
 id: part_of
 name: part_of
