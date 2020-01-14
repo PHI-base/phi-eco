@@ -6616,8 +6616,11 @@ SubClassOf(<http://www.purl.obolibrary.org/obo/PECO_0005019> <http://purl.obolib
 
 # Class: <http://www.purl.obolibrary.org/obo/PECO_0005020> (minimal medium)
 
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://www.purl.obolibrary.org/obo/PECO_0005020> "Experiments were performed in defined minimal medium which has just enough ingredients to support growth. (The number of ingredients that must be added to a minimal medium varies enormously depending on which microorganism is being grown). Typically contains a simple carbon source, salts and water.")
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.purl.obolibrary.org/obo/PECO_0005020> "alaynecuzick"^^xsd:string)
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.purl.obolibrary.org/obo/PECO_0005020> "2019-01-25T13:39:33Z"^^xsd:dateTime)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.purl.obolibrary.org/obo/PECO_0005020> "M9 minimal medium")
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.purl.obolibrary.org/obo/PECO_0005020> "synthetic nutrient-poor agar (SNA)")
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.purl.obolibrary.org/obo/PECO_0005020> "phenotype_condition")
 AnnotationAssertion(rdfs:label <http://www.purl.obolibrary.org/obo/PECO_0005020> "minimal medium"@en)
 SubClassOf(<http://www.purl.obolibrary.org/obo/PECO_0005020> <http://purl.obolibrary.org/obo/PECO_0000013>)
