@@ -6695,7 +6695,7 @@ AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasExactSynony
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.purl.obolibrary.org/obo/PECO_0005031> "yeast extract with supplements (YES)")
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.purl.obolibrary.org/obo/PECO_0005031> "phenotype_condition")
 AnnotationAssertion(rdfs:label <http://www.purl.obolibrary.org/obo/PECO_0005031> "rich medium"@en)
-SubClassOf(<http://www.purl.obolibrary.org/obo/PECO_0005031> <http://purl.obolibrary.org/obo/PECO_0000013>)
+SubClassOf(<http://www.purl.obolibrary.org/obo/PECO_0005031> <http://purl.obolibrary.org/obo/PECO_0000080>)
 
 
 )
