@@ -562,7 +562,6 @@ Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005017>))
 Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005018>))
 Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005019>))
 Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005020>))
-Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005021>))
 Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005023>))
 Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005024>))
 Declaration(Class(<http://www.purl.obolibrary.org/obo/PECO_0005025>))
@@ -6624,14 +6623,6 @@ AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasOBONamespac
 AnnotationAssertion(rdfs:label <http://www.purl.obolibrary.org/obo/PECO_0005020> "minimal medium"@en)
 SubClassOf(<http://www.purl.obolibrary.org/obo/PECO_0005020> <http://purl.obolibrary.org/obo/PECO_0000013>)
 
-# Class: <http://www.purl.obolibrary.org/obo/PECO_0005021> (potato dextrose medium)
-
-AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.purl.obolibrary.org/obo/PECO_0005021> "alaynecuzick"^^xsd:string)
-AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.purl.obolibrary.org/obo/PECO_0005021> "2019-01-25T13:41:25Z"^^xsd:dateTime)
-AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.purl.obolibrary.org/obo/PECO_0005021> "phenotype_condition")
-AnnotationAssertion(rdfs:label <http://www.purl.obolibrary.org/obo/PECO_0005021> "potato dextrose medium"@en)
-SubClassOf(<http://www.purl.obolibrary.org/obo/PECO_0005021> <http://purl.obolibrary.org/obo/PECO_0000013>)
-
 # Class: <http://www.purl.obolibrary.org/obo/PECO_0005023> (starch yeast medium)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.purl.obolibrary.org/obo/PECO_0005023> "alaynecuzick"^^xsd:string)
@@ -6696,6 +6687,7 @@ SubClassOf(<http://www.purl.obolibrary.org/obo/PECO_0005030> <http://www.purl.ob
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://www.purl.obolibrary.org/obo/PECO_0005031> "Rich media contain the nutrients required to support the growth of a wide variety of organisms containing complex carbon sources (Sugars, peptides etc). It is an undefined medium that has some complex ingredients, such as yeast extract, which consists of a mixture of many chemicals in unknown proportions.")
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.purl.obolibrary.org/obo/PECO_0005031> "alaynecuzick"^^xsd:string)
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.purl.obolibrary.org/obo/PECO_0005031> "2020-01-14T14:17:20Z"^^xsd:dateTime)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasAlternativeId> <http://www.purl.obolibrary.org/obo/PECO_0005031> "PECO:0005021")
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasAlternativeId> <http://www.purl.obolibrary.org/obo/PECO_0005031> "PECO:0005022")
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasAlternativeId> <http://www.purl.obolibrary.org/obo/PECO_0005031> "PECO:0005026")
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.purl.obolibrary.org/obo/PECO_0005031> "Lowenstein-Jensen medium")
@@ -6711,6 +6703,7 @@ AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasExactSynony
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.purl.obolibrary.org/obo/PECO_0005031> "oatmeal tomato medium")
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.purl.obolibrary.org/obo/PECO_0005031> "plant extract agar")
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.purl.obolibrary.org/obo/PECO_0005031> "potato dextrose agar (PDA)")
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.purl.obolibrary.org/obo/PECO_0005031> "potato dextrose medium")
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.purl.obolibrary.org/obo/PECO_0005031> "potato slice")
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.purl.obolibrary.org/obo/PECO_0005031> "starch yeast medium")
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.purl.obolibrary.org/obo/PECO_0005031> "trichotoxine induction medium")
