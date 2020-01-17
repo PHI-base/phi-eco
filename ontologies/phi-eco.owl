@@ -152,7 +152,6 @@ Declaration(Class(obo:PECO_0000133))
 Declaration(Class(obo:PECO_0000134))
 Declaration(Class(obo:PECO_0000135))
 Declaration(Class(obo:PECO_0000136))
-Declaration(Class(obo:PECO_0000137))
 Declaration(Class(obo:PECO_0000138))
 Declaration(Class(obo:PECO_0000139))
 Declaration(Class(obo:PECO_0000140))
@@ -351,6 +350,31 @@ Declaration(Class(obo:PECO_0000332))
 Declaration(Class(obo:PECO_0000333))
 Declaration(Class(obo:PECO_0000334))
 Declaration(Class(obo:PECO_0000335))
+Declaration(Class(obo:PECO_0005001))
+Declaration(Class(obo:PECO_0005002))
+Declaration(Class(obo:PECO_0005003))
+Declaration(Class(obo:PECO_0005004))
+Declaration(Class(obo:PECO_0005005))
+Declaration(Class(obo:PECO_0005006))
+Declaration(Class(obo:PECO_0005007))
+Declaration(Class(obo:PECO_0005008))
+Declaration(Class(obo:PECO_0005009))
+Declaration(Class(obo:PECO_0005010))
+Declaration(Class(obo:PECO_0005011))
+Declaration(Class(obo:PECO_0005012))
+Declaration(Class(obo:PECO_0005013))
+Declaration(Class(obo:PECO_0005014))
+Declaration(Class(obo:PECO_0005015))
+Declaration(Class(obo:PECO_0005016))
+Declaration(Class(obo:PECO_0005017))
+Declaration(Class(obo:PECO_0005018))
+Declaration(Class(obo:PECO_0005019))
+Declaration(Class(obo:PECO_0005020))
+Declaration(Class(obo:PECO_0005024))
+Declaration(Class(obo:PECO_0005027))
+Declaration(Class(obo:PECO_0005028))
+Declaration(Class(obo:PECO_0005029))
+Declaration(Class(obo:PECO_0005030))
 Declaration(Class(obo:PECO_0005031))
 Declaration(Class(obo:PECO_0005032))
 Declaration(Class(obo:PECO_0005033))
@@ -544,31 +568,6 @@ Declaration(Class(obo:PECO_0005220))
 Declaration(Class(obo:PECO_0005221))
 Declaration(Class(obo:PECO_0005222))
 Declaration(Class(obo:PECO_0005223))
-Declaration(Class(obo:PECO_0005001))
-Declaration(Class(obo:PECO_0005002))
-Declaration(Class(obo:PECO_0005003))
-Declaration(Class(obo:PECO_0005004))
-Declaration(Class(obo:PECO_0005005))
-Declaration(Class(obo:PECO_0005006))
-Declaration(Class(obo:PECO_0005007))
-Declaration(Class(obo:PECO_0005008))
-Declaration(Class(obo:PECO_0005009))
-Declaration(Class(obo:PECO_0005010))
-Declaration(Class(obo:PECO_0005011))
-Declaration(Class(obo:PECO_0005012))
-Declaration(Class(obo:PECO_0005013))
-Declaration(Class(obo:PECO_0005014))
-Declaration(Class(obo:PECO_0005015))
-Declaration(Class(obo:PECO_0005016))
-Declaration(Class(obo:PECO_0005017))
-Declaration(Class(obo:PECO_0005018))
-Declaration(Class(obo:PECO_0005019))
-Declaration(Class(obo:PECO_0005020))
-Declaration(Class(obo:PECO_0005024))
-Declaration(Class(obo:PECO_0005027))
-Declaration(Class(obo:PECO_0005028))
-Declaration(Class(obo:PECO_0005029))
-Declaration(Class(obo:PECO_0005030))
 Declaration(Class(obo:PECO_0005224))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
@@ -2223,25 +2222,6 @@ If certain chemicals not normally found in the medium were added, please also us
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000136 "raffinose YE"^^xsd:string)
 SubClassOf(obo:PECO_0000136 obo:PECO_0000080)
-
-# Class: obo:PECO_0000137 (YES)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000137 "Experiments were performed in rich medium containing yeast extract, glucose, and other components. The concentration of glucose is typically around 2-3%."^^xsd:string)
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0000137 "antonialock"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000137 "2012-06-14T20:35:20Z"^^xsd:string)
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0000137 "glucose rich medium"^^xsd:string)
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0000137 "normal glucose rich medium"^^xsd:string)
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0000137 "standard dextrose rich medium"^^xsd:string)
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0000137 "standard glucose rich medium"^^xsd:string)
-AnnotationAssertion(oboInOwl:hasNarrowSynonym obo:PECO_0000137 "YE"^^xsd:string)
-AnnotationAssertion(oboInOwl:hasNarrowSynonym obo:PECO_0000137 "YE4S"^^xsd:string)
-AnnotationAssertion(oboInOwl:hasNarrowSynonym obo:PECO_0000137 "YE5S"^^xsd:string)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000137 "phenotype_condition"^^xsd:string)
-AnnotationAssertion(oboInOwl:hasRelatedSynonym obo:PECO_0000137 "complex medium"^^xsd:string)
-AnnotationAssertion(oboInOwl:id obo:PECO_0000137 "PECO:0000137"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0000137 "Use the medium terms to specify the general type of growth medium and its carbon source. If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, such as 'caffeine added' or 'nitrogen excluded'. If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000137 "YES"^^xsd:string)
-SubClassOf(obo:PECO_0000137 obo:PECO_0000080)
 
 # Class: obo:PECO_0000138 (glycerol YE)
 
@@ -4387,6 +4367,355 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000335 "PECO:0000335"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000335 "+ AP20187"^^xsd:string)
 SubClassOf(obo:PECO_0000335 obo:PECO_0000109)
 
+# Class: obo:PECO_0005001 (study type)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005001 "A phenotype experimental condition or set of conditions describing what kind of organism growth facility was used for the experiment."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005001 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005001 "2018-06-19T09:38:03Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005001 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(rdfs:comment obo:PECO_0005001 "Changed text from
+'A plant experimental condition (PECO:0007359) or set of conditions describing what kind of plant growth facility was used for the experiment.'
+to
+'A phenotype experimental condition or set of conditions describing what kind of organism growth facility was used for the experiment.'
+
+'This is a grouping term, please do not use for annotation.'
+Should this be in 'definition' to be consistent with FYPOeco?"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005001 "study type"^^xsd:string)
+SubClassOf(obo:PECO_0005001 obo:PECO_0000001)
+
+# Class: obo:PECO_0005002 (ecosystem study)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005002 "The treatment where the organisms were grown under natural ecosystem conditions. This may involve supplemental treatments in addition to any naturally occurring conditions"^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005002 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005002 "2018-06-19T09:38:32Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005002 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(rdfs:comment obo:PECO_0005002 "Adapted from plant_experimental_conditions_ontology 'field study' PECO:0007256.
+Changed 
+'The treatment where the plants were grown under field conditions. This may involve supplemental treatments in addition to any naturally occurring conditions.'
+to
+'The treatment where the organisms were grown under natural ecosystem conditions. This may involve supplemental treatments in addition to any naturally occurring conditions.'
+
+can field apply to plants and livestock. What about fish? I assume in the 'field' refers to any 'natural ecosystem' therefore including water. Change term from field to ecosystem and modify definition.
+
+This is species neutral"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005002 "ecosystem study"^^xsd:string)
+SubClassOf(obo:PECO_0005002 obo:PECO_0005001)
+
+# Class: obo:PECO_0005003 (laboratory study)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005003 "The treatment where the organisms were grown under laboratory / open room conditions, with very few controlled parameters. This may involve supplemental treatments in addition to any naturally occurring conditions."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005003 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005003 "2018-06-19T09:38:59Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005003 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(rdfs:comment obo:PECO_0005003 "Adapted from plant_experimental_conditions_ontology PECO:0007255.
+Changed 'plants' to 'organisms'.
+
+This is species neutral."^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005003 "laboratory study"^^xsd:string)
+SubClassOf(obo:PECO_0005003 obo:PECO_0005001)
+
+# Class: obo:PECO_0005004 (fully controlled environment study)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005004 "The treatment involving study type in which organisms were grown in fully controlled environmental conditions."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005004 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005004 "2018-06-19T09:39:16Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005004 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(rdfs:comment obo:PECO_0005004 "Adapted from plant_experimental_conditions_ontology 'growth chamber study' PECO:0007269.
+Changed
+'The treatment involving study type in which plants were grown in growth chambers.'
+to
+'The treatment involving study type in which organisms were grown in fully controlled environmental conditions.'
+
+This is species neutral."^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005004 "fully controlled environment study"^^xsd:string)
+SubClassOf(obo:PECO_0005004 obo:PECO_0005001)
+
+# Class: obo:PECO_0005005 (unknown study type)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005005 "The treatment involving study type where nothing is known in the reported literature/study about the kind of growth facilities used."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005005 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005005 "2018-06-19T09:39:57Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005005 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(rdfs:comment obo:PECO_0005005 "Adapted from plant_experimental_conditions_ontology PECO:0007280.
+Definition unchanged.
+
+This is species neutral."^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005005 "unknown study type"^^xsd:string)
+SubClassOf(obo:PECO_0005005 obo:PECO_0005001)
+
+# Class: obo:PECO_0005006 (semi controlled environment study)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005006 "The treatment where the organisms were grown under semi controlled environmental conditions. This may involve supplemental treatments in addition to any standard conditions."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005006 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005006 "2018-06-19T09:40:49Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005006 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(rdfs:comment obo:PECO_0005006 "Adapted from plant_experimental_conditions_ontology 'greenhouse study' PECO:0007248.
+Changed from
+'The treatment where the plants were grown under greenhouse conditions. This may involve supplemental treatments in addition to any standard conditions.'
+to
+'The treatment where the organisms were grown under semi controlled environmental conditions. This may involve supplemental treatments in addition to any standard conditions.'
+
+Is this too 'plant specific'? Aiming for species neutral.  Changed from greenhouse to semi controlled environment study
+
+This is species neutral"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005006 "semi controlled environment study"^^xsd:string)
+SubClassOf(obo:PECO_0005006 obo:PECO_0005001)
+
+# Class: obo:PECO_0005007 (continuous dark (no light) exposure)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005007 "The treatment involving continuous exposure to darkness (no light) to the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005007 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005007 "2018-06-19T11:00:18Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005007 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(rdfs:comment obo:PECO_0005007 "Adapted from plant_experimental_conditions_ontology PECO:0007270.
+Changed 'plant' to 'organism'."^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005007 "continuous dark (no light) exposure"^^xsd:string)
+SubClassOf(obo:PECO_0005007 obo:PECO_0000132)
+
+# Class: obo:PECO_0005008 (continuous light exposure)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005008 "The treatment involving continuous exposure of light to the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005008 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005008 "2018-06-19T11:01:36Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005008 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(rdfs:comment obo:PECO_0005008 "Adapted from plant_experimental_conditions_ontology PECO:0007162.
+Changed 'plant' to 'organism'.
+
+Note: light exposure itself also has child terms for 'IR, UV and visible light' if we need this detail."^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005008 "continuous light exposure"^^xsd:string)
+SubClassOf(obo:PECO_0005008 obo:PECO_0000132)
+
+# Class: obo:PECO_0005009 (intermittent light exposure)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005009 "In biological experiments it refer to the intermittent exposure of organism to the cycles of light and dark or one light Vs the another type of light."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005009 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005009 "2018-06-19T11:02:10Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005009 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(rdfs:comment obo:PECO_0005009 "Adapted from plant_experimental_conditions_ontology PECO:0007128.
+Changed 'plant' to 'organism'.
+
+Can also be broken down into further child terms for 'day light', 'long day length' and 'short day length' but his may be too plant specific. Aim for species neutral."^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005009 "intermittent light exposure"^^xsd:string)
+SubClassOf(obo:PECO_0005009 obo:PECO_0000132)
+
+# Class: obo:PECO_0005010 (+ salicylic acid)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005010 "An experimental condition in which salicylic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005010 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005010 "2018-06-19T11:33:45Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005010 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(rdfs:comment obo:PECO_0005010 "Adapted from plant_experimental_conditions_ontology PECO:0007187.
+
+Modified FYPOpecoPECO:0000149 definition
+'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'
+
+to
+
+'An experimental condition in which salicylic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'
+
+Note: 'grouping excess' chemical defs appear to be added to medium or buffer rather than to 'organism' eg adding Salicylic acid to a host prior to pathogen inoculation."^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005010 "+ salicylic acid"^^xsd:string)
+SubClassOf(obo:PECO_0005010 obo:PECO_0000109)
+
+# Class: obo:PECO_0005011 (+ jasmonic acid)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005011 "An experimental condition in which jasmonic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005011 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005011 "2018-06-19T12:00:57Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005011 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(rdfs:comment obo:PECO_0005011 "Adapted from plant_experimental_conditions_ontology PECO:0007080.
+
+Modified FYPOpecoPECO:0000149 definition
+'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'
+
+to
+
+'An experimental condition in which jasmonic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005011 "+ jasmonic acid"^^xsd:string)
+SubClassOf(obo:PECO_0005011 obo:PECO_0000109)
+
+# Class: obo:PECO_0005012 (+ gibberellic acid)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005012 "An experimental condition in which gibberellic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005012 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005012 "2018-06-19T12:02:11Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005012 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(rdfs:comment obo:PECO_0005012 "Adapted from plant_experimental_conditions_ontology PECO:0007069.
+
+Modified FYPOpecoPECO:0000149 definition
+'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'
+
+to
+
+'An experimental condition in which gibberellic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005012 "+ gibberellic acid"^^xsd:string)
+SubClassOf(obo:PECO_0005012 obo:PECO_0000109)
+
+# Class: obo:PECO_0005013 (+ ethylene)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005013 "An experimental condition in which ethylene gas was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005013 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005013 "2018-06-19T12:02:40Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005013 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(rdfs:comment obo:PECO_0005013 "Adapted from plant_experimental_conditions_ontology PECO:0007068.
+
+Modified FYPOpecoPECO:0000149 definition
+'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'
+
+to
+
+'An experimental condition in which ethylene gas was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005013 "+ ethylene"^^xsd:string)
+SubClassOf(obo:PECO_0005013 obo:PECO_0000109)
+
+# Class: obo:PECO_0005014 (+ cytokinin)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005014 "An experimental condition in which cytokinin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005014 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005014 "2018-06-19T12:03:33Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005014 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(rdfs:comment obo:PECO_0005014 "Adapted from plant_experimental_conditions_ontology PECO:0007066.
+
+Modified FYPOpecoPECO:0000149 definition
+'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'
+
+to
+
+'An experimental condition in which cytokinin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005014 "+ cytokinin"^^xsd:string)
+SubClassOf(obo:PECO_0005014 obo:PECO_0000109)
+
+# Class: obo:PECO_0005015 (+ brassinosteroid)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005015 "An experimental condition in which brassinosteroid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005015 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005015 "2018-06-19T12:04:14Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005015 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(rdfs:comment obo:PECO_0005015 "Adapted from plant_experimental_conditions_ontology PECO:0007409.
+
+Modified FYPOpecoPECO:0000149 definition
+'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'
+
+to
+
+'An experimental condition in which brassinosteroid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005015 "+ brassinosteroid"^^xsd:string)
+SubClassOf(obo:PECO_0005015 obo:PECO_0000109)
+
+# Class: obo:PECO_0005016 (+ auxin)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005016 "An experimental condition in which auxin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005016 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005016 "2018-06-19T12:04:24Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005016 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(rdfs:comment obo:PECO_0005016 "Adapted from plant_experimental_conditions_ontology PECO:0007074.
+
+Modified FYPOpecoPECO:0000149 definition
+'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'
+
+to
+
+'An experimental condition in which auxin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005016 "+ auxin"^^xsd:string)
+SubClassOf(obo:PECO_0005016 obo:PECO_0000109)
+
+# Class: obo:PECO_0005017 (+ abscisic acid)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005017 "An experimental condition in which abscisic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005017 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005017 "2018-06-19T12:04:54Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005017 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(rdfs:comment obo:PECO_0005017 "Adapted from plant_experimental_conditions_ontology PECO:0007105.
+
+Modified FYPOpecoPECO:0000149 definition
+'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'
+
+to
+
+'An experimental condition in which abscisic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005017 "+ abscisic acid"^^xsd:string)
+SubClassOf(obo:PECO_0005017 obo:PECO_0000109)
+
+# Class: obo:PECO_0005018 (+ methyl jasmonate)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005018 "An experimental condition in which methyl jasmonate was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005018 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005018 "2018-06-19T12:06:18Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005018 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(rdfs:comment obo:PECO_0005018 "Adapted from plant_experimental_conditions_ontology PECO:0007407.
+
+Modified FYPOpecoPECO:0000149 definition
+'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'
+
+to
+
+'An experimental condition in which methyl jasmonate was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005018 "+ methyl jasmonate"^^xsd:string)
+SubClassOf(obo:PECO_0005018 obo:PECO_0000109)
+
+# Class: obo:PECO_0005019 (+ phenylmethanesulfonyl fluoride)
+
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005019 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005019 "2019-01-25T13:33:23Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005019 "+ PMSF")
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005019 "phenotype_condition")
+AnnotationAssertion(rdfs:label obo:PECO_0005019 "+ phenylmethanesulfonyl fluoride"@en)
+SubClassOf(obo:PECO_0005019 obo:PECO_0000109)
+
+# Class: obo:PECO_0005020 (minimal medium)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005020 "Experiments were performed in defined minimal medium which has just enough ingredients to support growth. (The number of ingredients that must be added to a minimal medium varies enormously depending on which microorganism is being grown). Typically contains a simple carbon source, salts and water.")
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005020 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005020 "2019-01-25T13:39:33Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005020 "M9 minimal medium")
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005020 "synthetic nutrient-poor agar (SNA)")
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005020 "phenotype_condition")
+AnnotationAssertion(rdfs:label obo:PECO_0005020 "minimal medium"@en)
+SubClassOf(obo:PECO_0005020 obo:PECO_0000013)
+
+# Class: obo:PECO_0005024 (+ carboxymethyl cellulose)
+
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005024 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005024 "2019-01-25T13:44:24Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005024 "phenotype_condition")
+AnnotationAssertion(rdfs:label obo:PECO_0005024 "+ carboxymethyl cellulose"@en)
+SubClassOf(obo:PECO_0005024 obo:PECO_0000109)
+
+# Class: obo:PECO_0005027 (+ dithiothreitol)
+
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005027 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005027 "2019-01-25T13:48:53Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005027 "phenotype_condition")
+AnnotationAssertion(rdfs:label obo:PECO_0005027 "+ dithiothreitol"@en)
+SubClassOf(obo:PECO_0005027 obo:PECO_0000109)
+
+# Class: obo:PECO_0005028 (agrobacterium-mediated transient coexpression assay)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005028 "The treatment involving study type in which gene products were transiently expressed using agrobacterium mediated delivery into the organism.")
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005028 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005028 "2019-02-27T10:58:55Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005028 "phenotype_condition")
+AnnotationAssertion(rdfs:label obo:PECO_0005028 "agrobacterium-mediated transient coexpression assay"@en)
+SubClassOf(obo:PECO_0005028 obo:PECO_0005001)
+
+# Class: obo:PECO_0005029 (tobacco host assay)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005029 "The treatment involving study type in which organisms or gene products were assayed in a tobacco host.")
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005029 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005029 "2019-02-27T10:59:19Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005029 "phenotype_condition")
+AnnotationAssertion(rdfs:label obo:PECO_0005029 "tobacco host assay"@en)
+SubClassOf(obo:PECO_0005029 obo:PECO_0005001)
+
+# Class: obo:PECO_0005030 (host assay in leaf)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005030 "The treatment involving study type in which organisms or gene products were assayed in a host leaf.")
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005030 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005030 "2019-02-27T10:59:35Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005030 "phenotype_condition")
+AnnotationAssertion(rdfs:label obo:PECO_0005030 "host assay in leaf"@en)
+SubClassOf(obo:PECO_0005030 obo:PECO_0005001)
+
 # Class: obo:PECO_0005031 (+ cyproconazole)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005031 "An experimental condition in which cyproconazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
@@ -6317,360 +6646,12 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0005223 "PECO:0005223"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005223 "+ cefixime"@en)
 SubClassOf(obo:PECO_0005223 obo:PECO_0000109)
 
-# Class: obo:PECO_0005001 (study type)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005001 "A phenotype experimental condition or set of conditions describing what kind of organism growth facility was used for the experiment."^^xsd:string)
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005001 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005001 "2018-06-19T09:38:03Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005001 "phenotype_condition"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0005001 "Changed text from
-'A plant experimental condition (PECO:0007359) or set of conditions describing what kind of plant growth facility was used for the experiment.'
-to
-'A phenotype experimental condition or set of conditions describing what kind of organism growth facility was used for the experiment.'
-
-'This is a grouping term, please do not use for annotation.'
-Should this be in 'definition' to be consistent with FYPOeco?"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005001 "study type"^^xsd:string)
-SubClassOf(obo:PECO_0005001 obo:PECO_0000001)
-
-# Class: obo:PECO_0005002 (ecosystem study)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005002 "The treatment where the organisms were grown under natural ecosystem conditions. This may involve supplemental treatments in addition to any naturally occurring conditions"^^xsd:string)
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005002 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005002 "2018-06-19T09:38:32Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005002 "phenotype_condition"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0005002 "Adapted from plant_experimental_conditions_ontology 'field study' PECO:0007256.
-Changed 
-'The treatment where the plants were grown under field conditions. This may involve supplemental treatments in addition to any naturally occurring conditions.'
-to
-'The treatment where the organisms were grown under natural ecosystem conditions. This may involve supplemental treatments in addition to any naturally occurring conditions.'
-
-can field apply to plants and livestock. What about fish? I assume in the 'field' refers to any 'natural ecosystem' therefore including water. Change term from field to ecosystem and modify definition.
-
-This is species neutral"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005002 "ecosystem study"^^xsd:string)
-SubClassOf(obo:PECO_0005002 obo:PECO_0005001)
-
-# Class: obo:PECO_0005003 (laboratory study)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005003 "The treatment where the organisms were grown under laboratory / open room conditions, with very few controlled parameters. This may involve supplemental treatments in addition to any naturally occurring conditions."^^xsd:string)
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005003 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005003 "2018-06-19T09:38:59Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005003 "phenotype_condition"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0005003 "Adapted from plant_experimental_conditions_ontology PECO:0007255.
-Changed 'plants' to 'organisms'.
-
-This is species neutral."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005003 "laboratory study"^^xsd:string)
-SubClassOf(obo:PECO_0005003 obo:PECO_0005001)
-
-# Class: obo:PECO_0005004 (fully controlled environment study)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005004 "The treatment involving study type in which organisms were grown in fully controlled environmental conditions."^^xsd:string)
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005004 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005004 "2018-06-19T09:39:16Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005004 "phenotype_condition"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0005004 "Adapted from plant_experimental_conditions_ontology 'growth chamber study' PECO:0007269.
-Changed
-'The treatment involving study type in which plants were grown in growth chambers.'
-to
-'The treatment involving study type in which organisms were grown in fully controlled environmental conditions.'
-
-This is species neutral."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005004 "fully controlled environment study"^^xsd:string)
-SubClassOf(obo:PECO_0005004 obo:PECO_0005001)
-
-# Class: obo:PECO_0005005 (unknown study type)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005005 "The treatment involving study type where nothing is known in the reported literature/study about the kind of growth facilities used."^^xsd:string)
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005005 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005005 "2018-06-19T09:39:57Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005005 "phenotype_condition"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0005005 "Adapted from plant_experimental_conditions_ontology PECO:0007280.
-Definition unchanged.
-
-This is species neutral."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005005 "unknown study type"^^xsd:string)
-SubClassOf(obo:PECO_0005005 obo:PECO_0005001)
-
-# Class: obo:PECO_0005006 (semi controlled environment study)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005006 "The treatment where the organisms were grown under semi controlled environmental conditions. This may involve supplemental treatments in addition to any standard conditions."^^xsd:string)
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005006 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005006 "2018-06-19T09:40:49Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005006 "phenotype_condition"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0005006 "Adapted from plant_experimental_conditions_ontology 'greenhouse study' PECO:0007248.
-Changed from
-'The treatment where the plants were grown under greenhouse conditions. This may involve supplemental treatments in addition to any standard conditions.'
-to
-'The treatment where the organisms were grown under semi controlled environmental conditions. This may involve supplemental treatments in addition to any standard conditions.'
-
-Is this too 'plant specific'? Aiming for species neutral.  Changed from greenhouse to semi controlled environment study
-
-This is species neutral"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005006 "semi controlled environment study"^^xsd:string)
-SubClassOf(obo:PECO_0005006 obo:PECO_0005001)
-
-# Class: obo:PECO_0005007 (continuous dark (no light) exposure)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005007 "The treatment involving continuous exposure to darkness (no light) to the organism."^^xsd:string)
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005007 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005007 "2018-06-19T11:00:18Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005007 "phenotype_condition"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0005007 "Adapted from plant_experimental_conditions_ontology PECO:0007270.
-Changed 'plant' to 'organism'."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005007 "continuous dark (no light) exposure"^^xsd:string)
-SubClassOf(obo:PECO_0005007 obo:PECO_0000132)
-
-# Class: obo:PECO_0005008 (continuous light exposure)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005008 "The treatment involving continuous exposure of light to the organism."^^xsd:string)
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005008 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005008 "2018-06-19T11:01:36Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005008 "phenotype_condition"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0005008 "Adapted from plant_experimental_conditions_ontology PECO:0007162.
-Changed 'plant' to 'organism'.
-
-Note: light exposure itself also has child terms for 'IR, UV and visible light' if we need this detail."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005008 "continuous light exposure"^^xsd:string)
-SubClassOf(obo:PECO_0005008 obo:PECO_0000132)
-
-# Class: obo:PECO_0005009 (intermittent light exposure)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005009 "In biological experiments it refer to the intermittent exposure of organism to the cycles of light and dark or one light Vs the another type of light."^^xsd:string)
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005009 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005009 "2018-06-19T11:02:10Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005009 "phenotype_condition"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0005009 "Adapted from plant_experimental_conditions_ontology PECO:0007128.
-Changed 'plant' to 'organism'.
-
-Can also be broken down into further child terms for 'day light', 'long day length' and 'short day length' but his may be too plant specific. Aim for species neutral."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005009 "intermittent light exposure"^^xsd:string)
-SubClassOf(obo:PECO_0005009 obo:PECO_0000132)
-
-# Class: obo:PECO_0005010 (+ salicylic acid)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005010 "An experimental condition in which salicylic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005010 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005010 "2018-06-19T11:33:45Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005010 "phenotype_condition"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0005010 "Adapted from plant_experimental_conditions_ontology PECO:0007187.
-
-Modified FYPOpecoPECO:0000149 definition
-'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'
-
-to
-
-'An experimental condition in which salicylic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'
-
-Note: 'grouping excess' chemical defs appear to be added to medium or buffer rather than to 'organism' eg adding Salicylic acid to a host prior to pathogen inoculation."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005010 "+ salicylic acid"^^xsd:string)
-SubClassOf(obo:PECO_0005010 obo:PECO_0000109)
-
-# Class: obo:PECO_0005011 (+ jasmonic acid)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005011 "An experimental condition in which jasmonic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005011 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005011 "2018-06-19T12:00:57Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005011 "phenotype_condition"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0005011 "Adapted from plant_experimental_conditions_ontology PECO:0007080.
-
-Modified FYPOpecoPECO:0000149 definition
-'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'
-
-to
-
-'An experimental condition in which jasmonic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005011 "+ jasmonic acid"^^xsd:string)
-SubClassOf(obo:PECO_0005011 obo:PECO_0000109)
-
-# Class: obo:PECO_0005012 (+ gibberellic acid)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005012 "An experimental condition in which gibberellic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005012 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005012 "2018-06-19T12:02:11Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005012 "phenotype_condition"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0005012 "Adapted from plant_experimental_conditions_ontology PECO:0007069.
-
-Modified FYPOpecoPECO:0000149 definition
-'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'
-
-to
-
-'An experimental condition in which gibberellic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005012 "+ gibberellic acid"^^xsd:string)
-SubClassOf(obo:PECO_0005012 obo:PECO_0000109)
-
-# Class: obo:PECO_0005013 (+ ethylene)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005013 "An experimental condition in which ethylene gas was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005013 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005013 "2018-06-19T12:02:40Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005013 "phenotype_condition"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0005013 "Adapted from plant_experimental_conditions_ontology PECO:0007068.
-
-Modified FYPOpecoPECO:0000149 definition
-'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'
-
-to
-
-'An experimental condition in which ethylene gas was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005013 "+ ethylene"^^xsd:string)
-SubClassOf(obo:PECO_0005013 obo:PECO_0000109)
-
-# Class: obo:PECO_0005014 (+ cytokinin)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005014 "An experimental condition in which cytokinin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005014 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005014 "2018-06-19T12:03:33Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005014 "phenotype_condition"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0005014 "Adapted from plant_experimental_conditions_ontology PECO:0007066.
-
-Modified FYPOpecoPECO:0000149 definition
-'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'
-
-to
-
-'An experimental condition in which cytokinin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005014 "+ cytokinin"^^xsd:string)
-SubClassOf(obo:PECO_0005014 obo:PECO_0000109)
-
-# Class: obo:PECO_0005015 (+ brassinosteroid)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005015 "An experimental condition in which brassinosteroid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005015 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005015 "2018-06-19T12:04:14Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005015 "phenotype_condition"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0005015 "Adapted from plant_experimental_conditions_ontology PECO:0007409.
-
-Modified FYPOpecoPECO:0000149 definition
-'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'
-
-to
-
-'An experimental condition in which brassinosteroid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005015 "+ brassinosteroid"^^xsd:string)
-SubClassOf(obo:PECO_0005015 obo:PECO_0000109)
-
-# Class: obo:PECO_0005016 (+ auxin)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005016 "An experimental condition in which auxin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005016 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005016 "2018-06-19T12:04:24Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005016 "phenotype_condition"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0005016 "Adapted from plant_experimental_conditions_ontology PECO:0007074.
-
-Modified FYPOpecoPECO:0000149 definition
-'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'
-
-to
-
-'An experimental condition in which auxin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005016 "+ auxin"^^xsd:string)
-SubClassOf(obo:PECO_0005016 obo:PECO_0000109)
-
-# Class: obo:PECO_0005017 (+ abscisic acid)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005017 "An experimental condition in which abscisic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005017 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005017 "2018-06-19T12:04:54Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005017 "phenotype_condition"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0005017 "Adapted from plant_experimental_conditions_ontology PECO:0007105.
-
-Modified FYPOpecoPECO:0000149 definition
-'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'
-
-to
-
-'An experimental condition in which abscisic acid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005017 "+ abscisic acid"^^xsd:string)
-SubClassOf(obo:PECO_0005017 obo:PECO_0000109)
-
-# Class: obo:PECO_0005018 (+ methyl jasmonate)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005018 "An experimental condition in which methyl jasmonate was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005018 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005018 "2018-06-19T12:06:18Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005018 "phenotype_condition"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0005018 "Adapted from plant_experimental_conditions_ontology PECO:0007407.
-
-Modified FYPOpecoPECO:0000149 definition
-'An experimental condition in which dihydroxyacetone was added to the medium or assay buffer in excess compared to standard medium or assay buffers.'
-
-to
-
-'An experimental condition in which methyl jasmonate was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism.'"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005018 "+ methyl jasmonate"^^xsd:string)
-SubClassOf(obo:PECO_0005018 obo:PECO_0000109)
-
-# Class: obo:PECO_0005019 (+ phenylmethanesulfonyl fluoride)
-
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005019 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005019 "2019-01-25T13:33:23Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005019 "+ PMSF")
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005019 "phenotype_condition")
-AnnotationAssertion(rdfs:label obo:PECO_0005019 "+ phenylmethanesulfonyl fluoride"@en)
-SubClassOf(obo:PECO_0005019 obo:PECO_0000109)
-
-# Class: obo:PECO_0005020 (minimal medium)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005020 "Experiments were performed in defined minimal medium which has just enough ingredients to support growth. (The number of ingredients that must be added to a minimal medium varies enormously depending on which microorganism is being grown). Typically contains a simple carbon source, salts and water.")
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005020 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005020 "2019-01-25T13:39:33Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005020 "M9 minimal medium")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005020 "synthetic nutrient-poor agar (SNA)")
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005020 "phenotype_condition")
-AnnotationAssertion(rdfs:label obo:PECO_0005020 "minimal medium"@en)
-SubClassOf(obo:PECO_0005020 obo:PECO_0000013)
-
-# Class: obo:PECO_0005024 (+ carboxymethyl cellulose)
-
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005024 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005024 "2019-01-25T13:44:24Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005024 "phenotype_condition")
-AnnotationAssertion(rdfs:label obo:PECO_0005024 "+ carboxymethyl cellulose"@en)
-SubClassOf(obo:PECO_0005024 obo:PECO_0000109)
-
-# Class: obo:PECO_0005027 (+ dithiothreitol)
-
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005027 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005027 "2019-01-25T13:48:53Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005027 "phenotype_condition")
-AnnotationAssertion(rdfs:label obo:PECO_0005027 "+ dithiothreitol"@en)
-SubClassOf(obo:PECO_0005027 obo:PECO_0000109)
-
-# Class: obo:PECO_0005028 (agrobacterium-mediated transient coexpression assay)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005028 "The treatment involving study type in which gene products were transiently expressed using agrobacterium mediated delivery into the organism.")
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005028 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005028 "2019-02-27T10:58:55Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005028 "phenotype_condition")
-AnnotationAssertion(rdfs:label obo:PECO_0005028 "agrobacterium-mediated transient coexpression assay"@en)
-SubClassOf(obo:PECO_0005028 obo:PECO_0005001)
-
-# Class: obo:PECO_0005029 (tobacco host assay)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005029 "The treatment involving study type in which organisms or gene products were assayed in a tobacco host.")
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005029 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005029 "2019-02-27T10:59:19Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005029 "phenotype_condition")
-AnnotationAssertion(rdfs:label obo:PECO_0005029 "tobacco host assay"@en)
-SubClassOf(obo:PECO_0005029 obo:PECO_0005001)
-
-# Class: obo:PECO_0005030 (host assay in leaf)
-
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005030 "The treatment involving study type in which organisms or gene products were assayed in a host leaf.")
-AnnotationAssertion(oboInOwl:created_by obo:PECO_0005030 "alaynecuzick"^^xsd:string)
-AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005030 "2019-02-27T10:59:35Z"^^xsd:dateTime)
-AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005030 "phenotype_condition")
-AnnotationAssertion(rdfs:label obo:PECO_0005030 "host assay in leaf"@en)
-SubClassOf(obo:PECO_0005030 obo:PECO_0005001)
-
 # Class: obo:PECO_0005224 (rich medium)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005224 "Rich media contain the nutrients required to support the growth of a wide variety of organisms containing complex carbon sources (Sugars, peptides etc). It is an undefined medium that has some complex ingredients, such as yeast extract, which consists of a mixture of many chemicals in unknown proportions.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005224 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005224 "2020-01-14T14:17:20Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasAlternativeId obo:PECO_0005224 "PECO:0000137")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:PECO_0005224 "PECO:0005021")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:PECO_0005224 "PECO:0005022")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:PECO_0005224 "PECO:0005023")
@@ -6678,6 +6659,7 @@ AnnotationAssertion(oboInOwl:hasAlternativeId obo:PECO_0005224 "PECO:0005025")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:PECO_0005224 "PECO:0005026")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005224 "Lowenstein-Jensen medium")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005224 "MacConkey agar")
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005224 "Yeast extract (YE)")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005224 "blood agar")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005224 "carboxymethylcellulose medium (CMC)")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005224 "carrot medium")
@@ -6696,6 +6678,8 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005224 "trichothecene ind
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005224 "yeast extract peptone dextrose (YEPD) (YPD)")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005224 "yeast extract with supplements (YES)")
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005224 "phenotype_condition")
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005224 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005224 "PECO:0000137"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005224 "rich medium"@en)
 SubClassOf(obo:PECO_0005224 obo:PECO_0000080)
 
