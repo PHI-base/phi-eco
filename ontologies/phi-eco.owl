@@ -6679,7 +6679,7 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005224 "yeast extract pep
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005224 "yeast extract with supplements (YES)")
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005224 "phenotype_condition")
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005224 "phenotype_condition"^^xsd:string)
-AnnotationAssertion(oboInOwl:id obo:PECO_0005224 "PECO:0000137"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005224 "PECO:0005224"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005224 "rich medium"@en)
 SubClassOf(obo:PECO_0005224 obo:PECO_0000080)
 
