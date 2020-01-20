@@ -842,7 +842,7 @@ AnnotationAssertion(obo:IAO_0000231 obo:PECO_0000014 obo:IAO_0000227)
 AnnotationAssertion(obo:IAO_0100001 obo:PECO_0000014 obo:PECO_0000126)
 AnnotationAssertion(owl:deprecated obo:PECO_0000014 "true"^^xsd:boolean)
 
-# Class: obo:PECO_0000015 (sporulation medium)
+# Class: obo:PECO_0000015 (obsolete sporulation medium)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000015 "Experiments were performed in defined medium promoting mating and sporulation."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000015 "antonialock"^^xsd:string)
@@ -855,10 +855,10 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000015 "PECO:0000015"^^xsd:string)
 AnnotationAssertion(rdfs:comment obo:PECO_0000015 "Use the medium terms to specify the general type of growth medium and its carbon source. 
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000015 "sporulation medium"^^xsd:string)
-SubClassOf(obo:PECO_0000015 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000015 "obsolete sporulation medium"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000015 "true"^^xsd:boolean)
 
-# Class: obo:PECO_0000016 (high glucose MM)
+# Class: obo:PECO_0000016 (obsolete high glucose MM)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000016 "Experiments were performed in minimal medium containing a high concentration of glucose (~5-8% typically) as carbon source, salts and water."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000016 "antonialock"^^xsd:string)
@@ -869,8 +869,8 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000016 "PECO:0000016"^^xsd:string)
 AnnotationAssertion(rdfs:comment obo:PECO_0000016 "Use the medium terms to specify the general type of growth medium and its carbon source. 
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000016 "high glucose MM"^^xsd:string)
-SubClassOf(obo:PECO_0000016 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000016 "obsolete high glucose MM"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000016 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000017 (obo:PECO_0000017)
 
@@ -1266,7 +1266,7 @@ AnnotationAssertion(rdfs:comment obo:PECO_0000053 "Note that this term can be us
 AnnotationAssertion(rdfs:label obo:PECO_0000053 "+ melissic acid"^^xsd:string)
 SubClassOf(obo:PECO_0000053 obo:PECO_0000042)
 
-# Class: obo:PECO_0000054 (glycerol MM)
+# Class: obo:PECO_0000054 (obsolete glycerol MM)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000054 "Experiments were performed in minimal medium where glycerol is the sole carbon source (e.g. NO addition of glucose/ethanol etc at all)."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000054 "antonialock"^^xsd:string)
@@ -1276,8 +1276,8 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0000054 "glycerol minimal 
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000054 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000054 "PECO:0000054"^^xsd:string)
 AnnotationAssertion(rdfs:comment obo:PECO_0000054 "Use the medium terms to specify the general type of growth medium and its carbon source. If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, such as 'caffeine added' or 'nitrogen excluded'. If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000054 "glycerol MM"^^xsd:string)
-SubClassOf(obo:PECO_0000054 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000054 "obsolete glycerol MM"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000054 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000055 (M and P factor produced)
 
@@ -1470,7 +1470,7 @@ AnnotationAssertion(rdfs:comment obo:PECO_0000071 "Note that this term can be us
 AnnotationAssertion(rdfs:label obo:PECO_0000071 "+ 1-Na-PP1"^^xsd:string)
 SubClassOf(obo:PECO_0000071 obo:PECO_0000109)
 
-# Class: obo:PECO_0000072 (glycerol MM with trace glucose)
+# Class: obo:PECO_0000072 (obsolete glycerol MM with trace glucose)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000072 "Experiments were performed in minimal medium where glycerol is the main carbon source, but the medium also contained trace amounts of glucose (<0.1%)."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000072 "antonialock"^^xsd:string)
@@ -1482,10 +1482,10 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000072 "PECO:0000072"^^xsd:string)
 AnnotationAssertion(rdfs:comment obo:PECO_0000072 "Use the medium terms to specify the general type of growth medium and its carbon source. 
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000072 "glycerol MM with trace glucose"^^xsd:string)
-SubClassOf(obo:PECO_0000072 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000072 "obsolete glycerol MM with trace glucose"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000072 "true"^^xsd:boolean)
 
-# Class: obo:PECO_0000073 (DHA minimal medium)
+# Class: obo:PECO_0000073 (obsolete DHA minimal medium)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000073 "Experiments were performed in minimal medium where DHA (dihydroxyacetone) is the main carbon source."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000073 "antonialock"^^xsd:string)
@@ -1498,8 +1498,8 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000073 "PECO:0000073"^^xsd:string)
 AnnotationAssertion(rdfs:comment obo:PECO_0000073 "Use the medium terms to specify the general type of growth medium and its carbon source. 
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000073 "DHA minimal medium"^^xsd:string)
-SubClassOf(obo:PECO_0000073 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000073 "obsolete DHA minimal medium"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000073 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000074 (+ NAD+)
 
@@ -1832,7 +1832,7 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000103 "PECO:0000103"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000103 "liquid culture"^^xsd:string)
 SubClassOf(obo:PECO_0000103 obo:PECO_0000009)
 
-# Class: obo:PECO_0000104 (low glucose MM)
+# Class: obo:PECO_0000104 (obsolete low glucose MM)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000104 "Experiments were performed in minimal medium containing a low concentration of glucose (~0.5%) as carbon source, salts and water."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000104 "antonialock"^^xsd:string)
@@ -1843,8 +1843,8 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000104 "PECO:0000104"^^xsd:string)
 AnnotationAssertion(rdfs:comment obo:PECO_0000104 "Use the medium terms to specify the general type of growth medium and its carbon source. 
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000104 "low glucose MM"^^xsd:string)
-SubClassOf(obo:PECO_0000104 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000104 "obsolete low glucose MM"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000104 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000105 (+ limited thiamine)
 
@@ -2079,7 +2079,7 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000125 "PECO:0000125"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000125 "growth to exponential phase"^^xsd:string)
 SubClassOf(obo:PECO_0000125 obo:PECO_0000122)
 
-# Class: obo:PECO_0000126 (glucose MM)
+# Class: obo:PECO_0000126 (obsolete glucose MM)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000126 "Experiments were performed in medium containing glucose (typically <2% w/v), salts, and water, and may be supplemented with additional amino acids."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000126 "antonialock"^^xsd:string)
@@ -2092,8 +2092,8 @@ AnnotationAssertion(oboInOwl:hasNarrowSynonym obo:PECO_0000126 "EMM"^^xsd:string
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000126 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000126 "PECO:0000126"^^xsd:string)
 AnnotationAssertion(rdfs:comment obo:PECO_0000126 "Use the medium terms to specify the general type of growth medium and its carbon source. If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, such as 'caffeine added' or 'nitrogen excluded'. If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000126 "glucose MM"^^xsd:string)
-SubClassOf(obo:PECO_0000126 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000126 "obsolete glucose MM"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000126 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000127 (nitrogen absent)
 
@@ -2312,7 +2312,7 @@ If certain chemicals not normally found in the medium were added, please also us
 AnnotationAssertion(rdfs:label obo:PECO_0000144 "obsolete sucrose YE"^^xsd:string)
 AnnotationAssertion(owl:deprecated obo:PECO_0000144 "true"^^xsd:boolean)
 
-# Class: obo:PECO_0000145 (maltose MM)
+# Class: obo:PECO_0000145 (obsolete maltose MM)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000145 "Experiments were performed in medium containing maltose, salts and water. May be supplemented with a set of amino acids as per the auxotrophic requirements of the strain."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000145 "antonialock"^^xsd:string)
@@ -2323,10 +2323,10 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000145 "PECO:0000145"^^xsd:string)
 AnnotationAssertion(rdfs:comment obo:PECO_0000145 "Use the medium terms to specify the general type of growth medium and its carbon source. 
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000145 "maltose MM"^^xsd:string)
-SubClassOf(obo:PECO_0000145 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000145 "obsolete maltose MM"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000145 "true"^^xsd:boolean)
 
-# Class: obo:PECO_0000146 (trehalose MM)
+# Class: obo:PECO_0000146 (obsolete trehalose MM)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000146 "Experiments were performed in defined medium containing trehalose, salts and water. May be supplemented with a set of amino acids as per the auxotrophic requirements of the strain."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000146 "antonialock"^^xsd:string)
@@ -2337,10 +2337,10 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000146 "PECO:0000146"^^xsd:string)
 AnnotationAssertion(rdfs:comment obo:PECO_0000146 "Use the medium terms to specify the general type of growth medium and its carbon source. 
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000146 "trehalose MM"^^xsd:string)
-SubClassOf(obo:PECO_0000146 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000146 "obsolete trehalose MM"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000146 "true"^^xsd:boolean)
 
-# Class: obo:PECO_0000147 (sucrose MM)
+# Class: obo:PECO_0000147 (obsolete sucrose MM)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000147 "Experiments were performed in defined medium containing sucrose, salts and water. May be supplemented with a set of amino acids as per the auxotrophic requirements of the strain."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000147 "antonialock"^^xsd:string)
@@ -2351,8 +2351,8 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000147 "PECO:0000147"^^xsd:string)
 AnnotationAssertion(rdfs:comment obo:PECO_0000147 "Use the medium terms to specify the general type of growth medium and its carbon source. 
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000147 "sucrose MM"^^xsd:string)
-SubClassOf(obo:PECO_0000147 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000147 "obsolete sucrose MM"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000147 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000148 (obsolete galactose rich medium with trace glucose)
 
@@ -2883,7 +2883,7 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000195 "PECO:0000195"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000195 "+ limited dethiobiotin"^^xsd:string)
 SubClassOf(obo:PECO_0000195 obo:PECO_0000011)
 
-# Class: obo:PECO_0000196 (glucose MM, urea nitrogen source)
+# Class: obo:PECO_0000196 (obsolete glucose MM, urea nitrogen source)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000196 "Experiments were performed in medium containing glucose (typically <2% w/v), salts, water and with urea as the nitrogen source."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000196 "antonialock"^^xsd:string)
@@ -2892,8 +2892,8 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0000196 "glucose minimal m
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000196 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasRelatedSynonym obo:PECO_0000196 "standard glucose minimal medium, urea nitrogen source"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000196 "PECO:0000196"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000196 "glucose MM, urea nitrogen source"^^xsd:string)
-SubClassOf(obo:PECO_0000196 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000196 "obsolete glucose MM, urea nitrogen source"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000196 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000197 (+ limited nickel)
 
@@ -3232,7 +3232,7 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000229 "PECO:0000229"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000229 "nonpermissive temperature"^^xsd:string)
 SubClassOf(obo:PECO_0000229 obo:PECO_0000132)
 
-# Class: obo:PECO_0000230 (low nitrogen glucose MM)
+# Class: obo:PECO_0000230 (obsolete low nitrogen glucose MM)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000230 "Experiments were performed in glucose-based medium containing much less nitrogen than standard minimal medium (such as EMM). Note that for mating assays sporulation medium may be more appropriate."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000230 "antonialock"^^xsd:string)
@@ -3240,8 +3240,8 @@ AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000230 "2013-09-12T13:05:38
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0000230 "low nitrogen glucose minimal medium"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000230 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000230 "PECO:0000230"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000230 "low nitrogen glucose MM"^^xsd:string)
-SubClassOf(obo:PECO_0000230 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000230 "obsolete low nitrogen glucose MM"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000230 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000231 (+ Na2SO3)
 
@@ -3399,15 +3399,15 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000245 "PECO:0000245"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000245 "+ phosphate"^^xsd:string)
 SubClassOf(obo:PECO_0000245 obo:PECO_0000109)
 
-# Class: obo:PECO_0000246 (glucose MM, proline nitrogen source)
+# Class: obo:PECO_0000246 (obsolete glucose MM, proline nitrogen source)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000246 "Experiments were performed in medium containing glucose, salts, water and with proline as the nitrogen source."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000246 "antonialock"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000246 "2014-03-31T16:09:08Z"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000246 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000246 "PECO:0000246"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000246 "glucose MM, proline nitrogen source"^^xsd:string)
-SubClassOf(obo:PECO_0000246 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000246 "obsolete glucose MM, proline nitrogen source"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000246 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000247 (+ CdSO4)
 
@@ -3489,15 +3489,15 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000253 "PECO:0000253"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000253 "+ limited ammonium"^^xsd:string)
 SubClassOf(obo:PECO_0000253 obo:PECO_0000011)
 
-# Class: obo:PECO_0000254 (glucose MM, ammonium nitrogen source)
+# Class: obo:PECO_0000254 (obsolete glucose MM, ammonium nitrogen source)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000254 "Experiments were performed in medium containing glucose, salts, water and with ammonium as the nitrogen source."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000254 "antonialock"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000254 "2014-06-09T18:52:46Z"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000254 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000254 "PECO:0000254"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000254 "glucose MM, ammonium nitrogen source"^^xsd:string)
-SubClassOf(obo:PECO_0000254 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000254 "obsolete glucose MM, ammonium nitrogen source"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000254 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000255 (arginine absent)
 
@@ -3509,15 +3509,15 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000255 "PECO:0000255"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000255 "arginine absent"^^xsd:string)
 SubClassOf(obo:PECO_0000255 obo:PECO_0000120)
 
-# Class: obo:PECO_0000256 (glycerol MM with trace ethanol)
+# Class: obo:PECO_0000256 (obsolete glycerol MM with trace ethanol)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000256 "Experiments were performed in minimal medium where glycerol is the main carbon source, but the medium also contained a small amount of ethanol."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000256 "antonialock"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000256 "2014-06-23T14:37:11Z"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000256 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000256 "PECO:0000256"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000256 "glycerol MM with trace ethanol"^^xsd:string)
-SubClassOf(obo:PECO_0000256 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000256 "obsolete glycerol MM with trace ethanol"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000256 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000257 (+ cycloheximide)
 
@@ -3571,17 +3571,17 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000261 "PECO:0000261"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000261 "+ CaCl2"^^xsd:string)
 SubClassOf(obo:PECO_0000261 obo:PECO_0000109)
 
-# Class: obo:PECO_0000262 (glucose minimal medium, excluding nitrogen)
+# Class: obo:PECO_0000262 (obsolete glucose minimal medium, excluding nitrogen)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000262 "Experiments were performed in a defined growth medium excluding nitrogen."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000262 "antonialock"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000262 "2014-07-14T10:44:33Z"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000262 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000262 "PECO:0000262"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000262 "glucose minimal medium, excluding nitrogen"^^xsd:string)
-SubClassOf(obo:PECO_0000262 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000262 "obsolete glucose minimal medium, excluding nitrogen"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000262 "true"^^xsd:boolean)
 
-# Class: obo:PECO_0000263 (glucose MM, glutamate nitrogen source)
+# Class: obo:PECO_0000263 (obsolete glucose MM, glutamate nitrogen source)
 
 AnnotationAssertion(Annotation(oboInOwl:hasDbXref "PomBase:mah"^^xsd:string) Annotation(oboInOwl:hasDbXref "https://www.sunrisescience.com/pages/ystmedia_sp_emm.html"^^xsd:string) obo:IAO_0000115 obo:PECO_0000263 "Experiments were performed in medium containing glucose (typically <2% w/v), salts, water and with L-glutamatic acid as the nitrogen source."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000263 "midori"^^xsd:string)
@@ -3592,18 +3592,18 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000263 "phenotype_conditi
 AnnotationAssertion(oboInOwl:hasRelatedSynonym obo:PECO_0000263 "EMMG"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasRelatedSynonym obo:PECO_0000263 "standard glucose minimal medium, glutamate nitrogen source"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000263 "PECO:0000263"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000263 "glucose MM, glutamate nitrogen source"^^xsd:string)
-SubClassOf(obo:PECO_0000263 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000263 "obsolete glucose MM, glutamate nitrogen source"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000263 "true"^^xsd:boolean)
 
-# Class: obo:PECO_0000264 (glucose MM, organic nitrogen source, no inorganic nitrogen)
+# Class: obo:PECO_0000264 (obsolete glucose MM, organic nitrogen source, no inorganic nitrogen)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000264 "Experiments were performed in medium containing glucose, salts, water and with an exclusively organic nitrogen source."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000264 "antonialock"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000264 "2014-07-31T14:36:47Z"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000264 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000264 "PECO:0000264"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000264 "glucose MM, organic nitrogen source, no inorganic nitrogen"^^xsd:string)
-SubClassOf(obo:PECO_0000264 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000264 "obsolete glucose MM, organic nitrogen source, no inorganic nitrogen"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000264 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000265 (>6 hrs in nitrogen starvation)
 
@@ -3615,15 +3615,15 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000265 "PECO:0000265"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000265 ">6 hrs in nitrogen starvation"^^xsd:string)
 SubClassOf(obo:PECO_0000265 obo:PECO_0000122)
 
-# Class: obo:PECO_0000266 (glucose MM, xanthine nitrogen source)
+# Class: obo:PECO_0000266 (obsolete glucose MM, xanthine nitrogen source)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000266 "Experiments were performed in medium containing glucose (typically <2% w/v), salts, water and with xanthine as the nitrogen source."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000266 "antonialock"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000266 "2014-08-06T10:43:17Z"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000266 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000266 "PECO:0000266"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000266 "glucose MM, xanthine nitrogen source"^^xsd:string)
-SubClassOf(obo:PECO_0000266 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000266 "obsolete glucose MM, xanthine nitrogen source"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000266 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000267 (+ naphthaleneacetic acid)
 
@@ -3676,35 +3676,35 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000271 "PECO:0000271"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000271 "+ SNP"^^xsd:string)
 SubClassOf(obo:PECO_0000271 obo:PECO_0000109)
 
-# Class: obo:PECO_0000272 (glucose MM, no nitrogen)
+# Class: obo:PECO_0000272 (obsolete glucose MM, no nitrogen)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000272 "Experiments were performed in medium containing glucose (typically <2% w/v), salts, water and with no nitrogen source."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000272 "antonialock"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000272 "2014-12-08T09:25:07Z"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000272 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000272 "PECO:0000272"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000272 "glucose MM, no nitrogen"^^xsd:string)
-SubClassOf(obo:PECO_0000272 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000272 "obsolete glucose MM, no nitrogen"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000272 "true"^^xsd:boolean)
 
-# Class: obo:PECO_0000273 (glucose MM, no glucose)
+# Class: obo:PECO_0000273 (obsolete glucose MM, no glucose)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000273 "Experiments were performed in medium containing salts, water, a nitrogen source but no glucose."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000273 "antonialock"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000273 "2014-12-08T09:25:55Z"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000273 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000273 "PECO:0000273"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000273 "glucose MM, no glucose"^^xsd:string)
-SubClassOf(obo:PECO_0000273 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000273 "obsolete glucose MM, no glucose"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000273 "true"^^xsd:boolean)
 
-# Class: obo:PECO_0000274 (glucose MM, adenine nitrogen source)
+# Class: obo:PECO_0000274 (obsolete glucose MM, adenine nitrogen source)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000274 "Experiments were performed in medium containing glucose, salts, water and with adenine as the nitrogen source."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000274 "antonialock"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000274 "2015-01-21T14:51:57Z"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000274 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000274 "PECO:0000274"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000274 "glucose MM, adenine nitrogen source"^^xsd:string)
-SubClassOf(obo:PECO_0000274 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000274 "obsolete glucose MM, adenine nitrogen source"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000274 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000275 (competitive culture)
 
@@ -3716,15 +3716,15 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000275 "PECO:0000275"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000275 "competitive culture"^^xsd:string)
 SubClassOf(obo:PECO_0000275 obo:PECO_0000009)
 
-# Class: obo:PECO_0000276 (glucose MM, uracil nitrogen source)
+# Class: obo:PECO_0000276 (obsolete glucose MM, uracil nitrogen source)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000276 "Experiments were performed in medium containing glucose, salts, water and with uracil as the nitrogen source."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000276 "antonialock"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000276 "2015-02-12T11:59:26Z"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000276 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000276 "PECO:0000276"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000276 "glucose MM, uracil nitrogen source"^^xsd:string)
-SubClassOf(obo:PECO_0000276 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000276 "obsolete glucose MM, uracil nitrogen source"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000276 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000277 (+ bleomycin)
 
@@ -3736,15 +3736,15 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000277 "PECO:0000277"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000277 "+ bleomycin"^^xsd:string)
 SubClassOf(obo:PECO_0000277 obo:PECO_0000109)
 
-# Class: obo:PECO_0000278 (glucose MM, isoleucine nitrogen source)
+# Class: obo:PECO_0000278 (obsolete glucose MM, isoleucine nitrogen source)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000278 "Experiments were performed in medium containing glucose, salts, water and with isoleucine as the nitrogen source."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000278 "antonialock"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000278 "2015-03-31T11:12:05Z"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000278 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000278 "PECO:0000278"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000278 "glucose MM, isoleucine nitrogen source"^^xsd:string)
-SubClassOf(obo:PECO_0000278 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000278 "obsolete glucose MM, isoleucine nitrogen source"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000278 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000279 (+ MnCl2)
 
@@ -3825,15 +3825,15 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000285 "PECO:0000285"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000285 "cold shock and recovery at normal temperature"^^xsd:string)
 SubClassOf(obo:PECO_0000285 obo:PECO_0000094)
 
-# Class: obo:PECO_0000286 (glucose MM, no adenine)
+# Class: obo:PECO_0000286 (obsolete glucose MM, no adenine)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000286 "Experiments were performed in medium containing glucose (typically <2% w/v), salts, water and with no adenine."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000286 "antonialock"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000286 "2015-08-06T09:25:07Z"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000286 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000286 "PECO:0000286"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000286 "glucose MM, no adenine"^^xsd:string)
-SubClassOf(obo:PECO_0000286 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000286 "obsolete glucose MM, no adenine"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000286 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000287 (+ nigericin)
 
@@ -3856,15 +3856,15 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000288 "PECO:0000288"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000288 "temperature shift, high to standard"^^xsd:string)
 SubClassOf(obo:PECO_0000288 obo:PECO_0000094)
 
-# Class: obo:PECO_0000289 (galactose MM)
+# Class: obo:PECO_0000289 (obsolete galactose MM)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000289 "Experiments were performed in medium containing galactose (typically <2% w/v), salts and water."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000289 "antonialock"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000289 "2015-11-18T09:25:07Z"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000289 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000289 "PECO:0000289"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000289 "galactose MM"^^xsd:string)
-SubClassOf(obo:PECO_0000289 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000289 "obsolete galactose MM"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000289 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000290 (+ carbendazim)
 
@@ -3929,15 +3929,15 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000295 "PECO:0000295"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000295 "two-step temperature shift, low to standard, standard to high"^^xsd:string)
 SubClassOf(obo:PECO_0000295 obo:PECO_0000094)
 
-# Class: obo:PECO_0000296 (glucose MM, phenylalanine nitrogen source)
+# Class: obo:PECO_0000296 (obsolete glucose MM, phenylalanine nitrogen source)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000296 "Experiments were performed in medium containing glucose, salts, water and with phenylalanine as the nitrogen source."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000296 "antonialock"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000296 "2016-06-21T09:51:08Z"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000296 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000296 "PECO:0000296"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000296 "glucose MM, phenylalanine nitrogen source"^^xsd:string)
-SubClassOf(obo:PECO_0000296 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000296 "obsolete glucose MM, phenylalanine nitrogen source"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000296 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000297 (+ NaAsO2)
 
@@ -4272,15 +4272,15 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000327 "PECO:0000327"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000327 "+ MG132"^^xsd:string)
 SubClassOf(obo:PECO_0000327 obo:PECO_0000109)
 
-# Class: obo:PECO_0000328 (LNB glucose medium)
+# Class: obo:PECO_0000328 (obsolete LNB glucose medium)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000328 "LNB medium is a Low Nutrient medium containing yeast nitrogen base without amino acids, glucose, salts and vitamins."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000328 "antonia"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000328 "2017-10-20T16:39:21Z"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000328 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000328 "PECO:0000328"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000328 "LNB glucose medium"^^xsd:string)
-SubClassOf(obo:PECO_0000328 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000328 "obsolete LNB glucose medium"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000328 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000329 (+ formamide)
 
@@ -4302,7 +4302,7 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000330 "PECO:0000330"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000330 "+ limited iron"^^xsd:string)
 SubClassOf(obo:PECO_0000330 obo:PECO_0000011)
 
-# Class: obo:PECO_0000331 (glucose MM, arginine nitrogen source)
+# Class: obo:PECO_0000331 (obsolete glucose MM, arginine nitrogen source)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000331 "Experiments were performed in medium containing glucose, salts, water and with arginine as the nitrogen source."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000331 "antonia"^^xsd:string)
@@ -4310,8 +4310,8 @@ AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000331 "2018-01-25T10:36:13
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0000331 "glucose minimal medium, arginine nitrogen source"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000331 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000331 "PECO:0000331"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000331 "glucose MM, arginine nitrogen source"^^xsd:string)
-SubClassOf(obo:PECO_0000331 obo:PECO_0000013)
+AnnotationAssertion(rdfs:label obo:PECO_0000331 "obsolete glucose MM, arginine nitrogen source"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000331 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000332 (+ 2-DG)
 
