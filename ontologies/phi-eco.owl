@@ -1577,7 +1577,7 @@ AnnotationAssertion(rdfs:comment obo:PECO_0000080 "This is a grouping term, do n
 AnnotationAssertion(rdfs:label obo:PECO_0000080 "grouping rich medium"^^xsd:string)
 SubClassOf(obo:PECO_0000080 obo:PECO_0000009)
 
-# Class: obo:PECO_0000081 (low glucose YES)
+# Class: obo:PECO_0000081 (obsolete low glucose YES)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000081 "Experiments were performed in rich medium containing yeast extract and other components. The concentration of glucose is very low (eg around 0.1%)."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000081 "antonialock"^^xsd:string)
@@ -1589,8 +1589,8 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000081 "PECO:0000081"^^xsd:string)
 AnnotationAssertion(rdfs:comment obo:PECO_0000081 "Use the medium terms to specify the general type of growth medium and its carbon source. 
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000081 "low glucose YES"^^xsd:string)
-SubClassOf(obo:PECO_0000081 obo:PECO_0000080)
+AnnotationAssertion(rdfs:label obo:PECO_0000081 "obsolete low glucose YES"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000081 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000082 (+ arginine)
 
@@ -2208,7 +2208,7 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000135 "PECO:0000135"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000135 "semi-aerobic environment"^^xsd:string)
 SubClassOf(obo:PECO_0000135 obo:PECO_0000132)
 
-# Class: obo:PECO_0000136 (raffinose YE)
+# Class: obo:PECO_0000136 (obsolete raffinose YE)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000136 "Experiments were performed in rich medium containing raffinose as the carbon source, yeast extract and other components. The concentration of raffinose is typically around 2%."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000136 "antonialock"^^xsd:string)
@@ -2219,10 +2219,10 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000136 "PECO:0000136"^^xsd:string)
 AnnotationAssertion(rdfs:comment obo:PECO_0000136 "Use the medium terms to specify the general type of growth medium and its carbon source. 
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000136 "raffinose YE"^^xsd:string)
-SubClassOf(obo:PECO_0000136 obo:PECO_0000080)
+AnnotationAssertion(rdfs:label obo:PECO_0000136 "obsolete raffinose YE"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000136 "true"^^xsd:boolean)
 
-# Class: obo:PECO_0000138 (glycerol YE)
+# Class: obo:PECO_0000138 (obsolete glycerol YE)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000138 "Experiments were performed in rich medium containing glycerol as the sole carbon source, yeast extract and other components. The concentration of glycerol is typically around 2-3% and supplemented with trace amounts of another carbon source (e.g. glucose)."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000138 "antonialock"^^xsd:string)
@@ -2235,10 +2235,10 @@ AnnotationAssertion(oboInOwl:hasRelatedSynonym obo:PECO_0000138 "glycerol sole c
 AnnotationAssertion(oboInOwl:hasRelatedSynonym obo:PECO_0000138 "nonfermentable glycerol sole carbon source rich medium"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000138 "PECO:0000138"^^xsd:string)
 AnnotationAssertion(rdfs:comment obo:PECO_0000138 "Use the medium terms to specify the general type of growth medium and its carbon source. If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, such as 'caffeine added' or 'nitrogen excluded'. If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000138 "glycerol YE"^^xsd:string)
-SubClassOf(obo:PECO_0000138 obo:PECO_0000080)
+AnnotationAssertion(rdfs:label obo:PECO_0000138 "obsolete glycerol YE"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000138 "true"^^xsd:boolean)
 
-# Class: obo:PECO_0000139 (glycerol and ethanol rich medium)
+# Class: obo:PECO_0000139 (obsolete glycerol and ethanol rich medium)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000139 "Experiments were performed in rich medium containing glycerol and ethanol as the carbon sources, yeast extract and other components."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000139 "antonialock"^^xsd:string)
@@ -2253,8 +2253,8 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000139 "PECO:0000139"^^xsd:string)
 AnnotationAssertion(rdfs:comment obo:PECO_0000139 "Use the medium terms to specify the general type of growth medium and its carbon source. 
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000139 "glycerol and ethanol rich medium"^^xsd:string)
-SubClassOf(obo:PECO_0000139 obo:PECO_0000080)
+AnnotationAssertion(rdfs:label obo:PECO_0000139 "obsolete glycerol and ethanol rich medium"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000139 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000140 (in vitro)
 
@@ -2298,7 +2298,7 @@ AnnotationAssertion(rdfs:comment obo:PECO_0000143 "Note that this term includes 
 AnnotationAssertion(rdfs:label obo:PECO_0000143 "+ antimycin A"^^xsd:string)
 SubClassOf(obo:PECO_0000143 obo:PECO_0000109)
 
-# Class: obo:PECO_0000144 (sucrose YE)
+# Class: obo:PECO_0000144 (obsolete sucrose YE)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000144 "Experiments were performed in rich medium containing raffinose as the carbon source, yeast extract and other components. The concentration of sucrose is typically around 2%."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000144 "antonialock"^^xsd:string)
@@ -2309,8 +2309,8 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000144 "PECO:0000144"^^xsd:string)
 AnnotationAssertion(rdfs:comment obo:PECO_0000144 "Use the medium terms to specify the general type of growth medium and its carbon source. 
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000144 "sucrose YE"^^xsd:string)
-SubClassOf(obo:PECO_0000144 obo:PECO_0000080)
+AnnotationAssertion(rdfs:label obo:PECO_0000144 "obsolete sucrose YE"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000144 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000145 (maltose MM)
 
@@ -2354,7 +2354,7 @@ If certain chemicals not normally found in the medium were added, please also us
 AnnotationAssertion(rdfs:label obo:PECO_0000147 "sucrose MM"^^xsd:string)
 SubClassOf(obo:PECO_0000147 obo:PECO_0000013)
 
-# Class: obo:PECO_0000148 (galactose rich medium with trace glucose)
+# Class: obo:PECO_0000148 (obsolete galactose rich medium with trace glucose)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000148 "Experiments were performed in rich medium containing galactose and glucose as the carbon sources, yeast extract and other components. The concentration of galactose is typically around 2%, whereas the concentration of glucose is very low - around 0.1%."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000148 "antonialock"^^xsd:string)
@@ -2367,8 +2367,8 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000148 "PECO:0000148"^^xsd:string)
 AnnotationAssertion(rdfs:comment obo:PECO_0000148 "Use the medium terms to specify the general type of growth medium and its carbon source. 
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000148 "galactose rich medium with trace glucose"^^xsd:string)
-SubClassOf(obo:PECO_0000148 obo:PECO_0000080)
+AnnotationAssertion(rdfs:label obo:PECO_0000148 "obsolete galactose rich medium with trace glucose"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000148 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000149 (+ 1-DNJ)
 
@@ -2518,7 +2518,7 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000161 "PECO:0000161"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000161 "Hoechst stain added"^^xsd:string)
 AnnotationAssertion(owl:deprecated obo:PECO_0000161 "true"^^xsd:boolean)
 
-# Class: obo:PECO_0000162 (high glucose YES)
+# Class: obo:PECO_0000162 (obsolete high glucose YES)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000162 "Experiments were performed in rich medium containing yeast extract and other components. The concentration of glucose is high low (eg around 8%)."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000162 "antonialock"^^xsd:string)
@@ -2526,8 +2526,8 @@ AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000162 "2012-08-14T11:45:05
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000162 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasRelatedSynonym obo:PECO_0000162 "high glucose rich medium"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000162 "PECO:0000162"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000162 "high glucose YES"^^xsd:string)
-SubClassOf(obo:PECO_0000162 obo:PECO_0000080)
+AnnotationAssertion(rdfs:label obo:PECO_0000162 "obsolete high glucose YES"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000162 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000163 (FITC-conjugated lectin added)
 
@@ -3296,7 +3296,7 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000235 "PECO:0000235"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000235 "+ microtubule depolymerizing drugs"^^xsd:string)
 SubClassOf(obo:PECO_0000235 obo:PECO_0000109)
 
-# Class: obo:PECO_0000236 (maltose YE)
+# Class: obo:PECO_0000236 (obsolete maltose YE)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000236 "Experiments were performed in rich medium containing maltose as the carbon source, yeast extract and other components."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000236 "antonialock"^^xsd:string)
@@ -3304,8 +3304,8 @@ AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000236 "2013-11-25T11:32:09
 AnnotationAssertion(oboInOwl:hasBroadSynonym obo:PECO_0000236 "maltose rich medium"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000236 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000236 "PECO:0000236"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000236 "maltose YE"^^xsd:string)
-SubClassOf(obo:PECO_0000236 obo:PECO_0000080)
+AnnotationAssertion(rdfs:label obo:PECO_0000236 "obsolete maltose YE"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000236 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000237 (growth >48 hrs)
 
