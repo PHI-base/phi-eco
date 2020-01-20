@@ -3054,15 +3054,15 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0000212 "PECO:0000212"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000212 "+ ethanol"^^xsd:string)
 SubClassOf(obo:PECO_0000212 obo:PECO_0000109)
 
-# Class: obo:PECO_0000213 (non-fermentable carbon sources medium)
+# Class: obo:PECO_0000213 (obsolete non-fermentable carbon sources medium)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000213 "Experiments were performed in medium containing non-fermentable carbon sources. Please note that more specific terms exist, such as glycerol and ethanol rich medium that can be used if this is known."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0000213 "antonialock"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000213 "2013-02-06T17:30:02Z"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000213 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000213 "PECO:0000213"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0000213 "non-fermentable carbon sources medium"^^xsd:string)
-SubClassOf(obo:PECO_0000213 obo:PECO_0000009)
+AnnotationAssertion(rdfs:label obo:PECO_0000213 "obsolete non-fermentable carbon sources medium"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0000213 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000214 (+ MgCl2)
 
