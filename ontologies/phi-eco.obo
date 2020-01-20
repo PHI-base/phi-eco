@@ -144,23 +144,23 @@ creation_date: 2012-02-07T12:41:33Z
 
 [Term]
 id: PECO:0000015
-name: sporulation medium
+name: obsolete sporulation medium
 def: "Experiments were performed in defined medium promoting mating and sporulation." []
 comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "malt extract medium" NARROW []
 synonym: "mating medium" RELATED []
 synonym: "SPA medium" NARROW []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2012-02-07T01:35:35Z
 
 [Term]
 id: PECO:0000016
-name: high glucose MM
+name: obsolete high glucose MM
 def: "Experiments were performed in minimal medium containing a high concentration of glucose (~5-8% typically) as carbon source, salts and water." []
 comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "high glucose minimal medium" EXACT []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2012-02-07T12:51:06Z
 
@@ -466,12 +466,12 @@ creation_date: 2012-02-07T03:17:47Z
 
 [Term]
 id: PECO:0000054
-name: glycerol MM
+name: obsolete glycerol MM
 alt_id: PECO:0000077
 def: "Experiments were performed in minimal medium where glycerol is the sole carbon source (e.g. NO addition of glucose/ethanol etc at all)." []
 comment: Use the medium terms to specify the general type of growth medium and its carbon source. If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, such as 'caffeine added' or 'nitrogen excluded'. If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "glycerol minimal medium" EXACT []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2012-02-07T03:29:51Z
 
@@ -634,24 +634,24 @@ creation_date: 2012-02-19T10:45:53Z
 
 [Term]
 id: PECO:0000072
-name: glycerol MM with trace glucose
+name: obsolete glycerol MM with trace glucose
 def: "Experiments were performed in minimal medium where glycerol is the main carbon source, but the medium also contained trace amounts of glucose (<0.1%)." []
 comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "glycerol main carbon source + very low glucose MM" EXACT []
 synonym: "glycerol minimal medium with trace glucose" EXACT []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2012-02-27T12:12:17Z
 
 [Term]
 id: PECO:0000073
-name: DHA minimal medium
+name: obsolete DHA minimal medium
 def: "Experiments were performed in minimal medium where DHA (dihydroxyacetone) is the main carbon source." []
 comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "DHA MM" EXACT []
 synonym: "dihydroxyacetone MM" EXACT []
 synonym: "dihydroxyactone minimal medium" EXACT []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2012-02-27T12:15:46Z
 
@@ -715,12 +715,12 @@ creation_date: 2012-03-14T01:33:58Z
 
 [Term]
 id: PECO:0000081
-name: low glucose YES
+name: obsolete low glucose YES
 def: "Experiments were performed in rich medium containing yeast extract and other components. The concentration of glucose is very low (eg around 0.1%)." []
 comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "low glucose rich medium" RELATED []
 synonym: "low glucose YE" RELATED []
-is_a: PECO:0000080 ! grouping rich medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2012-03-14T01:35:45Z
 
@@ -918,11 +918,11 @@ creation_date: 2012-05-04T07:53:10Z
 
 [Term]
 id: PECO:0000104
-name: low glucose MM
+name: obsolete low glucose MM
 def: "Experiments were performed in minimal medium containing a low concentration of glucose (~0.5%) as carbon source, salts and water." []
 comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "low glucose minimal medium" EXACT []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2012-05-11T02:53:00Z
 
@@ -1117,7 +1117,7 @@ creation_date: 2012-06-14T09:31:28Z
 
 [Term]
 id: PECO:0000126
-name: glucose MM
+name: obsolete glucose MM
 alt_id: PECO:0000014
 def: "Experiments were performed in medium containing glucose (typically <2% w/v), salts, and water, and may be supplemented with additional amino acids." []
 comment: Use the medium terms to specify the general type of growth medium and its carbon source. If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, such as 'caffeine added' or 'nitrogen excluded'. If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
@@ -1126,7 +1126,7 @@ synonym: "glucose minimal medium" EXACT []
 synonym: "normal glucose minimal medium" EXACT []
 synonym: "normal glucose MM" EXACT []
 synonym: "standard glucose minimal medium" EXACT []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2012-06-14T11:28:33Z
 
@@ -1223,35 +1223,21 @@ creation_date: 2012-06-14T20:26:46Z
 
 [Term]
 id: PECO:0000136
-name: raffinose YE
+name: obsolete raffinose YE
 def: "Experiments were performed in rich medium containing raffinose as the carbon source, yeast extract and other components. The concentration of raffinose is typically around 2%." []
 comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "raffinose rich medium" BROAD []
-is_a: PECO:0000080 ! grouping rich medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2012-06-14T20:32:52Z
 
 [Term]
 id: PECO:0000137
-name: YES
 alt_id: PECO:0000012
-def: "Experiments were performed in rich medium containing yeast extract, glucose, and other components. The concentration of glucose is typically around 2-3%." []
-comment: Use the medium terms to specify the general type of growth medium and its carbon source. If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, such as 'caffeine added' or 'nitrogen excluded'. If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
-synonym: "complex medium" RELATED []
-synonym: "glucose rich medium" EXACT []
-synonym: "normal glucose rich medium" EXACT []
-synonym: "standard dextrose rich medium" EXACT []
-synonym: "standard glucose rich medium" EXACT []
-synonym: "YE" NARROW []
-synonym: "YE4S" NARROW []
-synonym: "YE5S" NARROW []
-is_a: PECO:0000080 ! grouping rich medium
-created_by: antonialock
-creation_date: 2012-06-14T20:35:20Z
 
 [Term]
 id: PECO:0000138
-name: glycerol YE
+name: obsolete glycerol YE
 alt_id: PECO:0000083
 def: "Experiments were performed in rich medium containing glycerol as the sole carbon source, yeast extract and other components. The concentration of glycerol is typically around 2-3% and supplemented with trace amounts of another carbon source (e.g. glucose)." []
 comment: Use the medium terms to specify the general type of growth medium and its carbon source. If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, such as 'caffeine added' or 'nitrogen excluded'. If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
@@ -1260,13 +1246,13 @@ synonym: "glycerol sole carbon source rich medium" EXACT []
 synonym: "glycerol sole carbon source YE" RELATED []
 synonym: "non-fermentable glycerol sole carbon source rich medium" EXACT []
 synonym: "nonfermentable glycerol sole carbon source rich medium" RELATED []
-is_a: PECO:0000080 ! grouping rich medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2012-06-14T20:38:23Z
 
 [Term]
 id: PECO:0000139
-name: glycerol and ethanol rich medium
+name: obsolete glycerol and ethanol rich medium
 def: "Experiments were performed in rich medium containing glycerol and ethanol as the carbon sources, yeast extract and other components." []
 comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "glycerol + ethanol YE" RELATED []
@@ -1274,7 +1260,7 @@ synonym: "glycerol and ethanol YE" RELATED []
 synonym: "non-fermentable glycerol and ethanol rich medium" EXACT []
 synonym: "nonfermentable glycerol and ethanol rich medium" EXACT []
 synonym: "YCEG" NARROW []
-is_a: PECO:0000080 ! grouping rich medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2012-06-14T20:39:24Z
 
@@ -1314,53 +1300,53 @@ creation_date: 2012-06-19T15:23:58Z
 
 [Term]
 id: PECO:0000144
-name: sucrose YE
+name: obsolete sucrose YE
 def: "Experiments were performed in rich medium containing raffinose as the carbon source, yeast extract and other components. The concentration of sucrose is typically around 2%." []
 comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "sucrose rich medium" BROAD []
-is_a: PECO:0000080 ! grouping rich medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2012-06-19T15:26:15Z
 
 [Term]
 id: PECO:0000145
-name: maltose MM
+name: obsolete maltose MM
 def: "Experiments were performed in medium containing maltose, salts and water. May be supplemented with a set of amino acids as per the auxotrophic requirements of the strain." []
 comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "maltose minimal medium" EXACT []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2012-06-19T16:25:41Z
 
 [Term]
 id: PECO:0000146
-name: trehalose MM
+name: obsolete trehalose MM
 def: "Experiments were performed in defined medium containing trehalose, salts and water. May be supplemented with a set of amino acids as per the auxotrophic requirements of the strain." []
 comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "trehalose minimal medium" EXACT []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2012-06-19T16:26:05Z
 
 [Term]
 id: PECO:0000147
-name: sucrose MM
+name: obsolete sucrose MM
 def: "Experiments were performed in defined medium containing sucrose, salts and water. May be supplemented with a set of amino acids as per the auxotrophic requirements of the strain." []
 comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "sucrose minimal medium" EXACT []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2012-06-19T16:26:22Z
 
 [Term]
 id: PECO:0000148
-name: galactose rich medium with trace glucose
+name: obsolete galactose rich medium with trace glucose
 def: "Experiments were performed in rich medium containing galactose and glucose as the carbon sources, yeast extract and other components. The concentration of galactose is typically around 2%, whereas the concentration of glucose is very low - around 0.1%." []
 comment: Use the medium terms to specify the general type of growth medium and its carbon source. \nIf certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.\n If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'.
 synonym: "non-fermentable galactose and very low glucose rich medium" EXACT []
 synonym: "nonfermentable galactose and very low glucose rich medium" EXACT []
 synonym: "YpGalA" NARROW []
-is_a: PECO:0000080 ! grouping rich medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2012-06-20T11:48:39Z
 
@@ -1488,10 +1474,10 @@ creation_date: 2012-08-13T13:22:44Z
 
 [Term]
 id: PECO:0000162
-name: high glucose YES
+name: obsolete high glucose YES
 def: "Experiments were performed in rich medium containing yeast extract and other components. The concentration of glucose is high low (eg around 8%)." []
 synonym: "high glucose rich medium" RELATED []
-is_a: PECO:0000080 ! grouping rich medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2012-08-14T11:45:05Z
 
@@ -1785,11 +1771,11 @@ creation_date: 2012-11-08T14:29:19Z
 
 [Term]
 id: PECO:0000196
-name: glucose MM, urea nitrogen source
+name: obsolete glucose MM, urea nitrogen source
 def: "Experiments were performed in medium containing glucose (typically <2% w/v), salts, water and with urea as the nitrogen source." []
 synonym: "glucose minimal medium, urea nitrogen source" EXACT []
 synonym: "standard glucose minimal medium, urea nitrogen source" RELATED []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2012-11-08T18:22:08Z
 
@@ -1826,15 +1812,6 @@ def: "An experimental condition in which peptone was added to the medium or assa
 is_a: PECO:0000109 ! grouping excess
 created_by: antonialock
 creation_date: 2012-11-13T12:38:35Z
-
-[Term]
-id: PECO:0000201
-name: YPD
-def: "Experiments were performed in rich medium containing peptone, yeast extract and other components. The concentration of glucose is typically around 2-3%. Note that peptone, which is a mixture of nutrients generated by proteolytic digestion of animal protein with trypsin, is not normally a component of S. pombe rich media (it is however normally present in S. cerevisiae rich media)." []
-synonym: "glucose rich medium, peptone/YE nitrogen source" BROAD []
-is_a: PECO:0000080 ! grouping rich medium
-created_by: antonialock
-creation_date: 2012-11-13T12:40:59Z
 
 [Term]
 id: PECO:0000202
@@ -1929,9 +1906,9 @@ creation_date: 2013-02-06T17:29:28Z
 
 [Term]
 id: PECO:0000213
-name: non-fermentable carbon sources medium
+name: obsolete non-fermentable carbon sources medium
 def: "Experiments were performed in medium containing non-fermentable carbon sources. Please note that more specific terms exist, such as glycerol and ethanol rich medium that can be used if this is known." []
-is_a: PECO:0000009 ! grouping growth medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2013-02-06T17:30:02Z
 
@@ -2073,10 +2050,10 @@ creation_date: 2013-09-09T15:29:19Z
 
 [Term]
 id: PECO:0000230
-name: low nitrogen glucose MM
+name: obsolete low nitrogen glucose MM
 def: "Experiments were performed in glucose-based medium containing much less nitrogen than standard minimal medium (such as EMM). Note that for mating assays sporulation medium may be more appropriate." []
 synonym: "low nitrogen glucose minimal medium" EXACT []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2013-09-12T13:05:38Z
 
@@ -2125,10 +2102,10 @@ creation_date: 2013-11-11T09:15:19Z
 
 [Term]
 id: PECO:0000236
-name: maltose YE
+name: obsolete maltose YE
 def: "Experiments were performed in rich medium containing maltose as the carbon source, yeast extract and other components." []
 synonym: "maltose rich medium" BROAD []
-is_a: PECO:0000080 ! grouping rich medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2013-11-25T11:32:09Z
 
@@ -2208,9 +2185,9 @@ creation_date: 2014-03-26T22:25:16Z
 
 [Term]
 id: PECO:0000246
-name: glucose MM, proline nitrogen source
+name: obsolete glucose MM, proline nitrogen source
 def: "Experiments were performed in medium containing glucose, salts, water and with proline as the nitrogen source." []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2014-03-31T16:09:08Z
 
@@ -2282,9 +2259,9 @@ creation_date: 2014-06-09T18:27:39Z
 
 [Term]
 id: PECO:0000254
-name: glucose MM, ammonium nitrogen source
+name: obsolete glucose MM, ammonium nitrogen source
 def: "Experiments were performed in medium containing glucose, salts, water and with ammonium as the nitrogen source." []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2014-06-09T18:52:46Z
 
@@ -2298,9 +2275,9 @@ creation_date: 2014-06-12T09:54:53Z
 
 [Term]
 id: PECO:0000256
-name: glycerol MM with trace ethanol
+name: obsolete glycerol MM with trace ethanol
 def: "Experiments were performed in minimal medium where glycerol is the main carbon source, but the medium also contained a small amount of ethanol." []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2014-06-23T14:37:11Z
 
@@ -2348,29 +2325,29 @@ creation_date: 2014-07-09T15:29:27Z
 
 [Term]
 id: PECO:0000262
-name: glucose minimal medium, excluding nitrogen
+name: obsolete glucose minimal medium, excluding nitrogen
 def: "Experiments were performed in a defined growth medium excluding nitrogen." []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2014-07-14T10:44:33Z
 
 [Term]
 id: PECO:0000263
-name: glucose MM, glutamate nitrogen source
+name: obsolete glucose MM, glutamate nitrogen source
 def: "Experiments were performed in medium containing glucose (typically <2% w/v), salts, water and with L-glutamatic acid as the nitrogen source." [https://www.sunrisescience.com/pages/ystmedia_sp_emm.html, PomBase:mah]
 synonym: "EMMG" RELATED []
 synonym: "glucose minimal medium, glutamate nitrogen source" EXACT []
 synonym: "PMG" NARROW []
 synonym: "standard glucose minimal medium, glutamate nitrogen source" RELATED []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: midori
 creation_date: 2014-07-24T10:08:27Z
 
 [Term]
 id: PECO:0000264
-name: glucose MM, organic nitrogen source, no inorganic nitrogen
+name: obsolete glucose MM, organic nitrogen source, no inorganic nitrogen
 def: "Experiments were performed in medium containing glucose, salts, water and with an exclusively organic nitrogen source." []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2014-07-31T14:36:47Z
 
@@ -2384,9 +2361,9 @@ creation_date: 2014-08-01T13:48:41Z
 
 [Term]
 id: PECO:0000266
-name: glucose MM, xanthine nitrogen source
+name: obsolete glucose MM, xanthine nitrogen source
 def: "Experiments were performed in medium containing glucose (typically <2% w/v), salts, water and with xanthine as the nitrogen source." []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2014-08-06T10:43:17Z
 
@@ -2433,25 +2410,25 @@ creation_date: 2014-11-28T16:38:25Z
 
 [Term]
 id: PECO:0000272
-name: glucose MM, no nitrogen
+name: obsolete glucose MM, no nitrogen
 def: "Experiments were performed in medium containing glucose (typically <2% w/v), salts, water and with no nitrogen source." []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2014-12-08T09:25:07Z
 
 [Term]
 id: PECO:0000273
-name: glucose MM, no glucose
+name: obsolete glucose MM, no glucose
 def: "Experiments were performed in medium containing salts, water, a nitrogen source but no glucose." []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2014-12-08T09:25:55Z
 
 [Term]
 id: PECO:0000274
-name: glucose MM, adenine nitrogen source
+name: obsolete glucose MM, adenine nitrogen source
 def: "Experiments were performed in medium containing glucose, salts, water and with adenine as the nitrogen source." []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2015-01-21T14:51:57Z
 
@@ -2465,9 +2442,9 @@ creation_date: 2015-01-29T16:41:07Z
 
 [Term]
 id: PECO:0000276
-name: glucose MM, uracil nitrogen source
+name: obsolete glucose MM, uracil nitrogen source
 def: "Experiments were performed in medium containing glucose, salts, water and with uracil as the nitrogen source." []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2015-02-12T11:59:26Z
 
@@ -2481,9 +2458,9 @@ creation_date: 2015-03-23T15:40:05Z
 
 [Term]
 id: PECO:0000278
-name: glucose MM, isoleucine nitrogen source
+name: obsolete glucose MM, isoleucine nitrogen source
 def: "Experiments were performed in medium containing glucose, salts, water and with isoleucine as the nitrogen source." []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2015-03-31T11:12:05Z
 
@@ -2554,9 +2531,9 @@ creation_date: 2012-05-23T11:07:16Z
 
 [Term]
 id: PECO:0000286
-name: glucose MM, no adenine
+name: obsolete glucose MM, no adenine
 def: "Experiments were performed in medium containing glucose (typically <2% w/v), salts, water and with no adenine." []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2015-08-06T09:25:07Z
 
@@ -2579,9 +2556,9 @@ creation_date: 2015-11-05T16:29:20Z
 
 [Term]
 id: PECO:0000289
-name: galactose MM
+name: obsolete galactose MM
 def: "Experiments were performed in medium containing galactose (typically <2% w/v), salts and water." []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2015-11-18T09:25:07Z
 
@@ -2638,9 +2615,9 @@ creation_date: 2016-06-14T16:30:20Z
 
 [Term]
 id: PECO:0000296
-name: glucose MM, phenylalanine nitrogen source
+name: obsolete glucose MM, phenylalanine nitrogen source
 def: "Experiments were performed in medium containing glucose, salts, water and with phenylalanine as the nitrogen source." []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonialock
 creation_date: 2016-06-21T09:51:08Z
 
@@ -2917,9 +2894,9 @@ creation_date: 2017-10-13T10:55:27Z
 
 [Term]
 id: PECO:0000328
-name: LNB glucose medium
+name: obsolete LNB glucose medium
 def: "LNB medium is a Low Nutrient medium containing yeast nitrogen base without amino acids, glucose, salts and vitamins." []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonia
 creation_date: 2017-10-20T16:39:21Z
 
@@ -2941,10 +2918,10 @@ creation_date: 2018-01-17T17:46:19Z
 
 [Term]
 id: PECO:0000331
-name: glucose MM, arginine nitrogen source
+name: obsolete glucose MM, arginine nitrogen source
 def: "Experiments were performed in medium containing glucose, salts, water and with arginine as the nitrogen source." []
 synonym: "glucose minimal medium, arginine nitrogen source" EXACT []
-is_a: PECO:0000013 ! grouping - defined medium
+is_obsolete: true
 created_by: antonia
 creation_date: 2018-01-25T10:36:13Z
 
@@ -3155,30 +3132,12 @@ creation_date: 2019-01-25T13:33:23Z
 [Term]
 id: PECO:0005020
 name: minimal medium
+def: "Experiments were performed in defined minimal medium which has just enough ingredients to support growth. (The number of ingredients that must be added to a minimal medium varies enormously depending on which microorganism is being grown). Typically contains a simple carbon source, salts and water." []
+synonym: "M9 minimal medium" EXACT []
+synonym: "synthetic nutrient-poor agar (SNA)" EXACT []
 is_a: PECO:0000013 ! grouping - defined medium
 created_by: alaynecuzick
 creation_date: 2019-01-25T13:39:33Z
-
-[Term]
-id: PECO:0005021
-name: potato dextrose medium
-is_a: PECO:0000013 ! grouping - defined medium
-created_by: alaynecuzick
-creation_date: 2019-01-25T13:41:25Z
-
-[Term]
-id: PECO:0005022
-name: complete medium
-is_a: PECO:0000013 ! grouping - defined medium
-created_by: alaynecuzick
-creation_date: 2019-01-25T13:42:17Z
-
-[Term]
-id: PECO:0005023
-name: starch yeast medium
-is_a: PECO:0000013 ! grouping - defined medium
-created_by: alaynecuzick
-creation_date: 2019-01-25T13:42:41Z
 
 [Term]
 id: PECO:0005024
@@ -3186,20 +3145,6 @@ name: + carboxymethyl cellulose
 is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2019-01-25T13:44:24Z
-
-[Term]
-id: PECO:0005025
-name: trichothecene biosynthesis medium
-is_a: PECO:0000013 ! grouping - defined medium
-created_by: alaynecuzick
-creation_date: 2019-01-25T13:46:00Z
-
-[Term]
-id: PECO:0005026
-name: carrot medium
-is_a: PECO:0000013 ! grouping - defined medium
-created_by: alaynecuzick
-creation_date: 2019-01-25T13:47:05Z
 
 [Term]
 id: PECO:0005027
@@ -4775,6 +4720,41 @@ def: "An experimental condition in which cefixime was added to the medium, assay
 is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2019-03-19T14:36:00Z
+
+[Term]
+id: PECO:0005224
+name: rich medium
+alt_id: PECO:0000137
+alt_id: PECO:0000201
+alt_id: PECO:0005021
+alt_id: PECO:0005022
+alt_id: PECO:0005023
+alt_id: PECO:0005025
+alt_id: PECO:0005026
+def: "Rich media contain the nutrients required to support the growth of a wide variety of organisms containing complex carbon sources (Sugars, peptides etc). It is an undefined medium that has some complex ingredients, such as yeast extract, which consists of a mixture of many chemicals in unknown proportions." []
+synonym: "blood agar" EXACT []
+synonym: "carboxymethylcellulose medium (CMC)" EXACT []
+synonym: "carrot medium" EXACT []
+synonym: "chocolate agar" EXACT []
+synonym: "complete medium" EXACT []
+synonym: "complex medium" EXACT []
+synonym: "Lowenstein-Jensen medium" EXACT []
+synonym: "MacConkey agar" EXACT []
+synonym: "mung bean medium" EXACT []
+synonym: "oatmeal medium" EXACT []
+synonym: "oatmeal tomato medium" EXACT []
+synonym: "plant extract agar" EXACT []
+synonym: "potato dextrose agar (PDA)" EXACT []
+synonym: "potato dextrose medium" EXACT []
+synonym: "potato slice" EXACT []
+synonym: "starch yeast medium" EXACT []
+synonym: "trichothecene induction medium" EXACT []
+synonym: "Yeast extract (YE)" EXACT []
+synonym: "yeast extract peptone dextrose (YEPD) (YPD)" EXACT []
+synonym: "yeast extract with supplements (YES)" EXACT []
+is_a: PECO:0000080 ! grouping rich medium
+created_by: alaynecuzick
+creation_date: 2020-01-14T14:17:20Z
 
 [Typedef]
 id: part_of
