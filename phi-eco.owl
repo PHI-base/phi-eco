@@ -6683,6 +6683,7 @@ AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005225 "Host organisms were inocul
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005225 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005225 "2020-03-10T14:29:30Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005225 "1 dpi")
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005225 "phenotype_condition")
 AnnotationAssertion(rdfs:label obo:PECO_0005225 "1 day post inoculation"@en)
 SubClassOf(obo:PECO_0005225 obo:PECO_0000122)
 
@@ -6692,6 +6693,7 @@ AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005226 "Host organisms were inocul
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005226 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005226 "2020-03-10T14:30:09Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005226 "2 dpi")
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005226 "phenotype_condition")
 AnnotationAssertion(rdfs:label obo:PECO_0005226 "2 days post inoculation"@en)
 SubClassOf(obo:PECO_0005226 obo:PECO_0000122)
 
@@ -6701,6 +6703,7 @@ AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005227 "Host organisms were inocul
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005227 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005227 "2020-03-10T14:30:48Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005227 "8 dpi")
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005227 "phenotype_condition")
 AnnotationAssertion(rdfs:label obo:PECO_0005227 "8 days post inoculation"@en)
 SubClassOf(obo:PECO_0005227 obo:PECO_0000122)
 
@@ -6711,6 +6714,7 @@ AnnotationAssertion(oboInOwl:created_by obo:PECO_0005228 "alaynecuzick"^^xsd:str
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005228 "2020-03-10T14:31:27Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005228 "14 dpi")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005228 "2 weeks post inoculation")
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005228 "phenotype_condition")
 AnnotationAssertion(rdfs:label obo:PECO_0005228 "14 days post inoculation"@en)
 SubClassOf(obo:PECO_0005228 obo:PECO_0000122)
 
@@ -6720,6 +6724,7 @@ AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005229 "Host organisms were inocul
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005229 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005229 "2020-03-10T14:32:30Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005229 "13 dpi")
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005229 "phenotype_condition")
 AnnotationAssertion(rdfs:label obo:PECO_0005229 "13 days post inoculation"@en)
 SubClassOf(obo:PECO_0005229 obo:PECO_0000122)
 
