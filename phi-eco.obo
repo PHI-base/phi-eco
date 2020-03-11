@@ -4756,6 +4756,61 @@ is_a: PECO:0000080 ! grouping rich medium
 created_by: alaynecuzick
 creation_date: 2020-01-14T14:17:20Z
 
+[Term]
+id: PECO:0005225
+name: 1 day post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 1 day post inoculation." []
+synonym: "1 dpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2020-03-10T14:29:30Z
+
+[Term]
+id: PECO:0005226
+name: 2 days post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 2 days post inoculation." []
+synonym: "2 dpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2020-03-10T14:30:09Z
+
+[Term]
+id: PECO:0005227
+name: 8 days post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 8 days post inoculation." []
+synonym: "8 dpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2020-03-10T14:30:48Z
+
+[Term]
+id: PECO:0005228
+name: 14 days post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 14 days post inoculation." []
+synonym: "14 dpi" EXACT []
+synonym: "2 weeks post inoculation" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2020-03-10T14:31:27Z
+
+[Term]
+id: PECO:0005229
+name: 13 days post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 13 days post inoculation." []
+synonym: "13 dpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2020-03-10T14:32:30Z
+
+[Term]
+id: PECO:0005230
+name: 9 weeks post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 9 weeks post inoculation." []
+synonym: "9 wpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2020-03-11T09:54:32Z
+
 [Typedef]
 id: part_of
 name: part_of
