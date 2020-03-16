@@ -4683,13 +4683,14 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005027 "phenotype_conditi
 AnnotationAssertion(rdfs:label obo:PECO_0005027 "+ dithiothreitol"@en)
 SubClassOf(obo:PECO_0005027 obo:PECO_0000109)
 
-# Class: obo:PECO_0005028 (agrobacterium-mediated transient coexpression assay)
+# Class: obo:PECO_0005028 (agrobacterium delivery system)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005028 "The treatment involving study type in which gene products were transiently expressed using agrobacterium mediated delivery into the organism.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005028 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005028 "2019-02-27T10:58:55Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005028 "agrobacterium-mediated transient coexpression assay")
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005028 "phenotype_condition")
-AnnotationAssertion(rdfs:label obo:PECO_0005028 "agrobacterium-mediated transient coexpression assay"@en)
+AnnotationAssertion(rdfs:label obo:PECO_0005028 "agrobacterium delivery system"@en)
 SubClassOf(obo:PECO_0005028 obo:PECO_0005001)
 
 # Class: obo:PECO_0005029 (tobacco host assay)
