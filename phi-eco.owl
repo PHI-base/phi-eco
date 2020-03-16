@@ -574,6 +574,7 @@ Declaration(Class(obo:PECO_0005227))
 Declaration(Class(obo:PECO_0005228))
 Declaration(Class(obo:PECO_0005229))
 Declaration(Class(obo:PECO_0005230))
+Declaration(Class(obo:PECO_0005233))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -4691,7 +4692,7 @@ AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005028 "2019-02-27T10:58:55
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005028 "agrobacterium-mediated transient coexpression assay")
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005028 "phenotype_condition")
 AnnotationAssertion(rdfs:label obo:PECO_0005028 "agrobacterium delivery system"@en)
-SubClassOf(obo:PECO_0005028 obo:PECO_0005001)
+SubClassOf(obo:PECO_0005028 obo:PECO_0005233)
 
 # Class: obo:PECO_0005029 (tobacco host assay)
 
@@ -6738,6 +6739,15 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005230 "9 wpi")
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005230 "phenotype_condition")
 AnnotationAssertion(rdfs:label obo:PECO_0005230 "9 weeks post inoculation"@en)
 SubClassOf(obo:PECO_0005230 obo:PECO_0000122)
+
+# Class: obo:PECO_0005233 (grouping delivery mechanism)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005233 "This is a grouping term, please do not use for annotation.")
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005233 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005233 "2020-03-16T13:33:20Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005233 "phenotype_condition")
+AnnotationAssertion(rdfs:label obo:PECO_0005233 "grouping delivery mechanism"@en)
+SubClassOf(obo:PECO_0005233 obo:PECO_0005001)
 
 
 )
