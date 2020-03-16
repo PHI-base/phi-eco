@@ -582,6 +582,8 @@ Declaration(Class(obo:PECO_0005237))
 Declaration(Class(obo:PECO_0005238))
 Declaration(Class(obo:PECO_0005239))
 Declaration(Class(obo:PECO_0005240))
+Declaration(Class(obo:PECO_0005241))
+Declaration(Class(obo:PECO_0005242))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -6820,6 +6822,24 @@ AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005240 "2020-03-16T14:31:30
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005240 "phenotype_condition")
 AnnotationAssertion(rdfs:label obo:PECO_0005240 "+ wounding"@en)
 SubClassOf(obo:PECO_0005240 obo:PECO_0000109)
+
+# Class: obo:PECO_0005241 (pathogen spore inoculation)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005241 "The treatment involving study type in which pathogen spores are inoculated onto a host.")
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005241 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005241 "2020-03-16T14:33:56Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005241 "phenotype_condition")
+AnnotationAssertion(rdfs:label obo:PECO_0005241 "pathogen spore inoculation"@en)
+SubClassOf(obo:PECO_0005241 obo:PECO_0005239)
+
+# Class: obo:PECO_0005242 (pathogen mycelium inoculation)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005242 "The treatment involving study type in which pathogen mycelium is inoculated onto a host.")
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005242 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005242 "2020-03-16T14:34:14Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005242 "phenotype_condition")
+AnnotationAssertion(rdfs:label obo:PECO_0005242 "pathogen mycelium inoculation"@en)
+SubClassOf(obo:PECO_0005242 obo:PECO_0005239)
 
 
 )
