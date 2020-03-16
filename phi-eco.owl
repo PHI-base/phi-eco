@@ -581,6 +581,7 @@ Declaration(Class(obo:PECO_0005236))
 Declaration(Class(obo:PECO_0005237))
 Declaration(Class(obo:PECO_0005238))
 Declaration(Class(obo:PECO_0005239))
+Declaration(Class(obo:PECO_0005240))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -6810,6 +6811,15 @@ AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005239 "2020-03-16T14:27:42
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005239 "phenotype_condition")
 AnnotationAssertion(rdfs:label obo:PECO_0005239 "pathogen inoculation"@en)
 SubClassOf(obo:PECO_0005239 obo:PECO_0005233)
+
+# Class: obo:PECO_0005240 (+ wounding)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005240 "An experimental condition in which the host is wounded prior to pathogen inoculation.")
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005240 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005240 "2020-03-16T14:31:30Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005240 "phenotype_condition")
+AnnotationAssertion(rdfs:label obo:PECO_0005240 "+ wounding"@en)
+SubClassOf(obo:PECO_0005240 obo:PECO_0000109)
 
 
 )
