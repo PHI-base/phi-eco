@@ -576,6 +576,7 @@ Declaration(Class(obo:PECO_0005229))
 Declaration(Class(obo:PECO_0005230))
 Declaration(Class(obo:PECO_0005233))
 Declaration(Class(obo:PECO_0005234))
+Declaration(Class(obo:PECO_0005235))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -4687,7 +4688,7 @@ SubClassOf(obo:PECO_0005027 obo:PECO_0000109)
 
 # Class: obo:PECO_0005028 (agrobacterium delivery system)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005028 "The treatment involving study type in which gene products were transiently expressed using agrobacterium mediated delivery into the organism.")
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005028 "The treatment involving study type in which gene products were transiently expressed using agrobacterium mediated delivery into the host.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005028 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005028 "2019-02-27T10:58:55Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005028 "agrobacterium-mediated transient coexpression assay")
@@ -6758,6 +6759,15 @@ AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005234 "2020-03-16T13:36:36
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005234 "phenotype_condition")
 AnnotationAssertion(rdfs:label obo:PECO_0005234 "wild type pathogen inoculation"@en)
 SubClassOf(obo:PECO_0005234 obo:PECO_0005233)
+
+# Class: obo:PECO_0005235 (heterologous organism delivery system)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005235 "The treatment involving study type in which gene products were expressed in the host using a heterologous organism delivery system.")
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005235 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005235 "2020-03-16T13:45:42Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005235 "phenotype_condition")
+AnnotationAssertion(rdfs:label obo:PECO_0005235 "heterologous organism delivery system"@en)
+SubClassOf(obo:PECO_0005235 obo:PECO_0005233)
 
 
 )
