@@ -6754,14 +6754,14 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005233 "phenotype_conditi
 AnnotationAssertion(rdfs:label obo:PECO_0005233 "grouping delivery mechanism"@en)
 SubClassOf(obo:PECO_0005233 obo:PECO_0005001)
 
-# Class: obo:PECO_0005234 (wild type pathogen inoculation)
+# Class: obo:PECO_0005234 (+ wild type pathogen inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005234 "The treatment involving study type in which a wild type pathogen is inoculated onto a host.")
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005234 "An experimental condition in which a wild type pathogen was added to the experiment.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005234 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005234 "2020-03-16T13:36:36Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005234 "phenotype_condition")
-AnnotationAssertion(rdfs:label obo:PECO_0005234 "wild type pathogen inoculation"@en)
-SubClassOf(obo:PECO_0005234 obo:PECO_0005233)
+AnnotationAssertion(rdfs:label obo:PECO_0005234 "+ wild type pathogen inoculation"@en)
+SubClassOf(obo:PECO_0005234 obo:PECO_0000109)
 
 # Class: obo:PECO_0005235 (heterologous organism delivery system)
 
