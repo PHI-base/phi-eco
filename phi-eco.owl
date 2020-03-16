@@ -577,6 +577,9 @@ Declaration(Class(obo:PECO_0005230))
 Declaration(Class(obo:PECO_0005233))
 Declaration(Class(obo:PECO_0005234))
 Declaration(Class(obo:PECO_0005235))
+Declaration(Class(obo:PECO_0005236))
+Declaration(Class(obo:PECO_0005237))
+Declaration(Class(obo:PECO_0005238))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -6768,6 +6771,35 @@ AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005235 "2020-03-16T13:45:42
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005235 "phenotype_condition")
 AnnotationAssertion(rdfs:label obo:PECO_0005235 "heterologous organism delivery system"@en)
 SubClassOf(obo:PECO_0005235 obo:PECO_0005233)
+
+# Class: obo:PECO_0005236 (+ ETI inducer chemical)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005236 "An experimental condition in which a chemical was added to the experiment to induce effector triggered immunity (ETI) in the host.")
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005236 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005236 "2020-03-16T13:56:47Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005236 "+ bax")
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005236 "phenotype_condition")
+AnnotationAssertion(rdfs:label obo:PECO_0005236 "+ ETI inducer chemical"@en)
+SubClassOf(obo:PECO_0005236 obo:PECO_0000109)
+
+# Class: obo:PECO_0005237 (+ ETI inducer pathogenic organism)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005237 "An experimental condition in which a pathogenic organism was added to the experiment to induce effector triggered immunity (ETI) in the host.")
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005237 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005237 "2020-03-16T13:57:10Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005237 "phenotype_condition")
+AnnotationAssertion(rdfs:label obo:PECO_0005237 "+ ETI inducer pathogenic organism"@en)
+SubClassOf(obo:PECO_0005237 obo:PECO_0000109)
+
+# Class: obo:PECO_0005238 (+ PTI inducer)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005238 "An experimental condition in which a PAMP triggered immunity (PTI) inducer was added to the experiment.")
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005238 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005238 "2020-03-16T14:08:25Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005238 "+ flg22")
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005238 "phenotype_condition")
+AnnotationAssertion(rdfs:label obo:PECO_0005238 "+ PTI inducer"@en)
+SubClassOf(obo:PECO_0005238 obo:PECO_0000109)
 
 
 )
