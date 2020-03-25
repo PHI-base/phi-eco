@@ -3155,9 +3155,10 @@ creation_date: 2019-01-25T13:48:53Z
 
 [Term]
 id: PECO:0005028
-name: agrobacterium-mediated transient coexpression assay
-def: "The treatment involving study type in which gene products were transiently expressed using agrobacterium mediated delivery into the organism." []
-is_a: PECO:0005001 ! study type
+name: agrobacterium delivery system
+def: "The treatment involving study type in which gene products were transiently expressed using agrobacterium mediated delivery into the host." []
+synonym: "agrobacterium-mediated transient coexpression assay" EXACT []
+is_a: PECO:0005233 ! grouping delivery mechanism
 created_by: alaynecuzick
 creation_date: 2019-02-27T10:58:55Z
 
@@ -4810,6 +4811,88 @@ synonym: "9 wpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
 creation_date: 2020-03-11T09:54:32Z
+
+[Term]
+id: PECO:0005233
+name: grouping delivery mechanism
+def: "This is a grouping term, please do not use for annotation." []
+is_a: PECO:0005001 ! study type
+created_by: alaynecuzick
+creation_date: 2020-03-16T13:33:20Z
+
+[Term]
+id: PECO:0005234
+name: + wild type pathogen inoculation
+def: "An experimental condition in which a wild type pathogen was added to the experiment." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2020-03-16T13:36:36Z
+
+[Term]
+id: PECO:0005235
+name: heterologous organism delivery system
+def: "The treatment involving study type in which gene products were expressed in the host using a heterologous organism delivery system." []
+is_a: PECO:0005233 ! grouping delivery mechanism
+created_by: alaynecuzick
+creation_date: 2020-03-16T13:45:42Z
+
+[Term]
+id: PECO:0005236
+name: + ETI inducer chemical
+def: "An experimental condition in which a chemical was added to the experiment to induce effector triggered immunity (ETI) in the host." []
+synonym: "+ bax" EXACT []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2020-03-16T13:56:47Z
+
+[Term]
+id: PECO:0005237
+name: + ETI inducer pathogenic organism
+def: "An experimental condition in which a pathogenic organism was added to the experiment to induce effector triggered immunity (ETI) in the host." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2020-03-16T13:57:10Z
+
+[Term]
+id: PECO:0005238
+name: + PTI inducer
+def: "An experimental condition in which a PAMP triggered immunity (PTI) inducer was added to the experiment." []
+synonym: "+ flg22" EXACT []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2020-03-16T14:08:25Z
+
+[Term]
+id: PECO:0005239
+name: pathogen inoculation
+def: "The treatment involving study type in which a pathogen is inoculated onto a host." []
+is_a: PECO:0005233 ! grouping delivery mechanism
+created_by: alaynecuzick
+creation_date: 2020-03-16T14:27:42Z
+
+[Term]
+id: PECO:0005240
+name: + wounding
+def: "An experimental condition in which the host is wounded prior to pathogen inoculation." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2020-03-16T14:31:30Z
+
+[Term]
+id: PECO:0005241
+name: pathogen spore inoculation
+def: "The treatment involving study type in which pathogen spores are inoculated onto a host." []
+is_a: PECO:0005239 ! pathogen inoculation
+created_by: alaynecuzick
+creation_date: 2020-03-16T14:33:56Z
+
+[Term]
+id: PECO:0005242
+name: pathogen mycelium inoculation
+def: "The treatment involving study type in which pathogen mycelium is inoculated onto a host." []
+is_a: PECO:0005239 ! pathogen inoculation
+created_by: alaynecuzick
+creation_date: 2020-03-16T14:34:14Z
 
 [Typedef]
 id: part_of
