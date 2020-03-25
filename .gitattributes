@@ -1,1 +1,3 @@
 * text=auto
+
+*.obo text eol=lf
