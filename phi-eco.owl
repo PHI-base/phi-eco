@@ -152,6 +152,7 @@ Declaration(Class(obo:PECO_0000133))
 Declaration(Class(obo:PECO_0000134))
 Declaration(Class(obo:PECO_0000135))
 Declaration(Class(obo:PECO_0000136))
+Declaration(Class(obo:PECO_0000137))
 Declaration(Class(obo:PECO_0000138))
 Declaration(Class(obo:PECO_0000139))
 Declaration(Class(obo:PECO_0000140))
@@ -215,6 +216,7 @@ Declaration(Class(obo:PECO_0000197))
 Declaration(Class(obo:PECO_0000198))
 Declaration(Class(obo:PECO_0000199))
 Declaration(Class(obo:PECO_0000200))
+Declaration(Class(obo:PECO_0000201))
 Declaration(Class(obo:PECO_0000202))
 Declaration(Class(obo:PECO_0000203))
 Declaration(Class(obo:PECO_0000204))
@@ -2238,6 +2240,15 @@ If certain chemicals not normally found in the medium were added, please also us
 AnnotationAssertion(rdfs:label obo:PECO_0000136 "obsolete raffinose YE"^^xsd:string)
 AnnotationAssertion(owl:deprecated obo:PECO_0000136 "true"^^xsd:boolean)
 
+# Class: obo:PECO_0000137 (pathogen spray inoculation)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000137 "The treatment involving study type in which pathogen is inoculated onto a host using a spray technique. This usually covers a large area of host tissue.")
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0000137 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000137 "2020-03-30T16:09:52Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000137 "phenotype_condition")
+AnnotationAssertion(rdfs:label obo:PECO_0000137 "pathogen spray inoculation"@en)
+SubClassOf(obo:PECO_0000137 obo:PECO_0005239)
+
 # Class: obo:PECO_0000138 (obsolete glycerol YE)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000138 "Experiments were performed in rich medium containing glycerol as the sole carbon source, yeast extract and other components. The concentration of glycerol is typically around 2-3% and supplemented with trace amounts of another carbon source (e.g. glucose)."^^xsd:string)
@@ -2952,6 +2963,15 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000200 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0000200 "PECO:0000200"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000200 "+ peptone"^^xsd:string)
 SubClassOf(obo:PECO_0000200 obo:PECO_0000109)
+
+# Class: obo:PECO_0000201 (pathogen point inoculation)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0000201 "The treatment involving study type in which pathogen is inoculated onto a host using a point inoculation technique. This usually covers a small specific region of host tissue.")
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0000201 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000201 "2020-03-30T16:10:07Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000201 "phenotype_condition")
+AnnotationAssertion(rdfs:label obo:PECO_0000201 "pathogen point inoculation"@en)
+SubClassOf(obo:PECO_0000201 obo:PECO_0005239)
 
 # Class: obo:PECO_0000202 (chilled cells)
 
