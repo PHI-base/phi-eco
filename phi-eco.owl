@@ -584,6 +584,8 @@ Declaration(Class(obo:PECO_0005239))
 Declaration(Class(obo:PECO_0005240))
 Declaration(Class(obo:PECO_0005241))
 Declaration(Class(obo:PECO_0005242))
+Declaration(Class(obo:PECO_0005243))
+Declaration(Class(obo:PECO_0005244))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -6841,5 +6843,22 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005242 "phenotype_conditi
 AnnotationAssertion(rdfs:label obo:PECO_0005242 "pathogen mycelium inoculation"@en)
 SubClassOf(obo:PECO_0005242 obo:PECO_0005239)
 
+# Class: obo:PECO_0005243 (pathogen spray inoculation)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005243 "The treatment involving study type in which pathogen is inoculated onto a host using a spray technique. This usually covers a large area of host tissue.")
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005243 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005243 "2020-03-30T16:09:52Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005243 "phenotype_condition")
+AnnotationAssertion(rdfs:label obo:PECO_0005243 "pathogen spray inoculation"@en)
+SubClassOf(obo:PECO_0000137 obo:PECO_0005239)
+
+# Class: obo:PECO_0005244 (pathogen point inoculation)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005244 "The treatment involving study type in which pathogen is inoculated onto a host using a point inoculation technique. This usually covers a small specific region of host tissue.")
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005244 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005244 "2020-03-30T16:10:07Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005244 "phenotype_condition")
+AnnotationAssertion(rdfs:label obo:PECO_0005244 "pathogen point inoculation"@en)
+SubClassOf(obo:PECO_0005244 obo:PECO_0005239)
 
 )
