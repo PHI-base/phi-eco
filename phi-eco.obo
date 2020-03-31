@@ -1233,12 +1233,7 @@ creation_date: 2012-06-14T20:32:52Z
 
 [Term]
 id: PECO:0000137
-name: pathogen spray inoculation
 alt_id: PECO:0000012
-def: "The treatment involving study type in which pathogen is inoculated onto a host using a spray technique. This usually covers a large area of host tissue." []
-is_a: PECO:0005239 ! pathogen inoculation
-created_by: alaynecuzick
-creation_date: 2020-03-30T16:09:52Z
 
 [Term]
 id: PECO:0000138
@@ -1817,14 +1812,6 @@ def: "An experimental condition in which peptone was added to the medium or assa
 is_a: PECO:0000109 ! grouping excess
 created_by: antonialock
 creation_date: 2012-11-13T12:38:35Z
-
-[Term]
-id: PECO:0000201
-name: pathogen point inoculation
-def: "The treatment involving study type in which pathogen is inoculated onto a host using a point inoculation technique. This usually covers a small specific region of host tissue." []
-is_a: PECO:0005239 ! pathogen inoculation
-created_by: alaynecuzick
-creation_date: 2020-03-30T16:10:07Z
 
 [Term]
 id: PECO:0000202
@@ -2971,88 +2958,6 @@ def: "An experimental condition in which AP20187 was added to the medium or assa
 is_a: PECO:0000109 ! grouping excess
 created_by: antonia
 creation_date: 2018-03-20T22:06:35Z
-
-[Term]
-id: PECO:0000336
-name: 3 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 3 days post inoculation." []
-synonym: "3 dpi" EXACT []
-is_a: PECO:0000122 ! grouping growth timing
-created_by: alaynecuzick
-creation_date: 2020-03-30T16:17:01Z
-
-[Term]
-id: PECO:0000337
-name: 4 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 4 days post inoculation." []
-synonym: "4 dpi" EXACT []
-is_a: PECO:0000122 ! grouping growth timing
-created_by: alaynecuzick
-creation_date: 2020-03-30T16:17:15Z
-
-[Term]
-id: PECO:0000338
-name: 5 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 5 days post inoculation." []
-synonym: "5 dpi" EXACT []
-is_a: PECO:0000122 ! grouping growth timing
-created_by: alaynecuzick
-creation_date: 2020-03-30T16:17:32Z
-
-[Term]
-id: PECO:0000339
-name: 6 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 6 days post inoculation." []
-synonym: "6 dpi" EXACT []
-is_a: PECO:0000122 ! grouping growth timing
-created_by: alaynecuzick
-creation_date: 2020-03-30T16:17:45Z
-
-[Term]
-id: PECO:0000340
-name: 7 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 7 days post inoculation." []
-synonym: "1 week post inoculation" EXACT []
-synonym: "1 wpi" EXACT []
-synonym: "7 dpi" EXACT []
-is_a: PECO:0000122 ! grouping growth timing
-created_by: alaynecuzick
-creation_date: 2020-03-30T16:18:43Z
-
-[Term]
-id: PECO:0000341
-name: 10 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 10 days post inoculation." []
-synonym: "10 dpi" EXACT []
-is_a: PECO:0000122 ! grouping growth timing
-created_by: alaynecuzick
-creation_date: 2020-03-30T16:19:16Z
-
-[Term]
-id: PECO:0000342
-name: 11 days post inoculation
-synonym: "11 dpi" EXACT []
-is_a: PECO:0000122 ! grouping growth timing
-created_by: alaynecuzick
-creation_date: 2020-03-30T16:19:32Z
-
-[Term]
-id: PECO:0000343
-name: 12 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 11 days post inoculation." []
-synonym: "12 dpi" EXACT []
-is_a: PECO:0000122 ! grouping growth timing
-created_by: alaynecuzick
-creation_date: 2020-03-30T16:19:51Z
-
-[Term]
-id: PECO:0000344
-name: 20 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 20 days post inoculation." []
-synonym: "20 dpi" EXACT []
-is_a: PECO:0000122 ! grouping growth timing
-created_by: alaynecuzick
-creation_date: 2020-03-30T16:20:16Z
 
 [Term]
 id: PECO:0005001
@@ -4885,7 +4790,6 @@ name: 14 days post inoculation
 def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 14 days post inoculation." []
 synonym: "14 dpi" EXACT []
 synonym: "2 weeks post inoculation" EXACT []
-synonym: "2 wpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
 creation_date: 2020-03-10T14:31:27Z
