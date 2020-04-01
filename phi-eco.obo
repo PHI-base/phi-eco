@@ -696,7 +696,8 @@ creation_date: 2012-02-29T03:06:23Z
 [Term]
 id: PECO:0000079
 name: + thiabendazole
-def: "An experimental condition in which thiabendazole was added to the medium or assay buffer in excess compared to standard medium or assay buffers." []
+alt_id: PECO:0005171
+def: "An experimental condition in which thiabendazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
 comment: Note that this term can be used both when the chemical is not normally present in the buffer, or when the buffer normally contains much lower quantities of the chemical so that the chemical is added 'in excess'.
 synonym: "TBZ added" EXACT []
 is_a: PECO:0000109 ! grouping excess
@@ -1234,6 +1235,7 @@ creation_date: 2012-06-14T20:32:52Z
 [Term]
 id: PECO:0000137
 alt_id: PECO:0000012
+is_a: PECO:0005239 ! pathogen inoculation
 
 [Term]
 id: PECO:0000138
@@ -1292,7 +1294,8 @@ creation_date: 2012-06-18T12:39:39Z
 [Term]
 id: PECO:0000143
 name: + antimycin A
-def: "An experimental condition in which antimycin A was added to the medium or assay buffer in excess compared to standard medium or assay buffers." []
+alt_id: PECO:0005196
+def: "An experimental condition in which antimycin A was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
 comment: Note that this term includes both when the chemical is not normally present in the buffer, or when the buffer normally contains much lower quantities of the chemical so that the chemical is added 'in excess'.
 is_a: PECO:0000109 ! grouping excess
 created_by: antonialock
@@ -2152,7 +2155,8 @@ creation_date: 2013-12-02T15:06:40Z
 [Term]
 id: PECO:0000242
 name: + rapamycin
-def: "An experimental condition in which rapamycin was added to the medium or assay buffer." []
+alt_id: PECO:0005133
+def: "An experimental condition in which rapamycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
 synonym: "+ sirolimus" EXACT []
 is_a: PECO:0000109 ! grouping excess
 created_by: antonialock
@@ -2284,7 +2288,8 @@ creation_date: 2014-06-23T14:37:11Z
 [Term]
 id: PECO:0000257
 name: + cycloheximide
-def: "An experimental condition in which cycloheximide was added to the medium or assay buffer in excess compared to standard medium or assay buffers." []
+alt_id: PECO:0005180
+def: "An experimental condition in which cycloheximide was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
 synonym: "+ CHX" EXACT []
 is_a: PECO:0000109 ! grouping excess
 created_by: antonialock
@@ -2378,7 +2383,8 @@ creation_date: 2014-09-04T16:21:32Z
 [Term]
 id: PECO:0000268
 name: + trichostatin A
-def: "An experimental condition in which trichostatin A was added to the medium or assay buffer in excess compared to standard medium or assay buffers." []
+alt_id: PECO:0005165
+def: "An experimental condition in which trichostatin A was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
 is_a: PECO:0000109 ! grouping excess
 created_by: antonialock
 creation_date: 2014-09-04T16:24:29Z
@@ -2451,7 +2457,8 @@ creation_date: 2015-02-12T11:59:26Z
 [Term]
 id: PECO:0000277
 name: + bleomycin
-def: "An experimental condition in which bleomycin was added to the medium or assay buffer in excess compared to standard medium or assay buffers." []
+alt_id: PECO:0005209
+def: "An experimental condition in which bleomycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
 is_a: PECO:0000109 ! grouping excess
 created_by: antonialock
 creation_date: 2015-03-23T15:40:05Z
@@ -2565,7 +2572,8 @@ creation_date: 2015-11-18T09:25:07Z
 [Term]
 id: PECO:0000290
 name: + carbendazim
-def: "An experimental condition in which carbendazim was added to the experimental medium" []
+alt_id: PECO:0005035
+def: "An experimental condition in which carbendazim was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
 synonym: "CBZ added" EXACT []
 synonym: "MBC added" EXACT []
 synonym: "mecarzole added" EXACT []
@@ -3206,14 +3214,6 @@ creation_date: 2019-03-19T14:36:00Z
 id: PECO:0005034
 name: + diethofencarb
 def: "An experimental condition in which diethofencarb was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
-is_a: PECO:0000109 ! grouping excess
-created_by: alaynecuzick
-creation_date: 2019-03-19T14:36:00Z
-
-[Term]
-id: PECO:0005035
-name: + carbendazim
-def: "An experimental condition in which carbendazim was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
 is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2019-03-19T14:36:00Z
@@ -3995,14 +3995,6 @@ created_by: alaynecuzick
 creation_date: 2019-03-19T14:36:00Z
 
 [Term]
-id: PECO:0005133
-name: + rapamycin
-def: "An experimental condition in which rapamycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
-is_a: PECO:0000109 ! grouping excess
-created_by: alaynecuzick
-creation_date: 2019-03-19T14:36:00Z
-
-[Term]
 id: PECO:0005134
 name: + nystatin
 def: "An experimental condition in which nystatin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
@@ -4251,14 +4243,6 @@ created_by: alaynecuzick
 creation_date: 2019-03-19T14:36:00Z
 
 [Term]
-id: PECO:0005165
-name: + trichostatin A
-def: "An experimental condition in which trichostatin A was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
-is_a: PECO:0000109 ! grouping excess
-created_by: alaynecuzick
-creation_date: 2019-03-19T14:36:00Z
-
-[Term]
 id: PECO:0005166
 name: + fenhexamid
 def: "An experimental condition in which fenhexamid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
@@ -4294,14 +4278,6 @@ creation_date: 2019-03-19T14:36:00Z
 id: PECO:0005170
 name: + nisin
 def: "An experimental condition in which nisin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
-is_a: PECO:0000109 ! grouping excess
-created_by: alaynecuzick
-creation_date: 2019-03-19T14:36:00Z
-
-[Term]
-id: PECO:0005171
-name: + thiabendazole
-def: "An experimental condition in which thiabendazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
 is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2019-03-19T14:36:00Z
@@ -4366,14 +4342,6 @@ creation_date: 2019-03-19T14:36:00Z
 id: PECO:0005179
 name: + fenarimol
 def: "An experimental condition in which fenarimol was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
-is_a: PECO:0000109 ! grouping excess
-created_by: alaynecuzick
-creation_date: 2019-03-19T14:36:00Z
-
-[Term]
-id: PECO:0005180
-name: + cycloheximide
-def: "An experimental condition in which cycloheximide was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
 is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2019-03-19T14:36:00Z
@@ -4499,14 +4467,6 @@ created_by: alaynecuzick
 creation_date: 2019-03-19T14:36:00Z
 
 [Term]
-id: PECO:0005196
-name: + antimycin A
-def: "An experimental condition in which antimycin A was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
-is_a: PECO:0000109 ! grouping excess
-created_by: alaynecuzick
-creation_date: 2019-03-19T14:36:00Z
-
-[Term]
 id: PECO:0005197
 name: + epoxyconazole
 def: "An experimental condition in which epoxyconazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
@@ -4598,14 +4558,6 @@ creation_date: 2019-03-19T14:36:00Z
 id: PECO:0005208
 name: + fenpropidin
 def: "An experimental condition in which fenpropidin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
-is_a: PECO:0000109 ! grouping excess
-created_by: alaynecuzick
-creation_date: 2019-03-19T14:36:00Z
-
-[Term]
-id: PECO:0005209
-name: + bleomycin
-def: "An experimental condition in which bleomycin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
 is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2019-03-19T14:36:00Z
@@ -4790,6 +4742,7 @@ name: 14 days post inoculation
 def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 14 days post inoculation." []
 synonym: "14 dpi" EXACT []
 synonym: "2 weeks post inoculation" EXACT []
+synonym: "2 wpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
 creation_date: 2020-03-10T14:31:27Z
@@ -4893,6 +4846,103 @@ def: "The treatment involving study type in which pathogen mycelium is inoculate
 is_a: PECO:0005239 ! pathogen inoculation
 created_by: alaynecuzick
 creation_date: 2020-03-16T14:34:14Z
+
+[Term]
+id: PECO:0005243
+name: pathogen spray inoculation
+def: "The treatment involving study type in which pathogen is inoculated onto a host using a spray technique. This usually covers a large area of host tissue." []
+created_by: alaynecuzick
+creation_date: 2020-03-30T16:09:52Z
+
+[Term]
+id: PECO:0005244
+name: pathogen point inoculation
+def: "The treatment involving study type in which pathogen is inoculated onto a host using a point inoculation technique. This usually covers a small specific region of host tissue." []
+is_a: PECO:0005239 ! pathogen inoculation
+created_by: alaynecuzick
+creation_date: 2020-03-30T16:10:07Z
+
+[Term]
+id: PECO:0005245
+name: 3 days post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 3 days post inoculation." []
+synonym: "3 dpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2020-03-30T16:17:01Z
+
+[Term]
+id: PECO:0005246
+name: 4 days post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 4 days post inoculation." []
+synonym: "4 dpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2020-03-30T16:17:15Z
+
+[Term]
+id: PECO:0005247
+name: 5 days post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 5 days post inoculation." []
+synonym: "5 dpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2020-03-30T16:17:32Z
+
+[Term]
+id: PECO:0005248
+name: 6 days post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 6 days post inoculation." []
+synonym: "6 dpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2020-03-30T16:17:45Z
+
+[Term]
+id: PECO:0005249
+name: 7 days post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 7 days post inoculation." []
+synonym: "1 week post inoculation" EXACT []
+synonym: "1 wpi" EXACT []
+synonym: "7 dpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2020-03-30T16:18:43Z
+
+[Term]
+id: PECO:0005250
+name: 10 days post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 10 days post inoculation." []
+synonym: "10 dpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2020-03-30T16:19:16Z
+
+[Term]
+id: PECO:0005251
+name: 11 days post inoculation
+synonym: "11 dpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2020-03-30T16:19:32Z
+
+[Term]
+id: PECO:0005252
+name: 12 days post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 11 days post inoculation." []
+synonym: "12 dpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2020-03-30T16:19:51Z
+
+[Term]
+id: PECO:0005253
+name: 20 days post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 20 days post inoculation." []
+synonym: "20 dpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2020-03-30T16:20:16Z
 
 [Typedef]
 id: part_of
