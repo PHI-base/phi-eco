@@ -4851,6 +4851,7 @@ creation_date: 2020-03-16T14:34:14Z
 id: PECO:0005243
 name: pathogen spray inoculation
 def: "The treatment involving study type in which pathogen is inoculated onto a host using a spray technique. This usually covers a large area of host tissue." []
+is_a: PECO:0005239 ! pathogen inoculation
 created_by: alaynecuzick
 creation_date: 2020-03-30T16:09:52Z
 

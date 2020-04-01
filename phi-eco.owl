@@ -840,7 +840,6 @@ SubClassOf(obo:PECO_0000011 obo:PECO_0000059)
 # Class: obo:PECO_0000012 (obo:PECO_0000012)
 
 AnnotationAssertion(obo:IAO_0000231 obo:PECO_0000012 obo:IAO_0000227)
-AnnotationAssertion(obo:IAO_0100001 obo:PECO_0000012 obo:PECO_0000137)
 AnnotationAssertion(owl:deprecated obo:PECO_0000012 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0000013 (grouping - defined medium)
@@ -6790,7 +6789,7 @@ AnnotationAssertion(oboInOwl:created_by obo:PECO_0005243 "alaynecuzick"^^xsd:str
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005243 "2020-03-30T16:09:52Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005243 "phenotype_condition")
 AnnotationAssertion(rdfs:label obo:PECO_0005243 "pathogen spray inoculation"@en)
-SubClassOf(obo:PECO_0000137 obo:PECO_0005239)
+SubClassOf(obo:PECO_0005243 obo:PECO_0005239)
 
 # Class: obo:PECO_0005244 (pathogen point inoculation)
 
@@ -6891,5 +6890,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005253 "20 dpi")
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005253 "phenotype_condition")
 AnnotationAssertion(rdfs:label obo:PECO_0005253 "20 days post inoculation"@en)
 SubClassOf(obo:PECO_0005253 obo:PECO_0000122)
+
 
 )
