@@ -132,6 +132,11 @@ created_by: antonialock
 creation_date: 2012-02-07T02:23:26Z
 
 [Term]
+id: PECO:0000012
+property_value: IAO:0000231 IAO:0000227
+is_obsolete: true
+
+[Term]
 id: PECO:0000013
 name: grouping - defined medium
 def: "This is a grouping term, do not use for annotations." []
@@ -1231,11 +1236,6 @@ synonym: "raffinose rich medium" BROAD []
 is_obsolete: true
 created_by: antonialock
 creation_date: 2012-06-14T20:32:52Z
-
-[Term]
-id: PECO:0000137
-alt_id: PECO:0000012
-is_a: PECO:0005239 ! pathogen inoculation
 
 [Term]
 id: PECO:0000138
@@ -4791,9 +4791,8 @@ creation_date: 2020-03-16T13:45:42Z
 
 [Term]
 id: PECO:0005236
-name: + ETI inducer chemical
-def: "An experimental condition in which a chemical was added to the experiment to induce effector triggered immunity (ETI) in the host." []
-synonym: "+ bax" EXACT []
+name: + ETI inducer chemical bax
+def: "An experimental condition in which bax chemistry was added to the experiment to induce effector triggered immunity (ETI) in the host." []
 is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2020-03-16T13:56:47Z
@@ -4808,9 +4807,8 @@ creation_date: 2020-03-16T13:57:10Z
 
 [Term]
 id: PECO:0005238
-name: + PTI inducer
-def: "An experimental condition in which a PAMP triggered immunity (PTI) inducer was added to the experiment." []
-synonym: "+ flg22" EXACT []
+name: + PTI inducer flg22
+def: "An experimental condition in which flg22 a PAMP triggered immunity (PTI) inducer was added to the experiment." []
 is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2020-03-16T14:08:25Z
