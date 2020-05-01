@@ -6648,6 +6648,7 @@ AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005226 "Host organisms were inocul
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005226 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005226 "2020-03-10T14:30:09Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005226 "2 dpi")
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005226 "48 hpi")
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005226 "phenotype_condition")
 AnnotationAssertion(rdfs:label obo:PECO_0005226 "2 days post inoculation"@en)
 SubClassOf(obo:PECO_0005226 obo:PECO_0000122)
