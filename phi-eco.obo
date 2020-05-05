@@ -4692,6 +4692,7 @@ synonym: "chocolate agar" EXACT []
 synonym: "complete medium" EXACT []
 synonym: "complex medium" EXACT []
 synonym: "Lowenstein-Jensen medium" EXACT []
+synonym: "luria broth (LB)" EXACT []
 synonym: "MacConkey agar" EXACT []
 synonym: "mung bean medium" EXACT []
 synonym: "oatmeal medium" EXACT []
@@ -4723,6 +4724,7 @@ id: PECO:0005226
 name: 2 days post inoculation
 def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 2 days post inoculation." []
 synonym: "2 dpi" EXACT []
+synonym: "48 hpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
 creation_date: 2020-03-10T14:30:09Z
