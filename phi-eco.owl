@@ -591,6 +591,7 @@ Declaration(Class(obo:PECO_0005253))
 Declaration(Class(obo:PECO_0005254))
 Declaration(Class(obo:PECO_0005255))
 Declaration(Class(obo:PECO_0005256))
+Declaration(Class(obo:PECO_0005257))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -6926,6 +6927,16 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005256 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005256 "PECO:0005256"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005256 "+ salicylic acid analog BTH"^^xsd:string)
 SubClassOf(obo:PECO_0005256 obo:PECO_0000109)
+
+# Class: obo:PECO_0005257 (+ C4-HSL)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005257 "An experimental condition in which C4-HCL (N-butanoyl-L-homoserine lactone) was added to the medium or assay buffer in excess compared to standard medium or assay buffers."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005257 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005257 "2020-05-18T12:59:18Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005257 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005257 "PECO:0005257"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005257 "+ C4-HSL"^^xsd:string)
+SubClassOf(obo:PECO_0005257 obo:PECO_0000109)
 
 
 )

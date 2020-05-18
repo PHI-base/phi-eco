@@ -4972,6 +4972,14 @@ is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2020-04-27T19:10:00Z
 
+[Term]
+id: PECO:0005257
+name: + C4-HSL
+def: "An experimental condition in which C4-HCL (N-butanoyl-L-homoserine lactone) was added to the medium or assay buffer in excess compared to standard medium or assay buffers." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2020-05-18T12:59:18Z
+
 [Typedef]
 id: part_of
 name: part_of
