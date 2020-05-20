@@ -592,6 +592,7 @@ Declaration(Class(obo:PECO_0005254))
 Declaration(Class(obo:PECO_0005255))
 Declaration(Class(obo:PECO_0005256))
 Declaration(Class(obo:PECO_0005257))
+Declaration(Class(obo:PECO_0005258))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -6937,6 +6938,16 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005257 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005257 "PECO:0005257"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005257 "+ C4-HSL"^^xsd:string)
 SubClassOf(obo:PECO_0005257 obo:PECO_0000109)
+
+# Class: obo:PECO_0005258 (+ PTI inducer)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005258 "An experimental condition in which a PAMP triggered immunity (PTI) inducer was added to the experiment. This PTI inducer could be in the form of a chemistry or a pathogenic or non-pathogenic organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005258 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005258 "2020-05-20T09:45:14Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005258 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005258 "PECO:0005258"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005258 "+ PTI inducer"^^xsd:string)
+SubClassOf(obo:PECO_0005258 obo:PECO_0000109)
 
 
 )

@@ -4980,6 +4980,14 @@ is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2020-05-18T12:59:18Z
 
+[Term]
+id: PECO:0005258
+name: + PTI inducer
+def: "An experimental condition in which a PAMP triggered immunity (PTI) inducer was added to the experiment. This PTI inducer could be in the form of a chemistry or a pathogenic or non-pathogenic organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2020-05-20T09:45:14Z
+
 [Typedef]
 id: part_of
 name: part_of
