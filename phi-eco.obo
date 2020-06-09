@@ -3172,8 +3172,8 @@ creation_date: 2019-02-27T10:58:55Z
 
 [Term]
 id: PECO:0005029
-name: tobacco host assay
-def: "The treatment involving study type in which organisms or gene products were assayed in a tobacco host." []
+name: heterologous species tobacco
+def: "The treatment involving study type in which organisms or gene products were assayed in a heterologous host species tobacco." []
 is_a: PECO:0005001 ! study type
 created_by: alaynecuzick
 creation_date: 2019-02-27T10:59:19Z
