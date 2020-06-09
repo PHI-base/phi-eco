@@ -593,6 +593,7 @@ Declaration(Class(obo:PECO_0005255))
 Declaration(Class(obo:PECO_0005256))
 Declaration(Class(obo:PECO_0005257))
 Declaration(Class(obo:PECO_0005258))
+Declaration(Class(obo:PECO_0005259))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -6948,6 +6949,16 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005258 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005258 "PECO:0005258"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005258 "+ PTI inducer"^^xsd:string)
 SubClassOf(obo:PECO_0005258 obo:PECO_0000109)
+
+# Class: obo:PECO_0005259 (heterologous host species)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005259 "The treatment involving study type in which organisms or gene products were assayed in a heterologous host species."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005259 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005259 "2020-06-09T13:14:10Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005259 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005259 "PECO:0005259"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005259 "heterologous host species"^^xsd:string)
+SubClassOf(obo:PECO_0005259 obo:PECO_0005001)
 
 
 )
