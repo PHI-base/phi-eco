@@ -4718,13 +4718,13 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005028 "phenotype_conditi
 AnnotationAssertion(rdfs:label obo:PECO_0005028 "agrobacterium delivery system"@en)
 SubClassOf(obo:PECO_0005028 obo:PECO_0005233)
 
-# Class: obo:PECO_0005029 (tobacco host assay)
+# Class: obo:PECO_0005029 (heterologous species tobacco)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005029 "The treatment involving study type in which organisms or gene products were assayed in a tobacco host.")
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005029 "The treatment involving study type in which organisms or gene products were assayed in a heterologous host species tobacco.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005029 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005029 "2019-02-27T10:59:19Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005029 "phenotype_condition")
-AnnotationAssertion(rdfs:label obo:PECO_0005029 "tobacco host assay"@en)
+AnnotationAssertion(rdfs:label obo:PECO_0005029 "heterologous species tobacco"@en)
 SubClassOf(obo:PECO_0005029 obo:PECO_0005001)
 
 # Class: obo:PECO_0005030 (host assay in leaf)
