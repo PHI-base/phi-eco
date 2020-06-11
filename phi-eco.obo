@@ -4996,6 +4996,42 @@ is_a: PECO:0005001 ! study type
 created_by: alaynecuzick
 creation_date: 2020-06-09T13:14:10Z
 
+[Term]
+id: PECO:0005260
+name: + toxin inducer
+def: "An experimental condition in which a substance was added to the experiment to induce the biosynthesis of a toxin within an organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2020-06-11T09:29:33Z
+
+[Term]
+id: PECO:0005261
+name: iron absent
+def: "Iron was completely excluded from the experimental medium/buffer." []
+synonym: "iron chelator" EXACT []
+is_a: PECO:0000120 ! grouping absent
+created_by: alaynecuzick
+creation_date: 2020-06-11T09:30:23Z
+
+[Term]
+id: PECO:0005262
+name: 20 days post inoculation
+def: "20 days post inoculation" []
+synonym: "22 dpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2020-06-11T09:31:17Z
+
+[Term]
+id: PECO:0005263
+name: 3 weeks post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 3 weeks post inoculation." []
+synonym: "21 dpi" EXACT []
+synonym: "3 wpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2020-06-11T09:34:51Z
+
 [Typedef]
 id: part_of
 name: part_of
