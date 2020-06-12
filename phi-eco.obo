@@ -5015,8 +5015,8 @@ creation_date: 2020-06-11T09:30:23Z
 
 [Term]
 id: PECO:0005262
-name: 20 days post inoculation
-def: "20 days post inoculation" []
+name: 22 days post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 22 days post inoculation." []
 synonym: "22 dpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
