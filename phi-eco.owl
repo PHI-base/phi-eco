@@ -6985,15 +6985,15 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0005261 "PECO:0005261"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005261 "iron absent"^^xsd:string)
 SubClassOf(obo:PECO_0005261 obo:PECO_0000120)
 
-# Class: obo:PECO_0005262 (20 days post inoculation)
+# Class: obo:PECO_0005262 (22 days post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005262 "20 days post inoculation"^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005262 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 22 days post inoculation."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005262 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005262 "2020-06-11T09:31:17Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005262 "22 dpi"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005262 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0005262 "PECO:0005262"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005262 "20 days post inoculation"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005262 "22 days post inoculation"^^xsd:string)
 SubClassOf(obo:PECO_0005262 obo:PECO_0000122)
 
 # Class: obo:PECO_0005263 (3 weeks post inoculation)
