@@ -1,10 +1,11 @@
 @echo off
 
-cd ..
+cd .. && ^
 call robot template ^
 --template phi-eco.tsv ^
 --input phi-eco.owl ^
 --output phi-eco.ofn ^
---merge-before
-move /y phi-eco.ofn phi-eco.owl >nul
-call robot convert -i phi-eco.owl -o phi-eco.obo
+--merge-before && ^
+move /y phi-eco.ofn phi-eco.owl >nul && ^
+call robot convert -i phi-eco.owl -o phi-eco.tmp.obo && ^
+move /y phi-eco.tmp.obo phi-eco.obo >nul
