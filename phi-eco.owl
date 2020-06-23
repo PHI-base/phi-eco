@@ -605,6 +605,7 @@ Declaration(Class(obo:PECO_0005267))
 Declaration(Class(obo:PECO_0005268))
 Declaration(Class(obo:PECO_0005269))
 Declaration(Class(obo:PECO_0005270))
+Declaration(Class(obo:PECO_0005271))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7089,6 +7090,17 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005270 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005270 "PECO:0005270"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005270 "+ 3-isobutyl-1-methylxanthine"^^xsd:string)
 SubClassOf(obo:PECO_0005270 obo:PECO_0000109)
+
+# Class: obo:PECO_0005271 (culture infiltration delivery system)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005271 "The treatment involving study type in which gene products were infiltrated into the host."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005271 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005271 "2020-06-22T09:34:51Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005271 "culture infiltration"^^xsd:string)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005271 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005271 "PECO:0005271"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005271 "culture infiltration delivery system"^^xsd:string)
+SubClassOf(obo:PECO_0005271 obo:PECO_0005233)
 
 
 )
