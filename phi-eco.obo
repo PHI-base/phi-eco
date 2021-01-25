@@ -3180,9 +3180,9 @@ creation_date: 2019-02-27T10:59:19Z
 
 [Term]
 id: PECO:0005030
-name: host assay in leaf
+name: obsolete host assay in leaf
 def: "The treatment involving study type in which organisms or gene products were assayed in a host leaf." []
-is_a: PECO:0005001 ! study type
+is_obsolete: true
 created_by: alaynecuzick
 creation_date: 2019-02-27T10:59:35Z
 

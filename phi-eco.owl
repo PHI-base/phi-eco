@@ -4741,14 +4741,14 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005029 "phenotype_conditi
 AnnotationAssertion(rdfs:label obo:PECO_0005029 "heterologous species tobacco"@en)
 SubClassOf(obo:PECO_0005029 obo:PECO_0005001)
 
-# Class: obo:PECO_0005030 (host assay in leaf)
+# Class: obo:PECO_0005030 (obsolete host assay in leaf)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005030 "The treatment involving study type in which organisms or gene products were assayed in a host leaf.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005030 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005030 "2019-02-27T10:59:35Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005030 "phenotype_condition")
-AnnotationAssertion(rdfs:label obo:PECO_0005030 "host assay in leaf"@en)
-SubClassOf(obo:PECO_0005030 obo:PECO_0005001)
+AnnotationAssertion(rdfs:label obo:PECO_0005030 "obsolete host assay in leaf"^^xsd:string)
+AnnotationAssertion(owl:deprecated obo:PECO_0005030 "true"^^xsd:boolean)
 
 # Class: obo:PECO_0005031 (+ cyproconazole)
 
