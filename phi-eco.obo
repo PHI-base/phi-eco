@@ -3163,7 +3163,7 @@ creation_date: 2019-01-25T13:48:53Z
 
 [Term]
 id: PECO:0005028
-name: agrobacterium delivery system
+name: delivery mechanism: agrobacterium
 def: "The treatment involving study type in which gene products were transiently expressed using agrobacterium mediated delivery into the host." []
 synonym: "agrobacterium-mediated transient coexpression assay" EXACT []
 is_a: PECO:0005233 ! grouping delivery mechanism
@@ -4785,7 +4785,7 @@ creation_date: 2020-03-16T13:36:36Z
 
 [Term]
 id: PECO:0005235
-name: heterologous organism delivery system
+name: delivery mechanism: heterologous organism
 def: "The treatment involving study type in which gene products were expressed in the host using a heterologous organism delivery system." []
 is_a: PECO:0005233 ! grouping delivery mechanism
 created_by: alaynecuzick
@@ -4817,7 +4817,7 @@ creation_date: 2020-03-16T14:08:25Z
 
 [Term]
 id: PECO:0005239
-name: pathogen inoculation
+name: delivery mechanism: pathogen inoculation
 def: "The treatment involving study type in which a pathogen is inoculated onto a host." []
 is_a: PECO:0005233 ! grouping delivery mechanism
 created_by: alaynecuzick
@@ -4833,33 +4833,33 @@ creation_date: 2020-03-16T14:31:30Z
 
 [Term]
 id: PECO:0005241
-name: pathogen spore inoculation
+name: delivery mechanism: pathogen spore inoculation
 def: "The treatment involving study type in which pathogen spores are inoculated onto a host." []
-is_a: PECO:0005239 ! pathogen inoculation
+is_a: PECO:0005239 ! delivery mechanism: pathogen inoculation
 created_by: alaynecuzick
 creation_date: 2020-03-16T14:33:56Z
 
 [Term]
 id: PECO:0005242
-name: pathogen mycelium inoculation
+name: delivery mechanism: pathogen mycelium inoculation
 def: "The treatment involving study type in which pathogen mycelium is inoculated onto a host." []
-is_a: PECO:0005239 ! pathogen inoculation
+is_a: PECO:0005239 ! delivery mechanism: pathogen inoculation
 created_by: alaynecuzick
 creation_date: 2020-03-16T14:34:14Z
 
 [Term]
 id: PECO:0005243
-name: pathogen spray inoculation
+name: delivery mechanism: pathogen spray inoculation
 def: "The treatment involving study type in which pathogen is inoculated onto a host using a spray technique. This usually covers a large area of host tissue." []
-is_a: PECO:0005239 ! pathogen inoculation
+is_a: PECO:0005239 ! delivery mechanism: pathogen inoculation
 created_by: alaynecuzick
 creation_date: 2020-03-30T16:09:52Z
 
 [Term]
 id: PECO:0005244
-name: pathogen point inoculation
+name: delivery mechanism: pathogen point inoculation
 def: "The treatment involving study type in which pathogen is inoculated onto a host using a point inoculation technique. This usually covers a small specific region of host tissue." []
-is_a: PECO:0005239 ! pathogen inoculation
+is_a: PECO:0005239 ! delivery mechanism: pathogen inoculation
 created_by: alaynecuzick
 creation_date: 2020-03-30T16:10:07Z
 
@@ -5095,7 +5095,7 @@ creation_date: 2020-06-12T09:34:51Z
 
 [Term]
 id: PECO:0005271
-name: culture infiltration delivery system
+name: delivery mechanism: culture infiltration
 def: "The treatment involving study type in which gene products were infiltrated into the host." []
 synonym: "culture infiltration" EXACT []
 is_a: PECO:0005233 ! grouping delivery mechanism

@@ -4721,14 +4721,14 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005027 "phenotype_conditi
 AnnotationAssertion(rdfs:label obo:PECO_0005027 "+ dithiothreitol"@en)
 SubClassOf(obo:PECO_0005027 obo:PECO_0000109)
 
-# Class: obo:PECO_0005028 (agrobacterium delivery system)
+# Class: obo:PECO_0005028 (delivery mechanism: agrobacterium)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005028 "The treatment involving study type in which gene products were transiently expressed using agrobacterium mediated delivery into the host.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005028 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005028 "2019-02-27T10:58:55Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005028 "agrobacterium-mediated transient coexpression assay")
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005028 "phenotype_condition")
-AnnotationAssertion(rdfs:label obo:PECO_0005028 "agrobacterium delivery system"@en)
+AnnotationAssertion(rdfs:label obo:PECO_0005028 "delivery mechanism: agrobacterium"@en)
 SubClassOf(obo:PECO_0005028 obo:PECO_0005233)
 
 # Class: obo:PECO_0005029 (heterologous species tobacco)
@@ -6728,13 +6728,13 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005234 "phenotype_conditi
 AnnotationAssertion(rdfs:label obo:PECO_0005234 "+ wild type pathogen inoculation"@en)
 SubClassOf(obo:PECO_0005234 obo:PECO_0000109)
 
-# Class: obo:PECO_0005235 (heterologous organism delivery system)
+# Class: obo:PECO_0005235 (delivery mechanism: heterologous organism)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005235 "The treatment involving study type in which gene products were expressed in the host using a heterologous organism delivery system.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005235 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005235 "2020-03-16T13:45:42Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005235 "phenotype_condition")
-AnnotationAssertion(rdfs:label obo:PECO_0005235 "heterologous organism delivery system"@en)
+AnnotationAssertion(rdfs:label obo:PECO_0005235 "delivery mechanism: heterologous organism"@en)
 SubClassOf(obo:PECO_0005235 obo:PECO_0005233)
 
 # Class: obo:PECO_0005236 (+ ETI inducer chemical bax)
@@ -6764,13 +6764,13 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005238 "phenotype_conditi
 AnnotationAssertion(rdfs:label obo:PECO_0005238 "+ PTI inducer flg22"@en)
 SubClassOf(obo:PECO_0005238 obo:PECO_0000109)
 
-# Class: obo:PECO_0005239 (pathogen inoculation)
+# Class: obo:PECO_0005239 (delivery mechanism: pathogen inoculation)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005239 "The treatment involving study type in which a pathogen is inoculated onto a host.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005239 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005239 "2020-03-16T14:27:42Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005239 "phenotype_condition")
-AnnotationAssertion(rdfs:label obo:PECO_0005239 "pathogen inoculation"@en)
+AnnotationAssertion(rdfs:label obo:PECO_0005239 "delivery mechanism: pathogen inoculation"@en)
 SubClassOf(obo:PECO_0005239 obo:PECO_0005233)
 
 # Class: obo:PECO_0005240 (+ wounding)
@@ -6782,40 +6782,40 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005240 "phenotype_conditi
 AnnotationAssertion(rdfs:label obo:PECO_0005240 "+ wounding"@en)
 SubClassOf(obo:PECO_0005240 obo:PECO_0000109)
 
-# Class: obo:PECO_0005241 (pathogen spore inoculation)
+# Class: obo:PECO_0005241 (delivery mechanism: pathogen spore inoculation)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005241 "The treatment involving study type in which pathogen spores are inoculated onto a host.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005241 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005241 "2020-03-16T14:33:56Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005241 "phenotype_condition")
-AnnotationAssertion(rdfs:label obo:PECO_0005241 "pathogen spore inoculation"@en)
+AnnotationAssertion(rdfs:label obo:PECO_0005241 "delivery mechanism: pathogen spore inoculation"@en)
 SubClassOf(obo:PECO_0005241 obo:PECO_0005239)
 
-# Class: obo:PECO_0005242 (pathogen mycelium inoculation)
+# Class: obo:PECO_0005242 (delivery mechanism: pathogen mycelium inoculation)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005242 "The treatment involving study type in which pathogen mycelium is inoculated onto a host.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005242 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005242 "2020-03-16T14:34:14Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005242 "phenotype_condition")
-AnnotationAssertion(rdfs:label obo:PECO_0005242 "pathogen mycelium inoculation"@en)
+AnnotationAssertion(rdfs:label obo:PECO_0005242 "delivery mechanism: pathogen mycelium inoculation"@en)
 SubClassOf(obo:PECO_0005242 obo:PECO_0005239)
 
-# Class: obo:PECO_0005243 (pathogen spray inoculation)
+# Class: obo:PECO_0005243 (delivery mechanism: pathogen spray inoculation)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005243 "The treatment involving study type in which pathogen is inoculated onto a host using a spray technique. This usually covers a large area of host tissue.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005243 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005243 "2020-03-30T16:09:52Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005243 "phenotype_condition")
-AnnotationAssertion(rdfs:label obo:PECO_0005243 "pathogen spray inoculation"@en)
+AnnotationAssertion(rdfs:label obo:PECO_0005243 "delivery mechanism: pathogen spray inoculation"@en)
 SubClassOf(obo:PECO_0005243 obo:PECO_0005239)
 
-# Class: obo:PECO_0005244 (pathogen point inoculation)
+# Class: obo:PECO_0005244 (delivery mechanism: pathogen point inoculation)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005244 "The treatment involving study type in which pathogen is inoculated onto a host using a point inoculation technique. This usually covers a small specific region of host tissue.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005244 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005244 "2020-03-30T16:10:07Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005244 "phenotype_condition")
-AnnotationAssertion(rdfs:label obo:PECO_0005244 "pathogen point inoculation"@en)
+AnnotationAssertion(rdfs:label obo:PECO_0005244 "delivery mechanism: pathogen point inoculation"@en)
 SubClassOf(obo:PECO_0005244 obo:PECO_0005239)
 
 # Class: obo:PECO_0005245 (3 days post inoculation)
@@ -7091,7 +7091,7 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0005270 "PECO:0005270"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005270 "+ 3-isobutyl-1-methylxanthine"^^xsd:string)
 SubClassOf(obo:PECO_0005270 obo:PECO_0000109)
 
-# Class: obo:PECO_0005271 (culture infiltration delivery system)
+# Class: obo:PECO_0005271 (delivery mechanism: culture infiltration)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005271 "The treatment involving study type in which gene products were infiltrated into the host."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005271 "alaynecuzick"^^xsd:string)
@@ -7099,7 +7099,7 @@ AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005271 "2020-06-22T09:34:51
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005271 "culture infiltration"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005271 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0005271 "PECO:0005271"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005271 "culture infiltration delivery system"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005271 "delivery mechanism: culture infiltration"^^xsd:string)
 SubClassOf(obo:PECO_0005271 obo:PECO_0005233)
 
 
