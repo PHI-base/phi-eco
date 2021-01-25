@@ -606,6 +606,7 @@ Declaration(Class(obo:PECO_0005268))
 Declaration(Class(obo:PECO_0005269))
 Declaration(Class(obo:PECO_0005270))
 Declaration(Class(obo:PECO_0005271))
+Declaration(Class(obo:PECO_0005272))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7101,6 +7102,16 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005271 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005271 "PECO:0005271"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005271 "delivery mechanism: culture infiltration"^^xsd:string)
 SubClassOf(obo:PECO_0005271 obo:PECO_0005233)
+
+# Class: obo:PECO_0005272 (delivery mechanism: pathogen gene expressed by transgenic host)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005272 "The treatment involving study type in which pathogen gene products were transiently or stably expressed in the host."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005272 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005272 "2021-01-25T13:48:00Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005272 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005272 "PECO:0005272"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005272 "delivery mechanism: pathogen gene expressed by transgenic host"^^xsd:string)
+SubClassOf(obo:PECO_0005272 obo:PECO_0005233)
 
 
 )

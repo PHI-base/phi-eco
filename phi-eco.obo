@@ -5102,6 +5102,14 @@ is_a: PECO:0005233 ! grouping delivery mechanism
 created_by: alaynecuzick
 creation_date: 2020-06-22T09:34:51Z
 
+[Term]
+id: PECO:0005272
+name: delivery mechanism: pathogen gene expressed by transgenic host
+def: "The treatment involving study type in which pathogen gene products were transiently or stably expressed in the host." []
+is_a: PECO:0005233 ! grouping delivery mechanism
+created_by: alaynecuzick
+creation_date: 2021-01-25T13:48:00Z
+
 [Typedef]
 id: part_of
 name: part_of
