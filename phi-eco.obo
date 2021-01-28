@@ -5110,6 +5110,42 @@ is_a: PECO:0005233 ! grouping delivery mechanism
 created_by: alaynecuzick
 creation_date: 2021-01-25T13:48:00Z
 
+[Term]
+id: PECO:0005273
+name: 2 hours post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 2 hours post inoculation." []
+synonym: "2 hpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2021-01-27T11:24:28Z
+
+[Term]
+id: PECO:0005274
+name: 4 hours post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 4 hours post inoculation." []
+synonym: "4 hpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2021-01-27T11:24:28Z
+
+[Term]
+id: PECO:0005275
+name: 1 hour post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 1 hour post inoculation." []
+synonym: "1 hpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2021-01-27T11:24:28Z
+
+[Term]
+id: PECO:0005276
+name: 0.5 hours post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 0.5 hours post inoculation." []
+synonym: "0.5 hpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2021-01-27T11:24:28Z
+
 [Typedef]
 id: part_of
 name: part_of
