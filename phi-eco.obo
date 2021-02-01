@@ -5146,6 +5146,16 @@ is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
 creation_date: 2021-01-27T11:24:28Z
 
+[Term]
+id: PECO:0005277
+name: 0.25 hours post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 0.25 hours (15 minutes) post inoculation." []
+synonym: "0.25 hpi" EXACT []
+synonym: "15 minutes post inoculation" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2021-01-29T14:12:53Z
+
 [Typedef]
 id: part_of
 name: part_of

@@ -611,6 +611,7 @@ Declaration(Class(obo:PECO_0005273))
 Declaration(Class(obo:PECO_0005274))
 Declaration(Class(obo:PECO_0005275))
 Declaration(Class(obo:PECO_0005276))
+Declaration(Class(obo:PECO_0005277))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7160,6 +7161,18 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005276 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005276 "PECO:0005276"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005276 "0.5 hours post inoculation"^^xsd:string)
 SubClassOf(obo:PECO_0005276 obo:PECO_0000122)
+
+# Class: obo:PECO_0005277 (0.25 hours post inoculation)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005277 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 0.25 hours (15 minutes) post inoculation."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005277 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005277 "2021-01-29T14:12:53Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005277 "0.25 hpi"^^xsd:string)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005277 "15 minutes post inoculation"^^xsd:string)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005277 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005277 "PECO:0005277"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005277 "0.25 hours post inoculation"^^xsd:string)
+SubClassOf(obo:PECO_0005277 obo:PECO_0000122)
 
 
 )
