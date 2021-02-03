@@ -6722,6 +6722,7 @@ AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005233 "This is a grouping term, p
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005233 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005233 "2020-03-16T13:33:20Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005233 "phenotype_condition")
+AnnotationAssertion(oboInOwl:inSubset obo:PECO_0005233 "Grouping_terms")
 AnnotationAssertion(rdfs:label obo:PECO_0005233 "grouping delivery mechanism"@en)
 SubClassOf(obo:PECO_0005233 obo:PECO_0005001)
 

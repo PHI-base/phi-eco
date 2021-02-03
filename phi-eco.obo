@@ -4771,6 +4771,7 @@ creation_date: 2020-03-11T09:54:32Z
 id: PECO:0005233
 name: grouping delivery mechanism
 def: "This is a grouping term, please do not use for annotation." []
+subset: Grouping_terms
 is_a: PECO:0005001 ! study type
 created_by: alaynecuzick
 creation_date: 2020-03-16T13:33:20Z
