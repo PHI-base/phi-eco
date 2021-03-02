@@ -612,6 +612,7 @@ Declaration(Class(obo:PECO_0005274))
 Declaration(Class(obo:PECO_0005275))
 Declaration(Class(obo:PECO_0005276))
 Declaration(Class(obo:PECO_0005277))
+Declaration(Class(obo:PECO_0005278))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7174,6 +7175,18 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005277 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005277 "PECO:0005277"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005277 "0.25 hours post inoculation"^^xsd:string)
 SubClassOf(obo:PECO_0005277 obo:PECO_0000122)
+
+# Class: obo:PECO_0005278 (+ iron)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005278 "An experimental condition in which iron was added to the medium or assay buffers."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005278 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005278 "2021-03-02T14:27:30Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005278 "'+ iron siderophore"^^xsd:string)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005278 "+ TAFC"^^xsd:string)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005278 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005278 "PECO:0005278"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005278 "+ iron"^^xsd:string)
+SubClassOf(obo:PECO_0005278 obo:PECO_0000109)
 
 
 )

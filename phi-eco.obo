@@ -5157,6 +5157,16 @@ is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
 creation_date: 2021-01-29T14:12:53Z
 
+[Term]
+id: PECO:0005278
+name: + iron
+def: "An experimental condition in which iron was added to the medium or assay buffers." []
+synonym: "'+ iron siderophore" EXACT []
+synonym: "+ TAFC" EXACT []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2021-03-02T14:27:30Z
+
 [Typedef]
 id: part_of
 name: part_of
