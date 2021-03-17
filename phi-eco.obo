@@ -5167,6 +5167,30 @@ is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2021-03-02T14:27:30Z
 
+[Term]
+id: PECO:0005279
+name: host: one week old
+def: "Host organisms were observed or treated at one week old." []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2021-03-17T12:01:47Z
+
+[Term]
+id: PECO:0005280
+name: host: two weeks old
+def: "Host organisms were observed or treated at two weeks old." []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2021-03-17T12:01:47Z
+
+[Term]
+id: PECO:0005281
+name: host: four week old
+def: "Host organisms were observed or treated at four weeks old." []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2021-03-17T12:01:47Z
+
 [Typedef]
 id: part_of
 name: part_of
