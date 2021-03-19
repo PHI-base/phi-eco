@@ -5185,7 +5185,7 @@ creation_date: 2021-03-17T12:01:47Z
 
 [Term]
 id: PECO:0005281
-name: host: four week old
+name: host: four weeks old
 def: "Host organisms were observed or treated at four weeks old." []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick

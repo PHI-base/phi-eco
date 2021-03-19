@@ -7211,14 +7211,14 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0005280 "PECO:0005280"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005280 "host: two weeks old"^^xsd:string)
 SubClassOf(obo:PECO_0005280 obo:PECO_0000122)
 
-# Class: obo:PECO_0005281 (host: four week old)
+# Class: obo:PECO_0005281 (host: four weeks old)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005281 "Host organisms were observed or treated at four weeks old."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005281 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005281 "2021-03-17T12:01:47Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005281 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0005281 "PECO:0005281"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005281 "host: four week old"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005281 "host: four weeks old"^^xsd:string)
 SubClassOf(obo:PECO_0005281 obo:PECO_0000122)
 
 
