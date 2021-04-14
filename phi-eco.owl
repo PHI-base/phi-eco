@@ -617,6 +617,7 @@ Declaration(Class(obo:PECO_0005279))
 Declaration(Class(obo:PECO_0005280))
 Declaration(Class(obo:PECO_0005281))
 Declaration(Class(obo:PECO_0005282))
+Declaration(Class(obo:PECO_0005283))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7234,6 +7235,17 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005282 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005282 "PECO:0005282"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005282 "+ PTI inducer chitin"^^xsd:string)
 SubClassOf(obo:PECO_0005282 obo:PECO_0000109)
+
+# Class: obo:PECO_0005283 (30 days post inoculation)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005283 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 30 days post inoculation."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005283 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005283 "2021-04-14T12:19:27Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005283 "30 dpi"^^xsd:string)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005283 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005283 "PECO:0005283"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005283 "30 days post inoculation"^^xsd:string)
+SubClassOf(obo:PECO_0005283 obo:PECO_0000122)
 
 
 )
