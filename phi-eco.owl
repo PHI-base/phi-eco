@@ -618,6 +618,8 @@ Declaration(Class(obo:PECO_0005280))
 Declaration(Class(obo:PECO_0005281))
 Declaration(Class(obo:PECO_0005282))
 Declaration(Class(obo:PECO_0005283))
+Declaration(Class(obo:PECO_0005284))
+Declaration(Class(obo:PECO_0005285))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7246,6 +7248,28 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005283 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005283 "PECO:0005283"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005283 "30 days post inoculation"^^xsd:string)
 SubClassOf(obo:PECO_0005283 obo:PECO_0000122)
+
+# Class: obo:PECO_0005284 (16 hours post inoculation)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005284 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 16 hours post inoculation."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005284 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005284 "2021-04-20T10:51:14Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005284 "16 hpi"^^xsd:string)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005284 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005284 "PECO:0005284"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005284 "16 hours post inoculation"^^xsd:string)
+SubClassOf(obo:PECO_0005284 obo:PECO_0000122)
+
+# Class: obo:PECO_0005285 (+ dexamethasone)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005285 "An experimental condition in which dexamethasone was added to the medium or assay buffer in excess compared to standard medium or assay buffers."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005285 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005285 "2021-04-20T10:51:14Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005285 "DEX; Dex"^^xsd:string)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005285 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005285 "PECO:0005285"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005285 "+ dexamethasone"^^xsd:string)
+SubClassOf(obo:PECO_0005285 obo:PECO_0000109)
 
 
 )
