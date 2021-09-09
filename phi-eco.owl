@@ -621,6 +621,7 @@ Declaration(Class(obo:PECO_0005283))
 Declaration(Class(obo:PECO_0005284))
 Declaration(Class(obo:PECO_0005285))
 Declaration(Class(obo:PECO_0005286))
+Declaration(Class(obo:PECO_0005287))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7281,6 +7282,17 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005286 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005286 "PECO:0005286"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005286 "+ chitinase"^^xsd:string)
 SubClassOf(obo:PECO_0005286 obo:PECO_0000109)
+
+# Class: obo:PECO_0005287 (+ ETI inducer INF1)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005287 "An experimental condition in which INF1 elicitin protein was added to the experiment to induce effector triggered immunity (ETI) in the host."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005287 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005287 "2021-09-09T11:36:41Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005287 "+ INF1"^^xsd:string)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005287 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005287 "PECO:0005287"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005287 "+ ETI inducer INF1"^^xsd:string)
+SubClassOf(obo:PECO_0005287 obo:PECO_0000109)
 
 
 )
