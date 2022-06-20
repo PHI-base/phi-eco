@@ -4715,6 +4715,7 @@ id: PECO:0005225
 name: 1 day post inoculation
 def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 1 day post inoculation." []
 synonym: "1 dpi" EXACT []
+synonym: "24 hpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
 creation_date: 2020-03-10T14:29:30Z
