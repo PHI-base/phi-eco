@@ -625,6 +625,7 @@ Declaration(Class(obo:PECO_0005287))
 Declaration(Class(obo:PECO_0005288))
 Declaration(Class(obo:PECO_0005289))
 Declaration(Class(obo:PECO_0005290))
+Declaration(Class(obo:PECO_0005291))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7331,6 +7332,16 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005290 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005290 "PECO:0005290"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005290 "3 hours post inoculation"^^xsd:string)
 SubClassOf(obo:PECO_0005290 obo:PECO_0000122)
+
+# Class: obo:PECO_0005291 (delivery mechanism: cell free culture supernatent)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005291 "The treatment involving study type in which a pathogen cell free culture supernatent is inoculated onto a host."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005291 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005291 "2022-06-20T10:14:37Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005291 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005291 "PECO:0005291"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005291 "delivery mechanism: cell free culture supernatent"^^xsd:string)
+SubClassOf(obo:PECO_0005291 obo:PECO_0005233)
 
 
 )

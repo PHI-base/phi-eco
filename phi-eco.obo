@@ -5274,6 +5274,14 @@ is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
 creation_date: 2022-06-20T10:10:39Z
 
+[Term]
+id: PECO:0005291
+name: delivery mechanism: cell free culture supernatent
+def: "The treatment involving study type in which a pathogen cell free culture supernatent is inoculated onto a host." []
+is_a: PECO:0005233 ! grouping delivery mechanism
+created_by: alaynecuzick
+creation_date: 2022-06-20T10:14:37Z
+
 [Typedef]
 id: part_of
 name: part_of
