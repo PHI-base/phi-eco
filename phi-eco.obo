@@ -5265,6 +5265,15 @@ is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
 creation_date: 2022-06-20T10:09:59Z
 
+[Term]
+id: PECO:0005290
+name: 3 hours post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 3 hours post inoculation." []
+synonym: "3 hpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2022-06-20T10:10:39Z
+
 [Typedef]
 id: part_of
 name: part_of
