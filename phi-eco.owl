@@ -626,6 +626,8 @@ Declaration(Class(obo:PECO_0005288))
 Declaration(Class(obo:PECO_0005289))
 Declaration(Class(obo:PECO_0005290))
 Declaration(Class(obo:PECO_0005291))
+Declaration(Class(obo:PECO_0005292))
+Declaration(Class(obo:PECO_0005293))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7342,6 +7344,28 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005291 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005291 "PECO:0005291"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005291 "delivery mechanism: cell free culture supernatent"^^xsd:string)
 SubClassOf(obo:PECO_0005291 obo:PECO_0005233)
+
+# Class: obo:PECO_0005292 (10 hours post inoculation)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005292 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 10 hours post inoculation."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005292 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005292 "2022-07-27T12:13:23Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005292 "10 hpi"^^xsd:string)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005292 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005292 "PECO:0005292"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005292 "10 hours post inoculation"^^xsd:string)
+SubClassOf(obo:PECO_0005292 obo:PECO_0000122)
+
+# Class: obo:PECO_0005293 (40 hours post inoculation)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005293 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 40 hours post inoculation."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005293 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005293 "2022-07-27T12:13:23Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005293 "40 hpi"^^xsd:string)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005293 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005293 "PECO:0005293"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005293 "40 hours post inoculation"^^xsd:string)
+SubClassOf(obo:PECO_0005293 obo:PECO_0000122)
 
 
 )
