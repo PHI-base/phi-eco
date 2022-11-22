@@ -629,6 +629,7 @@ Declaration(Class(obo:PECO_0005291))
 Declaration(Class(obo:PECO_0005292))
 Declaration(Class(obo:PECO_0005293))
 Declaration(Class(obo:PECO_0005294))
+Declaration(Class(obo:PECO_0005295))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7377,6 +7378,16 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005294 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005294 "PECO:0005294"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005294 "host: ten weeks old"^^xsd:string)
 SubClassOf(obo:PECO_0005294 obo:PECO_0000122)
+
+# Class: obo:PECO_0005295 (9 days post inoculation)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005295 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 9 days post inoculation."^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005295 "2022-11-22T10:28:49Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005295 "9 dpi"^^xsd:string)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005295 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005295 "PECO:0005295"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005295 "9 days post inoculation"^^xsd:string)
+SubClassOf(obo:PECO_0005295 obo:PECO_0000122)
 
 
 )
