@@ -5316,6 +5316,39 @@ synonym: "9 dpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 creation_date: 2022-11-22T10:28:49Z
 
+[Term]
+id: PECO:0005296
+name: + tolnaftate
+def: "An experimental condition in which tolnaftate was added to the experiment." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2023-06-07T13:55:16Z
+
+[Term]
+id: PECO:0005297
+name: + fenpicoxamid
+def: "An experimental condition in which fenpicoxamid was added to the experiment." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2023-06-07T13:55:16Z
+
+[Term]
+id: PECO:0005298
+name: + polygalacturonic acid
+def: "An experimental condition in which polygalacturonic acid was added to the experiment." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2023-06-07T13:55:16Z
+
+[Term]
+id: PECO:0005299
+name: + polygalacturonase inhibitor
+def: "An experimental condition in which a polygalacturonase inhibitor was added to the experiment." []
+synonym: "+ PG inhibitor" EXACT []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2023-06-07T13:55:16Z
+
 [Typedef]
 id: part_of
 name: part_of

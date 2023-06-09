@@ -630,6 +630,10 @@ Declaration(Class(obo:PECO_0005292))
 Declaration(Class(obo:PECO_0005293))
 Declaration(Class(obo:PECO_0005294))
 Declaration(Class(obo:PECO_0005295))
+Declaration(Class(obo:PECO_0005296))
+Declaration(Class(obo:PECO_0005297))
+Declaration(Class(obo:PECO_0005298))
+Declaration(Class(obo:PECO_0005299))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7388,6 +7392,47 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005295 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005295 "PECO:0005295"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005295 "9 days post inoculation"^^xsd:string)
 SubClassOf(obo:PECO_0005295 obo:PECO_0000122)
+
+# Class: obo:PECO_0005296 (+ tolnaftate)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005296 "An experimental condition in which tolnaftate was added to the experiment."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005296 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005296 "2023-06-07T13:55:16Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005296 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005296 "PECO:0005296"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005296 "+ tolnaftate"^^xsd:string)
+SubClassOf(obo:PECO_0005296 obo:PECO_0000109)
+
+# Class: obo:PECO_0005297 (+ fenpicoxamid)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005297 "An experimental condition in which fenpicoxamid was added to the experiment."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005297 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005297 "2023-06-07T13:55:16Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005297 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005297 "PECO:0005297"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005297 "+ fenpicoxamid"^^xsd:string)
+SubClassOf(obo:PECO_0005297 obo:PECO_0000109)
+
+# Class: obo:PECO_0005298 (+ polygalacturonic acid)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005298 "An experimental condition in which polygalacturonic acid was added to the experiment."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005298 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005298 "2023-06-07T13:55:16Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005298 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005298 "PECO:0005298"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005298 "+ polygalacturonic acid"^^xsd:string)
+SubClassOf(obo:PECO_0005298 obo:PECO_0000109)
+
+# Class: obo:PECO_0005299 (+ polygalacturonase inhibitor)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005299 "An experimental condition in which a polygalacturonase inhibitor was added to the experiment."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005299 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005299 "2023-06-07T13:55:16Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005299 "+ PG inhibitor"^^xsd:string)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005299 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005299 "PECO:0005299"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005299 "+ polygalacturonase inhibitor"^^xsd:string)
+SubClassOf(obo:PECO_0005299 obo:PECO_0000109)
 
 
 )
