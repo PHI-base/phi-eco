@@ -634,6 +634,7 @@ Declaration(Class(obo:PECO_0005296))
 Declaration(Class(obo:PECO_0005297))
 Declaration(Class(obo:PECO_0005298))
 Declaration(Class(obo:PECO_0005299))
+Declaration(Class(obo:PECO_0005300))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7433,6 +7434,16 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005299 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005299 "PECO:0005299"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005299 "+ polygalacturonase inhibitor"^^xsd:string)
 SubClassOf(obo:PECO_0005299 obo:PECO_0000109)
+
+# Class: obo:PECO_0005300 (+ arborcandin C)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005300 "An experimental condition in which arborcandin C was added to the experiment."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005300 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005300 "2023-06-21T12:23:11Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005300 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005300 "PECO:0005300"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005300 "+ arborcandin C"^^xsd:string)
+SubClassOf(obo:PECO_0005300 obo:PECO_0000109)
 
 
 )
