@@ -5143,7 +5143,7 @@ creation_date: 2021-01-27T11:24:28Z
 [Term]
 id: PECO:0005276
 name: 0.5 hours post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 0.5 hours post inoculation." []
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 0.5 hours (30 minutes) post inoculation." []
 synonym: "0.5 hpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
