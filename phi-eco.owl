@@ -918,7 +918,7 @@ AnnotationAssertion(oboInOwl:hasNarrowSynonym obo:PECO_0000015 "malt extract med
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000015 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasRelatedSynonym obo:PECO_0000015 "mating medium"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000015 "PECO:0000015"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0000015 "Use the medium terms to specify the general type of growth medium and its carbon source. 
+AnnotationAssertion(rdfs:comment obo:PECO_0000015 "Use the medium terms to specify the general type of growth medium and its carbon source.
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000015 "obsolete sporulation medium"^^xsd:string)
@@ -932,7 +932,7 @@ AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000016 "2012-02-07T12:51:06
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0000016 "high glucose minimal medium"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000016 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000016 "PECO:0000016"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0000016 "Use the medium terms to specify the general type of growth medium and its carbon source. 
+AnnotationAssertion(rdfs:comment obo:PECO_0000016 "Use the medium terms to specify the general type of growth medium and its carbon source.
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000016 "obsolete high glucose MM"^^xsd:string)
@@ -1545,7 +1545,7 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0000072 "glycerol main car
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0000072 "glycerol minimal medium with trace glucose"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000072 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000072 "PECO:0000072"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0000072 "Use the medium terms to specify the general type of growth medium and its carbon source. 
+AnnotationAssertion(rdfs:comment obo:PECO_0000072 "Use the medium terms to specify the general type of growth medium and its carbon source.
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000072 "obsolete glycerol MM with trace glucose"^^xsd:string)
@@ -1561,7 +1561,7 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0000073 "dihydroxyacetone 
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0000073 "dihydroxyactone minimal medium"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000073 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000073 "PECO:0000073"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0000073 "Use the medium terms to specify the general type of growth medium and its carbon source. 
+AnnotationAssertion(rdfs:comment obo:PECO_0000073 "Use the medium terms to specify the general type of growth medium and its carbon source.
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000073 "obsolete DHA minimal medium"^^xsd:string)
@@ -1653,7 +1653,7 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000081 "phenotype_conditi
 AnnotationAssertion(oboInOwl:hasRelatedSynonym obo:PECO_0000081 "low glucose YE"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasRelatedSynonym obo:PECO_0000081 "low glucose rich medium"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000081 "PECO:0000081"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0000081 "Use the medium terms to specify the general type of growth medium and its carbon source. 
+AnnotationAssertion(rdfs:comment obo:PECO_0000081 "Use the medium terms to specify the general type of growth medium and its carbon source.
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000081 "obsolete low glucose YES"^^xsd:string)
@@ -1907,7 +1907,7 @@ AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000104 "2012-05-11T02:53:00
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0000104 "low glucose minimal medium"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000104 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000104 "PECO:0000104"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0000104 "Use the medium terms to specify the general type of growth medium and its carbon source. 
+AnnotationAssertion(rdfs:comment obo:PECO_0000104 "Use the medium terms to specify the general type of growth medium and its carbon source.
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000104 "obsolete low glucose MM"^^xsd:string)
@@ -2283,7 +2283,7 @@ AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000136 "2012-06-14T20:32:52
 AnnotationAssertion(oboInOwl:hasBroadSynonym obo:PECO_0000136 "raffinose rich medium"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000136 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000136 "PECO:0000136"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0000136 "Use the medium terms to specify the general type of growth medium and its carbon source. 
+AnnotationAssertion(rdfs:comment obo:PECO_0000136 "Use the medium terms to specify the general type of growth medium and its carbon source.
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000136 "obsolete raffinose YE"^^xsd:string)
@@ -2317,7 +2317,7 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000139 "phenotype_conditi
 AnnotationAssertion(oboInOwl:hasRelatedSynonym obo:PECO_0000139 "glycerol + ethanol YE"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasRelatedSynonym obo:PECO_0000139 "glycerol and ethanol YE"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000139 "PECO:0000139"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0000139 "Use the medium terms to specify the general type of growth medium and its carbon source. 
+AnnotationAssertion(rdfs:comment obo:PECO_0000139 "Use the medium terms to specify the general type of growth medium and its carbon source.
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000139 "obsolete glycerol and ethanol rich medium"^^xsd:string)
@@ -2374,7 +2374,7 @@ AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000144 "2012-06-19T15:26:15
 AnnotationAssertion(oboInOwl:hasBroadSynonym obo:PECO_0000144 "sucrose rich medium"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000144 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000144 "PECO:0000144"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0000144 "Use the medium terms to specify the general type of growth medium and its carbon source. 
+AnnotationAssertion(rdfs:comment obo:PECO_0000144 "Use the medium terms to specify the general type of growth medium and its carbon source.
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000144 "obsolete sucrose YE"^^xsd:string)
@@ -2388,7 +2388,7 @@ AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000145 "2012-06-19T16:25:41
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0000145 "maltose minimal medium"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000145 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000145 "PECO:0000145"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0000145 "Use the medium terms to specify the general type of growth medium and its carbon source. 
+AnnotationAssertion(rdfs:comment obo:PECO_0000145 "Use the medium terms to specify the general type of growth medium and its carbon source.
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000145 "obsolete maltose MM"^^xsd:string)
@@ -2402,7 +2402,7 @@ AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000146 "2012-06-19T16:26:05
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0000146 "trehalose minimal medium"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000146 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000146 "PECO:0000146"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0000146 "Use the medium terms to specify the general type of growth medium and its carbon source. 
+AnnotationAssertion(rdfs:comment obo:PECO_0000146 "Use the medium terms to specify the general type of growth medium and its carbon source.
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000146 "obsolete trehalose MM"^^xsd:string)
@@ -2416,7 +2416,7 @@ AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000147 "2012-06-19T16:26:22
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0000147 "sucrose minimal medium"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000147 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000147 "PECO:0000147"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0000147 "Use the medium terms to specify the general type of growth medium and its carbon source. 
+AnnotationAssertion(rdfs:comment obo:PECO_0000147 "Use the medium terms to specify the general type of growth medium and its carbon source.
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000147 "obsolete sucrose MM"^^xsd:string)
@@ -2432,7 +2432,7 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0000148 "nonfermentable ga
 AnnotationAssertion(oboInOwl:hasNarrowSynonym obo:PECO_0000148 "YpGalA"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000148 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0000148 "PECO:0000148"^^xsd:string)
-AnnotationAssertion(rdfs:comment obo:PECO_0000148 "Use the medium terms to specify the general type of growth medium and its carbon source. 
+AnnotationAssertion(rdfs:comment obo:PECO_0000148 "Use the medium terms to specify the general type of growth medium and its carbon source.
 If certain chemicals not normally found in the medium were added, please also use the 'chemical added/excluded' terms, for instance 'caffeine added' or 'nitrogen excluded'.
  If a chemical was added in a much lower quantity than normal, please use the 'limited chemical added' conditions, for instance 'limited adenine added'."^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0000148 "obsolete galactose rich medium with trace glucose"^^xsd:string)
@@ -4451,7 +4451,7 @@ AnnotationAssertion(oboInOwl:created_by obo:PECO_0005002 "alaynecuzick"^^xsd:str
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005002 "2018-06-19T09:38:32Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005002 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(rdfs:comment obo:PECO_0005002 "Adapted from plant_experimental_conditions_ontology 'field study' PECO:0007256.
-Changed 
+Changed
 'The treatment where the plants were grown under field conditions. This may involve supplemental treatments in addition to any naturally occurring conditions.'
 to
 'The treatment where the organisms were grown under natural ecosystem conditions. This may involve supplemental treatments in addition to any naturally occurring conditions.'
