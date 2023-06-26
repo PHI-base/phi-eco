@@ -4713,7 +4713,7 @@ creation_date: 2020-01-14T14:17:20Z
 [Term]
 id: PECO:0005225
 name: 1 day post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 1 day post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 1 day post inoculation." []
 synonym: "1 dpi" EXACT []
 synonym: "24 hpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
@@ -4723,7 +4723,7 @@ creation_date: 2020-03-10T14:29:30Z
 [Term]
 id: PECO:0005226
 name: 2 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 2 days post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 2 days post inoculation." []
 synonym: "2 dpi" EXACT []
 synonym: "48 hpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
@@ -4733,7 +4733,7 @@ creation_date: 2020-03-10T14:30:09Z
 [Term]
 id: PECO:0005227
 name: 8 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 8 days post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 8 days post inoculation." []
 synonym: "8 dpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -4742,7 +4742,7 @@ creation_date: 2020-03-10T14:30:48Z
 [Term]
 id: PECO:0005228
 name: 14 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 14 days post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 14 days post inoculation." []
 synonym: "14 dpi" EXACT []
 synonym: "2 weeks post inoculation" EXACT []
 synonym: "2 wpi" EXACT []
@@ -4753,7 +4753,7 @@ creation_date: 2020-03-10T14:31:27Z
 [Term]
 id: PECO:0005229
 name: 13 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 13 days post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 13 days post inoculation." []
 synonym: "13 dpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -4762,7 +4762,7 @@ creation_date: 2020-03-10T14:32:30Z
 [Term]
 id: PECO:0005230
 name: 9 weeks post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 9 weeks post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 9 weeks post inoculation." []
 synonym: "9 wpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -4868,7 +4868,7 @@ creation_date: 2020-03-30T16:10:07Z
 [Term]
 id: PECO:0005245
 name: 3 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 3 days post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 3 days post inoculation." []
 synonym: "3 dpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -4877,7 +4877,7 @@ creation_date: 2020-03-30T16:17:01Z
 [Term]
 id: PECO:0005246
 name: 4 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 4 days post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 4 days post inoculation." []
 synonym: "4 dpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -4886,7 +4886,7 @@ creation_date: 2020-03-30T16:17:15Z
 [Term]
 id: PECO:0005247
 name: 5 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 5 days post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 5 days post inoculation." []
 synonym: "5 dpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -4895,7 +4895,7 @@ creation_date: 2020-03-30T16:17:32Z
 [Term]
 id: PECO:0005248
 name: 6 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 6 days post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 6 days post inoculation." []
 synonym: "6 dpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -4904,7 +4904,7 @@ creation_date: 2020-03-30T16:17:45Z
 [Term]
 id: PECO:0005249
 name: 7 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 7 days post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 7 days post inoculation." []
 synonym: "1 week post inoculation" EXACT []
 synonym: "1 wpi" EXACT []
 synonym: "7 dpi" EXACT []
@@ -4915,7 +4915,7 @@ creation_date: 2020-03-30T16:18:43Z
 [Term]
 id: PECO:0005250
 name: 10 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 10 days post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 10 days post inoculation." []
 synonym: "10 dpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -4924,7 +4924,7 @@ creation_date: 2020-03-30T16:19:16Z
 [Term]
 id: PECO:0005251
 name: 11 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 11 days post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 11 days post inoculation." []
 synonym: "11 dpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -4933,7 +4933,7 @@ creation_date: 2020-03-30T16:19:32Z
 [Term]
 id: PECO:0005252
 name: 12 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 12 days post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 12 days post inoculation." []
 synonym: "12 dpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -4942,7 +4942,7 @@ creation_date: 2020-03-30T16:19:51Z
 [Term]
 id: PECO:0005253
 name: 20 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 20 days post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 20 days post inoculation." []
 synonym: "20 dpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -5019,7 +5019,7 @@ creation_date: 2020-06-11T09:30:23Z
 [Term]
 id: PECO:0005262
 name: 22 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 22 days post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 22 days post inoculation." []
 synonym: "22 dpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -5028,7 +5028,7 @@ creation_date: 2020-06-11T09:31:17Z
 [Term]
 id: PECO:0005263
 name: 3 weeks post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 3 weeks post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 3 weeks post inoculation." []
 synonym: "21 dpi" EXACT []
 synonym: "3 wpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
@@ -5063,7 +5063,7 @@ creation_date: 2020-06-12T09:34:51Z
 [Term]
 id: PECO:0005267
 name: 12 hours post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 12 hours post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 12 hours post inoculation." []
 synonym: "0.5 dpi" EXACT []
 synonym: "12 hpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
@@ -5073,7 +5073,7 @@ creation_date: 2020-06-12T09:34:51Z
 [Term]
 id: PECO:0005268
 name: 30 hours post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 30 hours post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 30 hours post inoculation." []
 synonym: "30 hpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -5116,7 +5116,7 @@ creation_date: 2021-01-25T13:48:00Z
 [Term]
 id: PECO:0005273
 name: 2 hours post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 2 hours post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 2 hours post inoculation." []
 synonym: "2 hpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -5125,7 +5125,7 @@ creation_date: 2021-01-27T11:24:28Z
 [Term]
 id: PECO:0005274
 name: 4 hours post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 4 hours post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 4 hours post inoculation." []
 synonym: "4 hpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -5134,7 +5134,7 @@ creation_date: 2021-01-27T11:24:28Z
 [Term]
 id: PECO:0005275
 name: 1 hour post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 1 hour post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 1 hour post inoculation." []
 synonym: "1 hpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -5143,7 +5143,7 @@ creation_date: 2021-01-27T11:24:28Z
 [Term]
 id: PECO:0005276
 name: 0.5 hours post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 0.5 hours (30 minutes) post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 0.5 hours (30 minutes) post inoculation." []
 synonym: "0.5 hpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -5152,7 +5152,7 @@ creation_date: 2021-01-27T11:24:28Z
 [Term]
 id: PECO:0005277
 name: 0.25 hours post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 0.25 hours (15 minutes) post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 0.25 hours (15 minutes) post inoculation." []
 synonym: "0.25 hpi" EXACT []
 synonym: "15 minutes post inoculation" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
@@ -5207,7 +5207,7 @@ creation_date: 2021-03-19T12:42:48Z
 [Term]
 id: PECO:0005283
 name: 30 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 30 days post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 30 days post inoculation." []
 synonym: "30 dpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -5216,7 +5216,7 @@ creation_date: 2021-04-14T12:19:27Z
 [Term]
 id: PECO:0005284
 name: 16 hours post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 16 hours post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 16 hours post inoculation." []
 synonym: "16 hpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -5251,7 +5251,7 @@ creation_date: 2021-09-09T11:36:41Z
 [Term]
 id: PECO:0005288
 name: 11 hours post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 11 hours post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 11 hours post inoculation." []
 synonym: "11 hpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -5260,7 +5260,7 @@ creation_date: 2022-06-15T10:50:17Z
 [Term]
 id: PECO:0005289
 name: 20 hours post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 20 hours post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 20 hours post inoculation." []
 synonym: "20 hpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -5269,7 +5269,7 @@ creation_date: 2022-06-20T10:09:59Z
 [Term]
 id: PECO:0005290
 name: 3 hours post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 3 hours post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 3 hours post inoculation." []
 synonym: "3 hpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -5286,7 +5286,7 @@ creation_date: 2022-06-20T10:14:37Z
 [Term]
 id: PECO:0005292
 name: 10 hours post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 10 hours post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 10 hours post inoculation." []
 synonym: "10 hpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -5295,7 +5295,7 @@ creation_date: 2022-07-27T12:13:23Z
 [Term]
 id: PECO:0005293
 name: 40 hours post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 40 hours post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 40 hours post inoculation." []
 synonym: "40 hpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
@@ -5312,7 +5312,7 @@ creation_date: 2022-11-21T09:51:13Z
 [Term]
 id: PECO:0005295
 name: 9 days post inoculation
-def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 9 days post inoculation." []
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 9 days post inoculation." []
 synonym: "9 dpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 creation_date: 2022-11-22T10:28:49Z

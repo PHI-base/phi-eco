@@ -6678,7 +6678,7 @@ SubClassOf(obo:PECO_0005224 obo:PECO_0000080)
 
 # Class: obo:PECO_0005225 (1 day post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005225 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 1 day post inoculation.")
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005225 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 1 day post inoculation.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005225 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005225 "2020-03-10T14:29:30Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005225 "1 dpi")
@@ -6690,7 +6690,7 @@ SubClassOf(obo:PECO_0005225 obo:PECO_0000122)
 
 # Class: obo:PECO_0005226 (2 days post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005226 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 2 days post inoculation.")
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005226 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 2 days post inoculation.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005226 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005226 "2020-03-10T14:30:09Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005226 "2 dpi")
@@ -6701,7 +6701,7 @@ SubClassOf(obo:PECO_0005226 obo:PECO_0000122)
 
 # Class: obo:PECO_0005227 (8 days post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005227 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 8 days post inoculation.")
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005227 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 8 days post inoculation.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005227 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005227 "2020-03-10T14:30:48Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005227 "8 dpi")
@@ -6711,7 +6711,7 @@ SubClassOf(obo:PECO_0005227 obo:PECO_0000122)
 
 # Class: obo:PECO_0005228 (14 days post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005228 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 14 days post inoculation.")
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005228 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 14 days post inoculation.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005228 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005228 "2020-03-10T14:31:27Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005228 "14 dpi")
@@ -6723,7 +6723,7 @@ SubClassOf(obo:PECO_0005228 obo:PECO_0000122)
 
 # Class: obo:PECO_0005229 (13 days post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005229 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 13 days post inoculation.")
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005229 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 13 days post inoculation.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005229 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005229 "2020-03-10T14:32:30Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005229 "13 dpi")
@@ -6733,7 +6733,7 @@ SubClassOf(obo:PECO_0005229 obo:PECO_0000122)
 
 # Class: obo:PECO_0005230 (9 weeks post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005230 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 9 weeks post inoculation.")
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005230 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 9 weeks post inoculation.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005230 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005230 "2020-03-11T09:54:32Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005230 "9 wpi")
@@ -6852,7 +6852,7 @@ SubClassOf(obo:PECO_0005244 obo:PECO_0005239)
 
 # Class: obo:PECO_0005245 (3 days post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005245 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 3 days post inoculation.")
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005245 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 3 days post inoculation.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005245 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005245 "2020-03-30T16:17:01Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005245 "3 dpi")
@@ -6862,7 +6862,7 @@ SubClassOf(obo:PECO_0005245 obo:PECO_0000122)
 
 # Class: obo:PECO_0005246 (4 days post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005246 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 4 days post inoculation.")
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005246 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 4 days post inoculation.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005246 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005246 "2020-03-30T16:17:15Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005246 "4 dpi")
@@ -6872,7 +6872,7 @@ SubClassOf(obo:PECO_0005246 obo:PECO_0000122)
 
 # Class: obo:PECO_0005247 (5 days post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005247 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 5 days post inoculation.")
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005247 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 5 days post inoculation.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005247 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005247 "2020-03-30T16:17:32Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005247 "5 dpi")
@@ -6882,7 +6882,7 @@ SubClassOf(obo:PECO_0005247 obo:PECO_0000122)
 
 # Class: obo:PECO_0005248 (6 days post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005248 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 6 days post inoculation.")
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005248 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 6 days post inoculation.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005248 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005248 "2020-03-30T16:17:45Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005248 "6 dpi")
@@ -6892,7 +6892,7 @@ SubClassOf(obo:PECO_0005248 obo:PECO_0000122)
 
 # Class: obo:PECO_0005249 (7 days post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005249 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 7 days post inoculation.")
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005249 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 7 days post inoculation.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005249 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005249 "2020-03-30T16:18:43Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005249 "1 week post inoculation")
@@ -6904,7 +6904,7 @@ SubClassOf(obo:PECO_0005249 obo:PECO_0000122)
 
 # Class: obo:PECO_0005250 (10 days post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005250 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 10 days post inoculation.")
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005250 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 10 days post inoculation.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005250 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005250 "2020-03-30T16:19:16Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005250 "10 dpi")
@@ -6914,7 +6914,7 @@ SubClassOf(obo:PECO_0005250 obo:PECO_0000122)
 
 # Class: obo:PECO_0005251 (11 days post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005250 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 11 days post inoculation.")
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005250 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 11 days post inoculation.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005251 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005251 "2020-03-30T16:19:32Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005251 "11 dpi")
@@ -6924,7 +6924,7 @@ SubClassOf(obo:PECO_0005251 obo:PECO_0000122)
 
 # Class: obo:PECO_0005252 (12 days post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005252 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 12 days post inoculation.")
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005252 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 12 days post inoculation.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005252 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005252 "2020-03-30T16:19:51Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005252 "12 dpi")
@@ -6934,7 +6934,7 @@ SubClassOf(obo:PECO_0005252 obo:PECO_0000122)
 
 # Class: obo:PECO_0005253 (20 days post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005253 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 20 days post inoculation.")
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005253 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 20 days post inoculation.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005253 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005253 "2020-03-30T16:20:16Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005253 "20 dpi")
@@ -7028,7 +7028,7 @@ SubClassOf(obo:PECO_0005261 obo:PECO_0000120)
 
 # Class: obo:PECO_0005262 (22 days post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005262 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 22 days post inoculation."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005262 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 22 days post inoculation."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005262 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005262 "2020-06-11T09:31:17Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005262 "22 dpi"^^xsd:string)
@@ -7039,7 +7039,7 @@ SubClassOf(obo:PECO_0005262 obo:PECO_0000122)
 
 # Class: obo:PECO_0005263 (3 weeks post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005263 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 3 weeks post inoculation."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005263 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 3 weeks post inoculation."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005263 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005263 "2020-06-11T09:34:51Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005263 "21 dpi"^^xsd:string)
@@ -7082,7 +7082,7 @@ SubClassOf(obo:PECO_0005266 obo:PECO_0000109)
 
 # Class: obo:PECO_0005267 (12 hours post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005267 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 12 hours post inoculation."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005267 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 12 hours post inoculation."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005267 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005267 "2020-06-12T09:34:51Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005267 "0.5 dpi"^^xsd:string)
@@ -7094,7 +7094,7 @@ SubClassOf(obo:PECO_0005267 obo:PECO_0000122)
 
 # Class: obo:PECO_0005268 (30 hours post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005268 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 30 hours post inoculation."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005268 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 30 hours post inoculation."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005268 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005268 "2020-06-12T09:34:51Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005268 "30 hpi"^^xsd:string)
@@ -7147,7 +7147,7 @@ SubClassOf(obo:PECO_0005272 obo:PECO_0005233)
 
 # Class: obo:PECO_0005273 (2 hours post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005273 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 2 hours post inoculation."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005273 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 2 hours post inoculation."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005273 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005273 "2021-01-27T11:24:28Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005273 "2 hpi"^^xsd:string)
@@ -7158,7 +7158,7 @@ SubClassOf(obo:PECO_0005273 obo:PECO_0000122)
 
 # Class: obo:PECO_0005274 (4 hours post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005274 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 4 hours post inoculation."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005274 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 4 hours post inoculation."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005274 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005274 "2021-01-27T11:24:28Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005274 "4 hpi"^^xsd:string)
@@ -7169,7 +7169,7 @@ SubClassOf(obo:PECO_0005274 obo:PECO_0000122)
 
 # Class: obo:PECO_0005275 (1 hour post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005275 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 1 hour post inoculation."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005275 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 1 hour post inoculation."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005275 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005275 "2021-01-27T11:24:28Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005275 "1 hpi"^^xsd:string)
@@ -7180,7 +7180,7 @@ SubClassOf(obo:PECO_0005275 obo:PECO_0000122)
 
 # Class: obo:PECO_0005276 (0.5 hours post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005276 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 0.5 hours (30 minutes) post inoculation."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005276 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 0.5 hours (30 minutes) post inoculation."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005276 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005276 "2021-01-27T11:24:28Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005276 "0.5 hpi"^^xsd:string)
@@ -7191,7 +7191,7 @@ SubClassOf(obo:PECO_0005276 obo:PECO_0000122)
 
 # Class: obo:PECO_0005277 (0.25 hours post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005277 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 0.25 hours (15 minutes) post inoculation."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005277 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 0.25 hours (15 minutes) post inoculation."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005277 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005277 "2021-01-29T14:12:53Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005277 "0.25 hpi"^^xsd:string)
@@ -7258,7 +7258,7 @@ SubClassOf(obo:PECO_0005282 obo:PECO_0000109)
 
 # Class: obo:PECO_0005283 (30 days post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005283 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 30 days post inoculation."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005283 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 30 days post inoculation."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005283 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005283 "2021-04-14T12:19:27Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005283 "30 dpi"^^xsd:string)
@@ -7269,7 +7269,7 @@ SubClassOf(obo:PECO_0005283 obo:PECO_0000122)
 
 # Class: obo:PECO_0005284 (16 hours post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005284 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 16 hours post inoculation."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005284 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 16 hours post inoculation."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005284 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005284 "2021-04-20T10:51:14Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005284 "16 hpi"^^xsd:string)
@@ -7312,7 +7312,7 @@ SubClassOf(obo:PECO_0005287 obo:PECO_0000109)
 
 # Class: obo:PECO_0005288 (11 hours post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005288 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 11 hours post inoculation."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005288 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 11 hours post inoculation."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005288 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005288 "2022-06-15T10:50:17Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005288 "11 hpi"^^xsd:string)
@@ -7323,7 +7323,7 @@ SubClassOf(obo:PECO_0005288 obo:PECO_0000122)
 
 # Class: obo:PECO_0005289 (20 hours post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005289 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 20 hours post inoculation."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005289 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 20 hours post inoculation."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005289 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005289 "2022-06-20T10:09:59Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005289 "20 hpi"^^xsd:string)
@@ -7334,7 +7334,7 @@ SubClassOf(obo:PECO_0005289 obo:PECO_0000122)
 
 # Class: obo:PECO_0005290 (3 hours post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005290 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 3 hours post inoculation."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005290 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 3 hours post inoculation."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005290 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005290 "2022-06-20T10:10:39Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005290 "3 hpi"^^xsd:string)
@@ -7355,7 +7355,7 @@ SubClassOf(obo:PECO_0005291 obo:PECO_0005233)
 
 # Class: obo:PECO_0005292 (10 hours post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005292 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 10 hours post inoculation."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005292 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 10 hours post inoculation."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005292 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005292 "2022-07-27T12:13:23Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005292 "10 hpi"^^xsd:string)
@@ -7366,7 +7366,7 @@ SubClassOf(obo:PECO_0005292 obo:PECO_0000122)
 
 # Class: obo:PECO_0005293 (40 hours post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005293 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 40 hours post inoculation."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005293 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 40 hours post inoculation."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005293 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005293 "2022-07-27T12:13:23Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005293 "40 hpi"^^xsd:string)
@@ -7387,7 +7387,7 @@ SubClassOf(obo:PECO_0005294 obo:PECO_0000122)
 
 # Class: obo:PECO_0005295 (9 days post inoculation)
 
-AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005295 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 9 days post inoculation."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005295 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 9 days post inoculation."^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005295 "2022-11-22T10:28:49Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005295 "9 dpi"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005295 "phenotype_condition"^^xsd:string)
