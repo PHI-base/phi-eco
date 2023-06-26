@@ -6914,6 +6914,7 @@ SubClassOf(obo:PECO_0005250 obo:PECO_0000122)
 
 # Class: obo:PECO_0005251 (11 days post inoculation)
 
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005250 "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 11 days post inoculation.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005251 "alaynecuzick"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005251 "2020-03-30T16:19:32Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005251 "11 dpi")

@@ -4924,6 +4924,7 @@ creation_date: 2020-03-30T16:19:16Z
 [Term]
 id: PECO:0005251
 name: 11 days post inoculation
+def: "Host organisms were inoculated with a pathogen or pathogen derived construct and observed at 11 days post inoculation." []
 synonym: "11 dpi" EXACT []
 is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
