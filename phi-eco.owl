@@ -635,6 +635,7 @@ Declaration(Class(obo:PECO_0005297))
 Declaration(Class(obo:PECO_0005298))
 Declaration(Class(obo:PECO_0005299))
 Declaration(Class(obo:PECO_0005300))
+Declaration(Class(obo:PECO_0005301))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7445,6 +7446,16 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005300 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005300 "PECO:0005300"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005300 "+ arborcandin C"^^xsd:string)
 SubClassOf(obo:PECO_0005300 obo:PECO_0000109)
+
+# Class: obo:PECO_0005301 (+ pyrrolnitrin)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005301 "An experimental condition in which pyrrolnitrin was added to the experiment."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005301 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005301 "2023-06-27T14:44:04Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005301 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005301 "PECO:0005301"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005301 "+ pyrrolnitrin"^^xsd:string)
+SubClassOf(obo:PECO_0005301 obo:PECO_0000109)
 
 
 )
