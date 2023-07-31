@@ -636,6 +636,7 @@ Declaration(Class(obo:PECO_0005298))
 Declaration(Class(obo:PECO_0005299))
 Declaration(Class(obo:PECO_0005300))
 Declaration(Class(obo:PECO_0005301))
+Declaration(Class(obo:PECO_0005302))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7456,6 +7457,17 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005301 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005301 "PECO:0005301"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005301 "+ pyrrolnitrin"^^xsd:string)
 SubClassOf(obo:PECO_0005301 obo:PECO_0000109)
+
+# Class: obo:PECO_0005302 (16 days post inoculation)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005302 "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 16 days post inoculation."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005302 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005302 "2023-07-31T14:22:20Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005302 "16 dpi"^^xsd:string)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005302 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005302 "PECO:0005302"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005302 "16 days post inoculation"^^xsd:string)
+SubClassOf(obo:PECO_0005302 obo:PECO_0000122)
 
 
 )
