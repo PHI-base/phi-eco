@@ -5407,6 +5407,38 @@ is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2023-08-02T17:48:51Z
 
+[Term]
+id: PECO:0005307
+name: + myclobutanil
+def: "An experimental condition in which myclobutanil was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2023-08-05T13:03:34Z
+
+[Term]
+id: PECO:0005308
+name: + fluazinam
+def: "An experimental condition in which fluazinam was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2023-08-05T13:03:34Z
+
+[Term]
+id: PECO:0005309
+name: + thiram
+def: "An experimental condition in which thiram was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2023-08-05T13:03:34Z
+
+[Term]
+id: PECO:0005310
+name: + procymidone
+def: "An experimental condition in which procymidone was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2023-08-05T13:03:34Z
+
 [Typedef]
 id: part_of
 name: part_of

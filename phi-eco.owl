@@ -641,6 +641,10 @@ Declaration(Class(obo:PECO_0005303))
 Declaration(Class(obo:PECO_0005304))
 Declaration(Class(obo:PECO_0005305))
 Declaration(Class(obo:PECO_0005306))
+Declaration(Class(obo:PECO_0005307))
+Declaration(Class(obo:PECO_0005308))
+Declaration(Class(obo:PECO_0005309))
+Declaration(Class(obo:PECO_0005310))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7512,6 +7516,46 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005306 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005306 "PECO:0005306"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005306 "+ flumorph"^^xsd:string)
 SubClassOf(obo:PECO_0005306 obo:PECO_0000109)
+
+# Class: obo:PECO_0005307 (+ myclobutanil)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005307 "An experimental condition in which myclobutanil was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005307 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005307 "2023-08-05T13:03:34Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005307 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005307 "PECO:0005307"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005307 "+ myclobutanil"^^xsd:string)
+SubClassOf(obo:PECO_0005307 obo:PECO_0000109)
+
+# Class: obo:PECO_0005308 (+ fluazinam)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005308 "An experimental condition in which fluazinam was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005308 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005308 "2023-08-05T13:03:34Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005308 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005308 "PECO:0005308"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005308 "+ fluazinam"^^xsd:string)
+SubClassOf(obo:PECO_0005308 obo:PECO_0000109)
+
+# Class: obo:PECO_0005309 (+ thiram)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005309 "An experimental condition in which thiram was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005309 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005309 "2023-08-05T13:03:34Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005309 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005309 "PECO:0005309"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005309 "+ thiram"^^xsd:string)
+SubClassOf(obo:PECO_0005309 obo:PECO_0000109)
+
+# Class: obo:PECO_0005310 (+ procymidone)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005310 "An experimental condition in which procymidone was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005310 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005310 "2023-08-05T13:03:34Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005310 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005310 "PECO:0005310"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005310 "+ procymidone"^^xsd:string)
+SubClassOf(obo:PECO_0005310 obo:PECO_0000109)
 
 
 )
