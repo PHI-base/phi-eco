@@ -5439,6 +5439,30 @@ is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2023-08-05T13:03:34Z
 
+[Term]
+id: PECO:0005311
+name: + triflumizole
+def: "An experimental condition in which triflumizole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2023-08-10T12:05:45Z
+
+[Term]
+id: PECO:0005312
+name: + bitertanol
+def: "An experimental condition in which bitertanol was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2023-08-10T12:05:45Z
+
+[Term]
+id: PECO:0005313
+name: + pyrifenox
+def: "An experimental condition in which pyrifenox was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2023-08-10T12:05:45Z
+
 [Typedef]
 id: part_of
 name: part_of

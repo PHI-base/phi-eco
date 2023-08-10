@@ -645,6 +645,9 @@ Declaration(Class(obo:PECO_0005307))
 Declaration(Class(obo:PECO_0005308))
 Declaration(Class(obo:PECO_0005309))
 Declaration(Class(obo:PECO_0005310))
+Declaration(Class(obo:PECO_0005311))
+Declaration(Class(obo:PECO_0005312))
+Declaration(Class(obo:PECO_0005313))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7556,6 +7559,36 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005310 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005310 "PECO:0005310"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005310 "+ procymidone"^^xsd:string)
 SubClassOf(obo:PECO_0005310 obo:PECO_0000109)
+
+# Class: obo:PECO_0005311 (+ triflumizole)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005311 "An experimental condition in which triflumizole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005311 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005311 "2023-08-10T12:05:45Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005311 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005311 "PECO:0005311"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005311 "+ triflumizole"^^xsd:string)
+SubClassOf(obo:PECO_0005311 obo:PECO_0000109)
+
+# Class: obo:PECO_0005312 (+ bitertanol)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005312 "An experimental condition in which bitertanol was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005312 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005312 "2023-08-10T12:05:45Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005312 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005312 "PECO:0005312"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005312 "+ bitertanol"^^xsd:string)
+SubClassOf(obo:PECO_0005312 obo:PECO_0000109)
+
+# Class: obo:PECO_0005313 (+ pyrifenox)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005313 "An experimental condition in which pyrifenox was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005313 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005313 "2023-08-10T12:05:45Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005313 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005313 "PECO:0005313"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005313 "+ pyrifenox"^^xsd:string)
+SubClassOf(obo:PECO_0005313 obo:PECO_0000109)
 
 
 )
