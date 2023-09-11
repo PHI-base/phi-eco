@@ -648,6 +648,7 @@ Declaration(Class(obo:PECO_0005310))
 Declaration(Class(obo:PECO_0005311))
 Declaration(Class(obo:PECO_0005312))
 Declaration(Class(obo:PECO_0005313))
+Declaration(Class(obo:PECO_0005314))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7589,6 +7590,16 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005313 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005313 "PECO:0005313"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005313 "+ pyrifenox"^^xsd:string)
 SubClassOf(obo:PECO_0005313 obo:PECO_0000109)
+
+# Class: obo:PECO_0005314 (+ prothioconazole)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005314 "An experimental condition in which prothioconazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005314 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005314 "2023-09-11T11:50:08Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005314 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005314 "PECO:0005314"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005314 "+ prothioconazole"^^xsd:string)
+SubClassOf(obo:PECO_0005314 obo:PECO_0000109)
 
 
 )
