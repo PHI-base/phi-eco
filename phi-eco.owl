@@ -650,6 +650,7 @@ Declaration(Class(obo:PECO_0005312))
 Declaration(Class(obo:PECO_0005313))
 Declaration(Class(obo:PECO_0005314))
 Declaration(Class(obo:PECO_0005315))
+Declaration(Class(obo:PECO_0005316))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7611,6 +7612,16 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005315 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005315 "PECO:0005315"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005315 "+ fluopyram"^^xsd:string)
 SubClassOf(obo:PECO_0005315 obo:PECO_0000109)
+
+# Class: obo:PECO_0005316 (+ kresoxim-methyl)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005316 "An experimental condition in which kresoxim-methyl was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005316 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005316 "2023-09-28T11:07:06Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005316 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005316 "PECO:0005316"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005316 "+ kresoxim-methyl"^^xsd:string)
+SubClassOf(obo:PECO_0005316 obo:PECO_0000109)
 
 
 )

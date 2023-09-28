@@ -5479,6 +5479,14 @@ is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2023-09-27T09:40:29Z
 
+[Term]
+id: PECO:0005316
+name: + kresoxim-methyl
+def: "An experimental condition in which kresoxim-methyl was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2023-09-28T11:07:06Z
+
 [Typedef]
 id: part_of
 name: part_of
