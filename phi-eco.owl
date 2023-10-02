@@ -652,6 +652,7 @@ Declaration(Class(obo:PECO_0005314))
 Declaration(Class(obo:PECO_0005315))
 Declaration(Class(obo:PECO_0005316))
 Declaration(Class(obo:PECO_0005317))
+Declaration(Class(obo:PECO_0005318))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7633,6 +7634,16 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005317 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005317 "PECO:0005317"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005317 "+ isopyrazam"^^xsd:string)
 SubClassOf(obo:PECO_0005317 obo:PECO_0000109)
+
+# Class: obo:PECO_0005318 (+ bixafen)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005318 "An experimental condition in which bixafen was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005318 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005318 "2023-10-02T14:48:47Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005318 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005318 "PECO:0005318"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005318 "+ bixafen"^^xsd:string)
+SubClassOf(obo:PECO_0005318 obo:PECO_0000109)
 
 
 )
