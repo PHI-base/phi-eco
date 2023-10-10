@@ -5512,6 +5512,15 @@ is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
 creation_date: 2023-10-02T10:46:15Z
 
+[Term]
+id: PECO:0005320
+name: 25 days post inoculation
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 25 days post inoculation." []
+synonym: "25 dpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2023-10-10T12:20:53Z
+
 [Typedef]
 id: part_of
 name: part_of
