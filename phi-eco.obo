@@ -5521,6 +5521,14 @@ is_a: PECO:0000122 ! grouping growth timing
 created_by: alaynecuzick
 creation_date: 2023-10-10T12:20:53Z
 
+[Term]
+id: PECO:0005321
+name: + pyrimorph
+def: "An experimental condition in which pyrimorph was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2023-10-10T15:37:03Z
+
 [Typedef]
 id: part_of
 name: part_of
