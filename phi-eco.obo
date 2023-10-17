@@ -5529,6 +5529,15 @@ is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2023-10-10T15:37:03Z
 
+[Term]
+id: PECO:0005322
+name: 15 days post inoculation
+def: "Media or host organisms were inoculated with a pathogen or pathogen derived construct and observed at 15 days post inoculation." []
+synonym: "15 dpi" EXACT []
+is_a: PECO:0000122 ! grouping growth timing
+created_by: alaynecuzick
+creation_date: 2023-10-17T12:24:25Z
+
 [Typedef]
 id: part_of
 name: part_of
