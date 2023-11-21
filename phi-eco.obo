@@ -5546,6 +5546,14 @@ is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2023-11-21T10:43:45Z
 
+[Term]
+id: PECO:0005324
+name: + phenamacril
+def: "An experimental condition in which phenamacril was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2023-11-21T12:08:04Z
+
 [Typedef]
 id: part_of
 name: part_of
