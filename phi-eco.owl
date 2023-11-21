@@ -657,6 +657,7 @@ Declaration(Class(obo:PECO_0005319))
 Declaration(Class(obo:PECO_0005320))
 Declaration(Class(obo:PECO_0005321))
 Declaration(Class(obo:PECO_0005322))
+Declaration(Class(obo:PECO_0005323))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7691,6 +7692,16 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005322 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005322 "PECO:0005322"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005322 "15 days post inoculation"^^xsd:string)
 SubClassOf(obo:PECO_0005322 obo:PECO_0000122)
+
+# Class: obo:PECO_0005323 (+ fenpiclonil)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005323 "An experimental condition in which fenpiclonil was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005323 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005323 "2023-11-21T10:43:45Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005323 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005323 "PECO:0005323"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005323 "+ fenpiclonil"^^xsd:string)
+SubClassOf(obo:PECO_0005323 obo:PECO_0000109)
 
 
 )
