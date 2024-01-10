@@ -5563,6 +5563,14 @@ is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2023-12-04T14:19:57Z
 
+[Term]
+id: PECO:0005326
+name: + metconazole
+def: "An experimental condition in which metconazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2024-01-10T15:25:20Z
+
 [Typedef]
 id: part_of
 name: part_of
