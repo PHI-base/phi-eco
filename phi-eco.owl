@@ -661,6 +661,7 @@ Declaration(Class(obo:PECO_0005323))
 Declaration(Class(obo:PECO_0005324))
 Declaration(Class(obo:PECO_0005325))
 Declaration(Class(obo:PECO_0005326))
+Declaration(Class(obo:PECO_0005327))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7737,6 +7738,16 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005326 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005326 "PECO:0005326")
 AnnotationAssertion(rdfs:label obo:PECO_0005326 "+ metconazole")
 SubClassOf(obo:PECO_0005326 obo:PECO_0000109)
+
+# Class: obo:PECO_0005327 (+ trifloxystrobin)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005327 "An experimental condition in which trifloxystrobin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005327 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005327 "2024-01-22T12:34:17Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005327 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005327 "PECO:0005327"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005327 "+ trifloxystrobin"^^xsd:string)
+SubClassOf(obo:PECO_0005327 obo:PECO_0000109)
 
 
 )
