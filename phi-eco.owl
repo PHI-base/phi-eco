@@ -7750,7 +7750,7 @@ AnnotationAssertion(oboInOwl:id obo:PECO_0005327 "PECO:0005327"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005327 "+ trifloxystrobin"^^xsd:string)
 SubClassOf(obo:PECO_0005327 obo:PECO_0000109)
 
-# Class: obo:PECO_0005328 ( + paraquat)
+# Class: obo:PECO_0005328 (+ paraquat)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005328 "An experimental condition in which paraquat was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005328 "alaynecuzick"^^xsd:string)
@@ -7758,7 +7758,7 @@ AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005328 "2024-01-23T11:22:56
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005328 "15 dpi"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005328 "phenotype_condition"^^xsd:string)
 AnnotationAssertion(oboInOwl:id obo:PECO_0005328 "PECO:0005328"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:PECO_0005328 " + paraquat"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005328 "+ paraquat"^^xsd:string)
 SubClassOf(obo:PECO_0005328 obo:PECO_0000109)
 
 
