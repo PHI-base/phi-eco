@@ -5589,6 +5589,38 @@ is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2024-01-23T11:22:56Z
 
+[Term]
+id: PECO:0005329
+name: + flusilazole
+def: "An experimental condition in which flusilazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2024-01-30T14:31:07Z
+
+[Term]
+id: PECO:0005330
+name: + mandipropamid
+def: "An experimental condition in which mandipropamid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2024-01-30T14:31:07Z
+
+[Term]
+id: PECO:0005331
+name: + dimethomorph
+def: "An experimental condition in which dimethomorph was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2024-01-30T14:31:07Z
+
+[Term]
+id: PECO:0005332
+name: + iprovalicarb
+def: "An experimental condition in which iprovalicarb was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2024-01-30T14:31:07Z
+
 [Typedef]
 id: part_of
 name: part_of

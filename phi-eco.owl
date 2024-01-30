@@ -663,6 +663,10 @@ Declaration(Class(obo:PECO_0005325))
 Declaration(Class(obo:PECO_0005326))
 Declaration(Class(obo:PECO_0005327))
 Declaration(Class(obo:PECO_0005328))
+Declaration(Class(obo:PECO_0005329))
+Declaration(Class(obo:PECO_0005330))
+Declaration(Class(obo:PECO_0005331))
+Declaration(Class(obo:PECO_0005332))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7760,6 +7764,46 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005328 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005328 "PECO:0005328"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005328 "+ paraquat"^^xsd:string)
 SubClassOf(obo:PECO_0005328 obo:PECO_0000109)
+
+# Class: obo:PECO_0005329 (+ flusilazole)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005329 "An experimental condition in which flusilazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005329 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005329 "2024-01-30T14:31:07Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005329 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005329 "PECO:0005329"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005329 "+ flusilazole"^^xsd:string)
+SubClassOf(obo:PECO_0005329 obo:PECO_0000109)
+
+# Class: obo:PECO_0005330 (+ mandipropamid)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005330 "An experimental condition in which mandipropamid was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005330 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005330 "2024-01-30T14:31:07Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005330 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005330 "PECO:0005330"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005330 "+ mandipropamid"^^xsd:string)
+SubClassOf(obo:PECO_0005330 obo:PECO_0000109)
+
+# Class: obo:PECO_0005331 (+ dimethomorph)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005331 "An experimental condition in which dimethomorph was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005331 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005331 "2024-01-30T14:31:07Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005331 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005331 "PECO:0005331"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005331 "+ dimethomorph"^^xsd:string)
+SubClassOf(obo:PECO_0005331 obo:PECO_0000109)
+
+# Class: obo:PECO_0005332 (+ iprovalicarb)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005332 "An experimental condition in which iprovalicarb was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005332 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005332 "2024-01-30T14:31:07Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005332 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005332 "PECO:0005332"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005332 "+ iprovalicarb"^^xsd:string)
+SubClassOf(obo:PECO_0005332 obo:PECO_0000109)
 
 
 )
