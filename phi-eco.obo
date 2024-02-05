@@ -5621,6 +5621,14 @@ is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2024-01-30T14:31:07Z
 
+[Term]
+id: PECO:0005333
+name: + dalfopristin
+def: "An experimental condition in which dalfopristin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2024-02-05T09:44:03Z
+
 [Typedef]
 id: part_of
 name: part_of
