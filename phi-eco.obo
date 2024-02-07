@@ -5629,6 +5629,30 @@ is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2024-02-05T09:44:03Z
 
+[Term]
+id: PECO:0005334
+name: + thifluzamide
+def: "An experimental condition in which thifluzamide was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2024-02-07T11:32:41Z
+
+[Term]
+id: PECO:0005335
+name: + penflufen
+def: "An experimental condition in which penflufen was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2024-02-07T11:32:41Z
+
+[Term]
+id: PECO:0005336
+name: + flutolanil
+def: "An experimental condition in which flutolanil was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2024-02-07T11:32:41Z
+
 [Typedef]
 id: part_of
 name: part_of

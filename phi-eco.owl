@@ -668,6 +668,9 @@ Declaration(Class(obo:PECO_0005330))
 Declaration(Class(obo:PECO_0005331))
 Declaration(Class(obo:PECO_0005332))
 Declaration(Class(obo:PECO_0005333))
+Declaration(Class(obo:PECO_0005334))
+Declaration(Class(obo:PECO_0005335))
+Declaration(Class(obo:PECO_0005336))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7815,6 +7818,36 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005333 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005333 "PECO:0005333"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005333 "+ dalfopristin"^^xsd:string)
 SubClassOf(obo:PECO_0005333 obo:PECO_0000109)
+
+# Class: obo:PECO_0005334 (+ thifluzamide)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005334 "An experimental condition in which thifluzamide was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005334 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005334 "2024-02-07T11:32:41Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005334 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005334 "PECO:0005334"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005334 "+ thifluzamide"^^xsd:string)
+SubClassOf(obo:PECO_0005334 obo:PECO_0000109)
+
+# Class: obo:PECO_0005335 (+ penflufen)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005335 "An experimental condition in which penflufen was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005335 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005335 "2024-02-07T11:32:41Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005335 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005335 "PECO:0005335"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005335 "+ penflufen"^^xsd:string)
+SubClassOf(obo:PECO_0005335 obo:PECO_0000109)
+
+# Class: obo:PECO_0005336 (+ flutolanil)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005336 "An experimental condition in which flutolanil was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005336 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005336 "2024-02-07T11:32:41Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005336 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005336 "PECO:0005336"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005336 "+ flutolanil"^^xsd:string)
+SubClassOf(obo:PECO_0005336 obo:PECO_0000109)
 
 
 )
