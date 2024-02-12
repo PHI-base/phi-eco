@@ -671,6 +671,7 @@ Declaration(Class(obo:PECO_0005333))
 Declaration(Class(obo:PECO_0005334))
 Declaration(Class(obo:PECO_0005335))
 Declaration(Class(obo:PECO_0005336))
+Declaration(Class(obo:PECO_0005337))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7848,6 +7849,16 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005336 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005336 "PECO:0005336"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005336 "+ flutolanil"^^xsd:string)
 SubClassOf(obo:PECO_0005336 obo:PECO_0000109)
+
+# Class: obo:PECO_0005337 (+ imazalil)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005337 "An experimental condition in which imazalil was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005337 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005337 "2024-02-12T10:06:44Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005337 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005337 "PECO:0005337"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005337 "+ imazalil"^^xsd:string)
+SubClassOf(obo:PECO_0005337 obo:PECO_0000109)
 
 
 )
