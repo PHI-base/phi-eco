@@ -672,6 +672,8 @@ Declaration(Class(obo:PECO_0005334))
 Declaration(Class(obo:PECO_0005335))
 Declaration(Class(obo:PECO_0005336))
 Declaration(Class(obo:PECO_0005337))
+Declaration(Class(obo:PECO_0005338))
+Declaration(Class(obo:PECO_0005339))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7859,6 +7861,26 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005337 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005337 "PECO:0005337"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005337 "+ imazalil"^^xsd:string)
 SubClassOf(obo:PECO_0005337 obo:PECO_0000109)
+
+# Class: obo:PECO_0005338 (+ ipconazole)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005338 "An experimental condition in which ipconazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005338 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005338 "2024-03-18T13:26:37Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005338 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005338 "PECO:0005338"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005338 "+ ipconazole"^^xsd:string)
+SubClassOf(obo:PECO_0005338 obo:PECO_0000109)
+
+# Class: obo:PECO_0005339 (+ cyprodinil)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005339 "An experimental condition in which cyprodinil was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005339 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005339 "2024-03-18T13:26:37Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005339 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005339 "PECO:0005339"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005339 "+ cyprodinil"^^xsd:string)
+SubClassOf(obo:PECO_0005339 obo:PECO_0000109)
 
 
 )

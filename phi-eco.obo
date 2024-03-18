@@ -5661,6 +5661,22 @@ is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2024-02-12T10:06:44Z
 
+[Term]
+id: PECO:0005338
+name: + ipconazole
+def: "An experimental condition in which ipconazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2024-03-18T13:26:37Z
+
+[Term]
+id: PECO:0005339
+name: + cyprodinil
+def: "An experimental condition in which cyprodinil was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2024-03-18T13:26:37Z
+
 [Typedef]
 id: part_of
 name: part_of
