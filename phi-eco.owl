@@ -674,6 +674,9 @@ Declaration(Class(obo:PECO_0005336))
 Declaration(Class(obo:PECO_0005337))
 Declaration(Class(obo:PECO_0005338))
 Declaration(Class(obo:PECO_0005339))
+Declaration(Class(obo:PECO_0005340))
+Declaration(Class(obo:PECO_0005341))
+Declaration(Class(obo:PECO_0005342))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7881,6 +7884,36 @@ AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005339 "phenotype_conditi
 AnnotationAssertion(oboInOwl:id obo:PECO_0005339 "PECO:0005339"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:PECO_0005339 "+ cyprodinil"^^xsd:string)
 SubClassOf(obo:PECO_0005339 obo:PECO_0000109)
+
+# Class: obo:PECO_0005340 (+ caspofungin)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005340 "An experimental condition in which caspofungin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005340 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005340 "2024-03-27T11:45:27Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005340 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005340 "PECO:0005340"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005340 "+ caspofungin"^^xsd:string)
+SubClassOf(obo:PECO_0005340 obo:PECO_0000109)
+
+# Class: obo:PECO_0005341 (+ terbinafine)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005341 "An experimental condition in which terbinafine was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005341 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005341 "2024-03-27T11:45:27Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005341 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005341 "PECO:0005341"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005341 "+ terbinafine"^^xsd:string)
+SubClassOf(obo:PECO_0005341 obo:PECO_0000109)
+
+# Class: obo:PECO_0005342 (+ bifonazole)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005342 "An experimental condition in which bifonazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism."^^xsd:string)
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005342 "alaynecuzick"^^xsd:string)
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005342 "2024-03-27T11:45:27Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005342 "phenotype_condition"^^xsd:string)
+AnnotationAssertion(oboInOwl:id obo:PECO_0005342 "PECO:0005342"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:PECO_0005342 "+ bifonazole"^^xsd:string)
+SubClassOf(obo:PECO_0005342 obo:PECO_0000109)
 
 
 )

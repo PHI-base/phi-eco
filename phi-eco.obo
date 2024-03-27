@@ -5677,6 +5677,30 @@ is_a: PECO:0000109 ! grouping excess
 created_by: alaynecuzick
 creation_date: 2024-03-18T13:26:37Z
 
+[Term]
+id: PECO:0005340
+name: + caspofungin
+def: "An experimental condition in which caspofungin was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2024-03-27T11:45:27Z
+
+[Term]
+id: PECO:0005341
+name: + terbinafine
+def: "An experimental condition in which terbinafine was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2024-03-27T11:45:27Z
+
+[Term]
+id: PECO:0005342
+name: + bifonazole
+def: "An experimental condition in which bifonazole was added to the medium, assay buffer or organism in excess compared to standard medium, assay buffers or quantities present within the organism." []
+is_a: PECO:0000109 ! grouping excess
+created_by: alaynecuzick
+creation_date: 2024-03-27T11:45:27Z
+
 [Typedef]
 id: part_of
 name: part_of
