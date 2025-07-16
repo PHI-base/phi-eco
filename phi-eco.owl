@@ -7955,14 +7955,15 @@ AnnotationAssertion(rdfs:comment obo:PECO_0005345 "Agmatine is usually added to 
 AnnotationAssertion(rdfs:label obo:PECO_0005345 "+ agmatine")
 SubClassOf(obo:PECO_0005345 obo:PECO_0000011)
 
-# Class: obo:PECO_0005346 (delivery mechanism: pathogen gene expressed by recombinant potato virus X (PVX))
+# Class: obo:PECO_0005346 (delivery mechanism: pathogen gene expressed by recombinant potato virus X)
 
 AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005346 "The treatment involving study type in which pathogen gene products were transiently or stably expressed in the host using a recombinant potato virus X (PVX) vector.")
 AnnotationAssertion(oboInOwl:created_by obo:PECO_0005346 "changh")
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005346 "2025-07-14T00:00:00Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0005346 "delivery mechanism: pathogen gene expressed by recombinant PVX")
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005346 "phenotype_condition")
 AnnotationAssertion(oboInOwl:id obo:PECO_0005346 "PECO:0005346")
-AnnotationAssertion(rdfs:label obo:PECO_0005346 "delivery mechanism: pathogen gene expressed by recombinant potato virus X (PVX)")
+AnnotationAssertion(rdfs:label obo:PECO_0005346 "delivery mechanism: pathogen gene expressed by recombinant potato virus X")
 SubClassOf(obo:PECO_0005346 obo:PECO_0005233)
 
 

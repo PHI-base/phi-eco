@@ -5734,8 +5734,9 @@ creation_date: 2025-05-07T00:00:00Z
 
 [Term]
 id: PECO:0005346
-name: delivery mechanism: pathogen gene expressed by recombinant potato virus X (PVX)
+name: delivery mechanism: pathogen gene expressed by recombinant potato virus X
 def: "The treatment involving study type in which pathogen gene products were transiently or stably expressed in the host using a recombinant potato virus X (PVX) vector." []
+synonym: "delivery mechanism: pathogen gene expressed by recombinant PVX" EXACT []
 is_a: PECO:0005233 ! grouping delivery mechanism
 created_by: changh
 creation_date: 2025-07-14T00:00:00Z
