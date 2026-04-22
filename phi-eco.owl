@@ -4815,7 +4815,7 @@ AnnotationAssertion(oboInOwl:created_by obo:PECO_0005029 "alaynecuzick")
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005029 "2019-02-27T10:59:19Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005029 "phenotype_condition")
 AnnotationAssertion(rdfs:label obo:PECO_0005029 "heterologous species: tobacco"@en)
-SubClassOf(obo:PECO_0005029 obo:PECO_0005001)
+SubClassOf(obo:PECO_0005029 obo:PECO_0005259)
 
 # Class: obo:PECO_0005030 (obsolete host assay in leaf)
 
@@ -7975,7 +7975,7 @@ AnnotationAssertion(oboInOwl:created_by obo:PECO_0005347 "Hsinyugithub")
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005347 "2026-04-22T12:03:00Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005347 "phenotype_condition")
 AnnotationAssertion(rdfs:label obo:PECO_0005347 "heterologous species: Nicotiana benthamiana"@en)
-SubClassOf(obo:PECO_0005347 obo:PECO_0005001)
+SubClassOf(obo:PECO_0005347 obo:PECO_0005259)
 
 # Class: obo:PECO_0005348 (heterologous species: Arabidopsis thaliana)
 
@@ -7984,6 +7984,7 @@ AnnotationAssertion(oboInOwl:created_by obo:PECO_0005348 "Hsinyugithub")
 AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005348 "2026-04-22T12:39:00Z"^^xsd:dateTime)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005348 "phenotype_condition")
 AnnotationAssertion(rdfs:label obo:PECO_0005348 "heterologous species: Arabidopsis thaliana"@en)
-SubClassOf(obo:PECO_0005348 obo:PECO_0005001)
+SubClassOf(obo:PECO_0005348 obo:PECO_0005259)
+
 
 )
