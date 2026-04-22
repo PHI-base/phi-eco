@@ -682,6 +682,7 @@ Declaration(Class(obo:PECO_0005344))
 Declaration(Class(obo:PECO_0005345))
 Declaration(Class(obo:PECO_0005346))
 Declaration(Class(obo:PECO_0005347))
+Declaration(Class(obo:PECO_0005348))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/OBO_REL#_part_of>))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000231))
@@ -7975,5 +7976,14 @@ AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005347 "2026-04-22T12:03:00
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005347 "phenotype_condition")
 AnnotationAssertion(rdfs:label obo:PECO_0005347 "heterologous species: Nicotiana benthamiana"@en)
 SubClassOf(obo:PECO_0005347 obo:PECO_0005001)
+
+# Class: obo:PECO_0005348 (heterologous species: Arabidopsis thaliana)
+
+AnnotationAssertion(obo:IAO_0000115 obo:PECO_0005348 "The treatment involving study type in which organisms or gene products were assayed in a heterologous host species Arabidopsis thaliana.")
+AnnotationAssertion(oboInOwl:created_by obo:PECO_0005348 "Hsinyugithub")
+AnnotationAssertion(oboInOwl:creation_date obo:PECO_0005348 "2026-04-22T12:39:00Z"^^xsd:dateTime)
+AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0005348 "phenotype_condition")
+AnnotationAssertion(rdfs:label obo:PECO_0005348 "heterologous species: Arabidopsis thaliana"@en)
+SubClassOf(obo:PECO_0005348 obo:PECO_0005001)
 
 )
