@@ -5757,6 +5757,14 @@ is_a: PECO:0005259 ! heterologous host species
 created_by: Hsinyugithub
 creation_date: 2026-04-22T12:39:00Z
 
+[Term]
+id: PECO:0005349
+name: + ETI inducer PVX-CP
+def: "An experimental condition in which PVX-CP (coat protein of Potato virus X) was added to the experiment to induce effector triggered immunity (ETI) in the host." []
+is_a: PECO:0000109 ! grouping excess
+created_by: Hsinyugithub
+creation_date: 2026-06-16T13:55:52Z
+
 [Typedef]
 id: part_of
 name: part_of
