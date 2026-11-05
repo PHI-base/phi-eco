@@ -5765,6 +5765,33 @@ is_a: PECO:0000109 ! grouping excess
 created_by: Hsinyugithub
 creation_date: 2026-06-16T13:55:52Z
 
+[Term]
+id: PECO:0005350
+name: + sucrose
+def: "An experimental condition in which sucrose was added to the medium or assay buffer in excess compared to standard medium or assay buffers." []
+synonym: "+ saccharose" EXACT []
+is_a: PECO:0000109 ! grouping excess
+created_by: Hsinyugithub
+creation_date: 2026-11-05T12:23:27Z
+
+[Term]
+id: PECO:0005351
+name: + fructose
+def: "An experimental condition in which a fructose was added to the medium or assay buffer in excess compared to standard medium or assay buffers." []
+synonym: "+ fruit sugar" EXACT []
+is_a: PECO:0000109 ! grouping excess
+created_by: Hsinyugithub
+creation_date: 2026-11-05T12:23:31Z
+
+[Term]
+id: PECO:0005352
+name: + acetic acid
+def: "An experimental condition in which acetic acid was added to the medium or assay buffer in excess compared to standard medium or assay buffers." []
+synonym: "+ ethanoic acid" EXACT []
+is_a: PECO:0000109 ! grouping excess
+created_by: Hsinyugithub
+creation_date: 2026-11-05T12:23:32Z
+
 [Typedef]
 id: part_of
 name: part_of
