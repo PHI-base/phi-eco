@@ -1604,7 +1604,7 @@ id: PECO:0000176
 name: + ethylenediaminetetraacetic acid
 def: "An experimental condition in which ethylenediaminetetraacetic acid (EDTA) was added to the medium or assay buffer in excess compared to standard medium or assay buffers." []
 synonym: "EDTA added" EXACT []
-is_a: PECO:0000109 ! grouping excess
+is_a: PECO:0005352 ! + acetic acid
 created_by: antonialock
 creation_date: 2012-09-12T13:58:30Z
 
@@ -2377,7 +2377,7 @@ creation_date: 2014-08-06T10:43:17Z
 id: PECO:0000267
 name: + naphthaleneacetic acid
 def: "An experimental condition in which naphthaleneacetic acid was added to the medium or assay buffer in excess compared to standard medium or assay buffers." []
-is_a: PECO:0000109 ! grouping excess
+is_a: PECO:0005352 ! + acetic acid
 created_by: antonialock
 creation_date: 2014-09-04T16:21:32Z
 

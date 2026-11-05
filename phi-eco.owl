@@ -2798,7 +2798,7 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:PECO_0000176 "EDTA added")
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000176 "phenotype_condition")
 AnnotationAssertion(oboInOwl:id obo:PECO_0000176 "PECO:0000176")
 AnnotationAssertion(rdfs:label obo:PECO_0000176 "+ ethylenediaminetetraacetic acid")
-SubClassOf(obo:PECO_0000176 obo:PECO_0000109)
+SubClassOf(obo:PECO_0000176 obo:PECO_0005352)
 
 # Class: obo:PECO_0000177 (+ limited zinc)
 
@@ -3755,7 +3755,7 @@ AnnotationAssertion(oboInOwl:creation_date obo:PECO_0000267 "2014-09-04T16:21:32
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:PECO_0000267 "phenotype_condition")
 AnnotationAssertion(oboInOwl:id obo:PECO_0000267 "PECO:0000267")
 AnnotationAssertion(rdfs:label obo:PECO_0000267 "+ naphthaleneacetic acid")
-SubClassOf(obo:PECO_0000267 obo:PECO_0000109)
+SubClassOf(obo:PECO_0000267 obo:PECO_0005352)
 
 # Class: obo:PECO_0000268 (+ trichostatin A)
 
